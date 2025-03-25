@@ -1,4 +1,6 @@
 # 💫 About Me:
+<h1 align="center">Hi 👋, I'm Nishat</h1>
+<h3 align="center">A student from bangladesh</h3>
 A web app to manage class schedules with an interactive and editable<br>Coding projects, web development, and problem-solving challenges.<br>Improving my Python skills and learning better software development practices.<br>Python, C programming, and discrete mathematics and  (DSA).<br>Coding, tech research, and creative problem-solving.<br>I have a passion for researching technology and coding, always exploring new innovations.<br><br><br><br><br><br><br><br>
 
 
