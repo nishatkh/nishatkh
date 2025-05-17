@@ -102,4 +102,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=nishatkh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F58C&center=true&vCenter=true&width=435&lines=Always+Learning+Something+New!;Building+Real-World+Apps+with+APIs!;Loving+AI%2C+IoT%2C+and+Clean+Code!" />
+</p>
