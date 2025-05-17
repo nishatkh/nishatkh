@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&height=80&lines=🔥+Turning+Ideas+into+Impactful+Projects!" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Md. Nahidur Rahman Khan Nishat</h1>
 <h3 align="center">A passionate tech explorer and problem solver from Bangladesh 🇧🇩</h3>
 
