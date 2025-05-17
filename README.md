@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&height=80&lines=🔥+Turning+Ideas+into+Impactful+Projects!" />
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80" alt="Tech Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Nahidur Rahman Khan Nishat</h1>
