@@ -6,6 +6,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&height=50&lines=🔥+Turning+Ideas+into+Impactful+Projects!;🌐+Exploring+the+Future+of+AI+and+IoT!;🎯+Focused+on+Smart+Solutions+for+Real+Problems!" />
+</p>
 
 # 💫 About Me:
 <p>
