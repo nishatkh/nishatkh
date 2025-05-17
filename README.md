@@ -1,7 +1,45 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Nishat</h1>
-<h3 align="center">A student from bangladesh</h3>
-A web app to manage class schedules with an interactive and editable<br>Coding projects, web development, and problem-solving challenges.<br>Improving my Python skills and learning better software development practices.<br>Python, C programming, and discrete mathematics and  (DSA).<br>Coding, tech research, and creative problem-solving.<br>I have a passion for researching technology and coding, always exploring new innovations.<br><br><br><br><br><br><br><br>
+  <p>
+    I'm <strong>Md. Nahidur Rahman Khan Nishat</strong>, a passionate tech enthusiast and student of
+    <strong>Computing and Information Systems</strong> at <strong>Daffodil International University</strong>,
+    majoring in <strong>AI in IoT</strong>.
+  </p>
+
+  <p>
+    🔍 I’m deeply interested in how technology can solve real-life problems — especially using
+    <strong>AI</strong>, <strong>IoT</strong>, and <strong>web development</strong>.
+  </p>
+
+  <h3>💡 Currently working on:</h3>
+  <ul>
+    <li>🚀 A <strong>Tutor-Finding Web App</strong> to connect students with tutors in Bangladesh.</li>
+    <li>🤖 A <strong>GPT-powered University Chatbot</strong> that answers questions about departments, campus life, and admissions.</li>
+  </ul>
+
+  <h3>🛠️ Tech I'm Exploring:</h3>
+  <ul>
+    <li>Frontend: React.js, Tailwind CSS</li>
+    <li>Backend: Node.js, Express.js</li>
+    <li>Database: Firebase, PostgreSQL</li>
+    <li>AI Integration: OpenAI API</li>
+    <li>Tools: Git, GitHub, Google Maps API</li>
+  </ul>
+
+  <p>
+    📚 Always learning something new — from building smarter apps to understanding how AI and IoT shape our future.
+  </p>
+
+  <p>
+    🎯 My goal? To build smart, helpful, and impactful digital solutions that make life easier for others.
+  </p>
+</div>
+
+<style>
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+</style>
 
 
 ## 🌐 Socials:
