@@ -15,8 +15,8 @@
 </p>
 
 <p>
-  🔍 I’m deeply interested in how technology can solve real-life problems — especially using
-  <strong>AI</strong>, <strong>IoT</strong>, and <strong>web development</strong>.
+  🔍 I’m deeply interested in how technology can solve real-life problems especially using
+  <strong>AI</strong> and <strong>IoT</strong>.
 </p>
 
 <h3>💡 Currently Working On:</h3>
@@ -35,7 +35,7 @@
 </ul>
 
 <p>
-  📚 Always learning something new — from building smarter apps to understanding how AI and IoT shape our future.
+  📚 Always learning something new from building smarter apps to understanding how AI and IoT shape our future.
 </p>
 
 <p>
