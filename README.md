@@ -1,4 +1,9 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=nishatkh&data=followers,repositories,stars,commits&theme=rgb)](https://github.com/nishatkh/github-widgetbox)<br/>
+<p align="center">
+  <a href="https://github.com/nishatkh/github-widgetbox" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=nishatkh&data=followers,repositories,stars,commits&theme=rgb" alt="GitHub WidgetBox" />
+  </a>
+</p>
+
 <h2 align="center"> Assalamu Alaikum, I'm Md. Nahidur Rahman Khan Nishat</h2>
 
 ---
