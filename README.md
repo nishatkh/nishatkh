@@ -11,7 +11,7 @@
 <h3>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="25" height="25" />About Me:
 </h3>
-  I'm <strong>Md. Nahidur Rahman Khan Nishat</strong>, a passionate tech enthusiast and student of
+ A passionate tech enthusiast and student of
   <strong>Computing and Information Systems</strong> at <strong>Daffodil International University</strong>,
   majoring in <strong>AI in IoT</strong>.
 </p>
