@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://github.com/nishatkh/github-widgetbox" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=nishatkh&data=followers,repositories,stars,commits&theme=rgb" alt="GitHub WidgetBox" />
-  </a>
-</p>
+
 
 <h2 align="center"> Assalamu Alaikum, I'm Md. Nahidur Rahman Khan Nishat</h2>
 
@@ -15,6 +11,7 @@
   <strong>Computing and Information Systems</strong> at <strong>Daffodil International University</strong>,
   majoring in <strong>AI in IoT</strong>.
 </p>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=nishatkh&data=followers,repositories,stars,commits&theme=rgb)](https://github.com/nishatkh/github-widgetbox)<br/>
 <p>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Magnifying Glass Tilted Left" width="25" height="25" /> I’m deeply interested in how technology can solve real-life problems especially using
   <strong>AI</strong> and <strong>IoT</strong>.
