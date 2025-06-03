@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://i.postimg.cc/SRNyjngX/freepik-crypto-facebook-cover-55024-20250603082956-Rd-Mo.png" alt="Banner" />
+</p>
 
 <h2 align="center"> Assalamu Alaikum, I'm Md. Nahidur Rahman Khan Nishat</h2>
 
