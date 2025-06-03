@@ -179,7 +179,11 @@ Building a platform for students and developers to learn secure coding and colla
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F58C&center=true&vCenter=true&width=435&lines=Always+Learning+Something+New!;Building+Real-World+Apps+with+APIs!;Loving+AI%2C+IoT%2C+and+Clean+Code!" />
 </p>
-## Thanks for Visiting!
+
+<p align="center" style="font-family: 'Fira Code', monospace; color: #00F58C; font-size: 18px; margin-top: 10px;">
+  Thanks for visiting!
+</p>
+
 
 ![Thank You](https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif)
 
