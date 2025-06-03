@@ -2,10 +2,7 @@
 <h2 align="center">Hi 👋, I'm Md. Nahidur Rahman Khan Nishat</h2>
 <h3 align="center">A passionate tech explorer and problem solver from Bangladesh 🇧🇩</h3>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
-</p>
-
+<a href="https://app.daily.dev/nishatkhan"><img src="https://api.daily.dev/devcards/v2/BaEWvP6oaOQTuIocTZ4vl.png?type=wide&r=i23" width="652" alt="Nishat khan's Dev Card"/></a>
 ---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&height=50&lines=🔥+Turning+Ideas+into+Impactful+Projects!;🌐+Exploring+the+Future+of+AI+and+IoT!;🎯+Focused+on+Smart+Solutions+for+Real+Problems!" />
