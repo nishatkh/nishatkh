@@ -7,24 +7,24 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&height=50&lines=🔥+Turning+Ideas+into+Impactful+Projects!;🌐+Exploring+the+Future+of+AI+and+IoT!;🎯+Focused+on+Smart+Solutions+for+Real+Problems!" />
 </p>
 
-# :star2: About Me:
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Child%20Light%20Skin%20Tone.png" alt="Child Light Skin Tone" width="25" height="25" />About Me:
 <p>
   I'm <strong>Md. Nahidur Rahman Khan Nishat</strong>, a passionate tech enthusiast and student of
   <strong>Computing and Information Systems</strong> at <strong>Daffodil International University</strong>,
   majoring in <strong>AI in IoT</strong>.
 </p>
 <p>
-  🔍 I’m deeply interested in how technology can solve real-life problems especially using
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Magnifying Glass Tilted Left" width="25" height="25" /> I’m deeply interested in how technology can solve real-life problems especially using
   <strong>AI</strong> and <strong>IoT</strong>.
 </p>
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="25" height="25" /> Currently Working On:</h3>
 <ul>
-  <li>🚀 <strong>Tutor-Finding Web App</strong> to connect students with tutors in Bangladesh.</li>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Right%20Anger%20Bubble.png" alt="Right Anger Bubble" width="25" height="25" /> <strong>Tutor-Finding Web App</strong> to connect students with tutors in Bangladesh.</li>
   <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> <strong>GPT-powered University Chatbot</strong> that answers questions about departments, campus life, and admissions.</li>
 </ul>
 
-<h3>🛠️ Tech I'm Exploring:</h3>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> Tech I'm Exploring:</h3>
 <ul>
   <li>Frontend: React.js, Tailwind CSS</li>
   <li>Backend: Node.js, Express.js</li>
@@ -34,16 +34,16 @@
 </ul>
 
 <p>
-  📚 Always learning something new from building smarter apps to understanding how AI and IoT shape our future.
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Right%20Anger%20Bubble.png" alt="Right Anger Bubble" width="25" height="25" />Always learning something new from building smarter apps to understanding how AI and IoT shape our future.
 </p>
 
 <p>
-  🎯 My goal? To build smart, helpful, and impactful digital solutions that make life easier for others.
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" alt="Hundred Points" width="25" height="25" /> My goal? To build smart, helpful, and impactful digital solutions that make life easier for others.
 </p>
 
 ---
 
-## 🌐 Connect with Me:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Connect with Me:
 <p align="left">
   <a href="mailto:nishatkhan8u@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.facebook.com/profile.php?id=100053457121891"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
@@ -53,7 +53,7 @@
 
 ---
 
-# 💻 Tech Stack:
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Tech Stack:
 <p align="left">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -81,7 +81,7 @@
 
 ---
 
-# 📊 GitHub Stats:
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" />GitHub Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nishatkh&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
   <br />
@@ -92,7 +92,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="1st Place Medal" width="25" height="25" />GitHub Trophies
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=nishatkh&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
