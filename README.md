@@ -13,8 +13,6 @@
   <strong>Computing and Information Systems</strong> at <strong>Daffodil International University</strong>,
   majoring in <strong>AI in IoT</strong>.
 </p>
- <float left><a href="https://app.daily.dev/nishatkhan"><img src="https://api.daily.dev/devcards/v2/BaEWvP6oaOQTuIocTZ4vl.png?type=wide&r=i23" width="652" alt="Nishat khan's Dev Card"/></a>
-</float>
 <p>
   🔍 I’m deeply interested in how technology can solve real-life problems especially using
   <strong>AI</strong> and <strong>IoT</strong>.
