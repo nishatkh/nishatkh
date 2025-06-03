@@ -2,7 +2,7 @@
   <img src="https://i.postimg.cc/SRNyjngX/freepik-crypto-facebook-cover-55024-20250603082956-Rd-Mo.png" alt="Banner" />
 </p>
 
-<h2 align="center"> Assalamu Alaikum, I'm Md. Nahidur Rahman Khan Nishat</h2>
+<h2 align="center"> Assalamu Alaikum, I'm Nishat</h2>
 
 ---
 <p align="center" style="font-family: 'Fira Code', monospace; color: #8A2BE2; max-width: 600px; margin: 20px auto; font-size: 18px; line-height: 1.5;"> <strong>Legends are made by hard work and never giving up.</strong><br><br> When things get hard, they keep trying. Every mistake is a chance to learn and grow.<br><br> <em>“Keep working, stay strong, and your story will inspire others.”</em> </p>
