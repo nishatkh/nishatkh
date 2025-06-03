@@ -2,7 +2,6 @@
 <h2 align="center">Hi 👋, I'm Md. Nahidur Rahman Khan Nishat</h2>
 <h3 align="center">A passionate tech explorer and problem solver from Bangladesh 🇧🇩</h3>
 
-<a href="https://app.daily.dev/nishatkhan"><img src="https://api.daily.dev/devcards/v2/BaEWvP6oaOQTuIocTZ4vl.png?type=wide&r=i23" width="652" alt="Nishat khan's Dev Card"/></a>
 ---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&height=50&lines=🔥+Turning+Ideas+into+Impactful+Projects!;🌐+Exploring+the+Future+of+AI+and+IoT!;🎯+Focused+on+Smart+Solutions+for+Real+Problems!" />
@@ -13,6 +12,8 @@
   I'm <strong>Md. Nahidur Rahman Khan Nishat</strong>, a passionate tech enthusiast and student of
   <strong>Computing and Information Systems</strong> at <strong>Daffodil International University</strong>,
   majoring in <strong>AI in IoT</strong>.
+  <float><a href="https://app.daily.dev/nishatkhan"><img src="https://api.daily.dev/devcards/v2/BaEWvP6oaOQTuIocTZ4vl.png?type=wide&r=i23" width="652" alt="Nishat khan's Dev Card"/></a>
+</float>
 </p>
 
 <p>
