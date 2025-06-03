@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Md. Nahidur Rahman Khan Nishat</h1>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=nishatkh&data=followers,repositories,stars,commits&theme=red_samurai)](https://github.com/nishatkh/github-widgetbox) |  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=nishatkh&data=followers,repositories,stars,commits&theme=rgb)](https://github.com/nishatkh/github-widgetbox)<br/>
+<h2 align="center">Hi 👋, I'm Md. Nahidur Rahman Khan Nishat</h2>
 <h3 align="center">A passionate tech explorer and problem solver from Bangladesh 🇧🇩</h3>
 
 <p align="center">
