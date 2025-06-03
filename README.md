@@ -182,13 +182,12 @@ Building a platform for students and developers to learn secure coding and colla
 
 <p align="center" style="font-family: 'Fira Code', monospace; color: #00F58C; font-size: 18px; margin-top: 10px;">
   Thanks for visiting!
-  
-  ![Thank You](https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif)
-
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" alt="Thank You" />
+</p>
 
-![Thank You](https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif)
 
 
 
