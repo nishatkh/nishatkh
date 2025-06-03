@@ -18,20 +18,63 @@
   <strong>AI</strong> and <strong>IoT</strong>.
 </p>
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="25" height="25" /> Currently Working On:</h3>
-<ul>
-  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Right%20Anger%20Bubble.png" alt="Right Anger Bubble" width="25" height="25" /> <strong>Tutor-Finding Web App</strong> to connect students with tutors in Bangladesh.</li>
-  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> <strong>GPT-powered University Chatbot</strong> that answers questions about departments, campus life, and admissions.</li>
-</ul>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="25" height="25" /> Currently Working On</h3>
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> Tech I'm Exploring:</h3>
-<ul>
-  <li>Frontend: React.js, Tailwind CSS</li>
-  <li>Backend: Node.js, Express.js</li>
-  <li>Database: Firebase</li>
-  <li>AI Integration: OpenAI API</li>
-  <li>Tools: Git, GitHub, Google Maps API</li>
-</ul>
+### 🔵Tutor-Finding Web App
+A location-based web platform designed to connect students with trusted tutors across Bangladesh.  
+- **Tech Stack:** React.js, Node.js, Firebase, Tailwind CSS, Google Maps API  
+- **Key Features:**  
+  - Student-tutor matching  
+  - Profile creation  
+  - Subject/location filters  
+  - Session booking system  
+- **Goal:** Make tutoring more accessible and organized for students and teachers.
+
+---
+
+### 🤖 Robot GPT – University Chatbot
+An AI-driven chatbot that provides instant answers about university departments, campus life, and admissions.  
+- **Tech Stack:** React.js, Node.js, OpenAI GPT API  
+- **Core Functions:**  
+  - Natural language question answering  
+  - Department and course info lookup  
+  - 24/7 automated student support  
+- **Goal:** Enhance student experience through AI-powered assistance.
+
+---
+
+### 🟢 Class Routine Manager – CIS Department Web App
+A dynamic web app for managing class schedules for the Department of CIS.  
+- **Tech Stack:** React.js, Tailwind CSS, Firebase  
+- **Features:**  
+  - Add/edit classes  
+  - Assign teachers to sections/batches  
+  - Dark theme UI with responsive design  
+- **Purpose:** Help admins and faculty maintain and update schedules easily.
+
+---
+
+### 🟣 Reality Engine: AI in Action – Book Project
+Writing a book that explores how AI solves real-world problems in healthcare, education, and beyond.  
+- **Highlights:**  
+  - Real-life case studies  
+  - Ethical and practical insights  
+  - Written for students, educators, and tech enthusiasts  
+- **Goal:** Make AI knowledge accessible and inspiring.
+
+---
+
+### 🟠 SecureCodex – Tech & Coding Knowledge Hub
+Building a platform for students and developers to learn secure coding and collaborate on tech projects.  
+- **Components:**  
+  - Coding tutorials  
+  - AI-assisted learning tools  
+  - Cybersecurity awareness content  
+  - Forum for discussion and help  
+- **Goal:** Promote secure development and peer learning.
+
+---
+
 
 <p>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Right%20Anger%20Bubble.png" alt="Right Anger Bubble" width="25" height="25" />Always learning something new from building smarter apps to understanding how AI and IoT shape our future.
