@@ -28,7 +28,7 @@
 <ul>
   <li>Frontend: React.js, Tailwind CSS</li>
   <li>Backend: Node.js, Express.js</li>
-  <li>Database: Firebase, PostgreSQL</li>
+  <li>Database: Firebase</li>
   <li>AI Integration: OpenAI API</li>
   <li>Tools: Git, GitHub, Google Maps API</li>
 </ul>
