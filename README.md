@@ -2,7 +2,7 @@
 <h3 align="center">A passionate tech explorer and problem solver from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="developer gif">
+  <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
 </p>
 
 ---
