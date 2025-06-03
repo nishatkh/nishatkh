@@ -18,10 +18,10 @@
   <strong>AI</strong> and <strong>IoT</strong>.
 </p>
 
-<h3>💡 Currently Working On:</h3>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="25" height="25" /> Currently Working On:</h3>
 <ul>
   <li>🚀 <strong>Tutor-Finding Web App</strong> to connect students with tutors in Bangladesh.</li>
-  <li>🤖 <strong>GPT-powered University Chatbot</strong> that answers questions about departments, campus life, and admissions.</li>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> <strong>GPT-powered University Chatbot</strong> that answers questions about departments, campus life, and admissions.</li>
 </ul>
 
 <h3>🛠️ Tech I'm Exploring:</h3>
