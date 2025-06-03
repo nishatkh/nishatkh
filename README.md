@@ -3,7 +3,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&height=50&lines=🔥+Turning+Ideas+into+Impactful+Projects!;🌐+Exploring+the+Future+of+AI+and+IoT!;🎯+Focused+on+Smart+Solutions+for+Real+Problems!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1200&color=8A2BE2&center=true&vCenter=true&width=500&height=50&lines=“Legends+aren’t+born,+they’re+built+through+passion+and+persistence.”;“Dream+big,+work+hard,+make+it+legendary.”;“Every+code+line+written+is+a+step+toward+greatness.”" />
 </p>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="25" height="25" /> About Me:
