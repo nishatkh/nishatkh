@@ -2,9 +2,7 @@
 <h2 align="center"> Assalamu Alaikum, I'm Md. Nahidur Rahman Khan Nishat</h2>
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1200&color=8A2BE2&center=true&vCenter=true&width=500&height=50&lines=“Legends+aren’t+born,+they’re+built+through+passion+and+persistence.”;“Dream+big,+work+hard,+make+it+legendary.”;“Every+code+line+written+is+a+step+toward+greatness.”" />
-</p>
+<p align="center" style="font-family: 'Fira Code', monospace; color: #8A2BE2; max-width: 600px; margin: 20px auto; font-size: 18px; line-height: 1.5;"> <strong>Legends are not defined by fame or fortune, but by the relentless courage to pursue their dreams against all odds.</strong><br><br> Every challenge faced, every failure endured, and every late night spent perfecting their craft is a step closer to greatness. True legends inspire others not because they never fall, but because they always rise.<br><br> <em>“Build your legacy through passion, perseverance, and purpose — and let your story light the way for those who follow.”</em> </p>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="25" height="25" /> About Me:
 <p>
