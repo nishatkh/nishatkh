@@ -75,6 +75,9 @@ Building a platform for students and developers to learn secure coding and colla
   - Forum for discussion and help  
 - **Goal:** Promote secure development and peer learning.
 
+<p align="center">
+  <img src="https://pin.it/4EJwrAtjC" alt="Banner" />
+</p>
 ---
 
 
