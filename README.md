@@ -26,8 +26,8 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Right%20Anger%20Bubble.png" alt="Right Anger Bubble" width="25" height="25" />Always learning something new from building smarter apps to understanding how AI and IoT shape our future.
 </p>
  <p align="center">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/050/950/883/original/vitalik-egorov-enemy3attack.gif?1656158639" height="120" style="margin-right:20px;">
   <img src="https://cdnb.artstation.com/p/assets/images/images/050/949/277/original/vitalik-egorov-heroattack.gif?1656075638" height="120" style="margin-left:20px;">
+    <img src="https://cdnb.artstation.com/p/assets/images/images/050/950/883/original/vitalik-egorov-enemy3attack.gif?1656158639" height="120" style="margin-right:20px;">
 </p>
 
 
