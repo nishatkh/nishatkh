@@ -8,8 +8,10 @@
   <p align="right">
   <img src="https://i.pinimg.com/originals/46/11/5e/46115e7881c064b90903e3fe0f42f75e.gif"height="120"/>
 </p>
-  
 </div>
+ <p align="right">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/050/950/883/original/vitalik-egorov-enemy3attack.gif?1656158639"height="120"/>
+</p>
 <p align="center" style="font-family: 'Fira Code', monospace; color: #8A2BE2; max-width: 600px; margin: 20px auto; font-size: 18px; line-height: 1.5;"> <strong>Legends are made by hard work and never giving up.</strong><br><br> When things get hard, they keep trying. Every mistake is a chance to learn and grow.<br><br> <em>“Keep working, stay strong, and your story will inspire others.”</em> </p>
 <p align ="right">
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40"/>
