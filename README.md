@@ -1,11 +1,4 @@
-<p align="center">
-  <picture>
-    <source media="(max-width: 600px)" srcset="https://images.steamusercontent.com/ugc/15692039870819097328/5EB558F41DBA53EFFD9A493463795738A06F77B0/?imw=400&imh=225&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
-    <img src="https://images.steamusercontent.com/ugc/15692039870819097328/5EB558F41DBA53EFFD9A493463795738A06F77B0/?imw=1000&imh=562&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" 
-         alt="GitHub Banner"
-         style="width: 100%; max-width: 1000px; height: auto; border-radius: 10px;">
-  </picture>
-</p>
+
 
   <p align="center">
   <img src="https://i.pinimg.com/originals/46/11/5e/46115e7881c064b90903e3fe0f42f75e.gif"height="120"/>
