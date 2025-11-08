@@ -17,6 +17,9 @@
   <strong>Computing and Information Systems</strong> at <strong>Daffodil International University</strong>,
   majoring in <strong>AI in IoT</strong>.
 </p>
+<p align="center">
+  <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwHmtyn-leY2pwY44nFLzZ-w" />
+</p>
 <p>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Magnifying Glass Tilted Left" width="25" height="25" /> I’m deeply interested in how technology can solve real-life problems especially using
   <strong>AI</strong> and <strong>IoT</strong>.
