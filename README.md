@@ -126,7 +126,7 @@
   />
 </picture>
 <p align="center">
-  <img src="https://i.redd.it/lcy6r7t9nmve1.gif" />
+  <img src="https://i.postimg.cc/RZTB1S6h/lcy6r7t9nmve1.gif" />
 </p>
 
 <p align="center">
