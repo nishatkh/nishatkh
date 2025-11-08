@@ -1,6 +1,6 @@
-[![dfq0co7-ee8f85f7-33ea-4ad0-baf4-ead495e572f3.gif](https://i.postimg.cc/ZRF2mCJg/dfq0co7-ee8f85f7-33ea-4ad0-baf4-ead495e572f3.gif)](https://postimg.cc/8JctBkJB)
+
 <p align="center">
-  <img src="https://i.pinimg.com/originals/10/45/e0/1045e0141aadc7fc057260054ac8a451.gif" width="1000">
+  <img src="https://i.pinimg.com/originals/01/e9/79/01e979e7ea349aa25f784e56b36a62eb.gif" width="1000">
 </p>
 <p align="center" style="font-family: 'Fira Code', monospace; color: #8A2BE2; max-width: 600px; margin: 20px auto; font-size: 18px; line-height: 1.5;"> <strong>Legends are made by hard work and never giving up.</strong><br><br> When things get hard, they keep trying. Every mistake is a chance to learn and grow.<br><br> <em>“Keep working, stay strong, and your story will inspire others.”</em> </p>
 <p align ="center">
