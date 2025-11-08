@@ -136,7 +136,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" alt="Thank You" />
+  <img src="https://i.pinimg.com/originals/0e/4d/93/0e4d93c2f91c111aeffaf79bef3ec5de.gif" alt="Thank You" />
 </p>
 
 
