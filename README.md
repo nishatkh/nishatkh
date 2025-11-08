@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://static.wixstatic.com/media/63390e_339880ec41ee46c7ae8c635c299784a6~mv2.gif" 
+    src="https://i.pinimg.com/originals/06/e3/51/06e3517591c806009ce9a8d9fc8e457a.gif" 
     alt="GitHub Ultra Wide Banner" 
     width="1000" 
   />
