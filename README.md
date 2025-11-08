@@ -92,19 +92,19 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=nishatkh&data=followers,repositories,stars,commits&theme=rgb)](https://github.com/nishatkh/github-widgetbox)<br/>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" />GitHub Stats:
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nishatkh&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
   <br />
   <img src="https://nirzak-streak-stats.vercel.app/?user=nishatkh&theme=dark&hide_border=false" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishatkh&theme=dark&hide_border=false&layout=compact" />
 </p>
-<p align="left">
+<p align="center">
   <img src="https://image.myanimelist.net/ui/9UmuGx9tAo49eFyYrYsSWN8WQxPr2IrYRCcg4q-vYF9l79Bn27As1cyXgBPzxJk1U7D6GhSB0ivnQefTZFOPzT1gKiu07yR6npSiTzsMa5r81fK8v4IO_Ggs0Qtsv7olHgr3E5SZBlCa-1TLFR2u76nWCdeFM5A9jqBv0lGBrdeK2_Pm0YjLE-g1eeb454-o" />
 </p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="1st Place Medal" width="25" height="25" />GitHub Trophies
-<p align="left">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nishatkh&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
