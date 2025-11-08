@@ -84,7 +84,7 @@
  <h3>IDEs</h3>
 
  ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black) ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)  ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
- <p align="center">
+ <p align="left">
   <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwHmtyn-leY2pwY44nFLzZ-w" />
 </p>
 
@@ -100,7 +100,7 @@
 </p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="1st Place Medal" width="25" height="25" />GitHub Trophies
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=nishatkh&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
