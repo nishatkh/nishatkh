@@ -91,7 +91,7 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=nishatkh&data=followers,repositories,stars,commits&theme=rgb)](https://github.com/nishatkh/github-widgetbox)<br/>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" />GitHub Stats:
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nishatkh&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
   <br />
   <img src="https://nirzak-streak-stats.vercel.app/?user=nishatkh&theme=dark&hide_border=false" />
@@ -108,15 +108,15 @@
 
 [![](https://visitcount.itsvg.in/api?id=nishatkh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&width=435&lines=Always+Learning+Something+New!;Loving+AI%2C+IoT%2C+and+Clean+Code!" />
 </p>
 
-<p align="left" style="font-family: 'Fira Code', monospace; color: #00F58C; font-size: 18px; margin-top: 10px;">
+<p align="center" style="font-family: 'Fira Code', monospace; color: #00F58C; font-size: 18px; margin-top: 10px;">
   Thanks for visiting!
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://i.pinimg.com/originals/0e/4d/93/0e4d93c2f91c111aeffaf79bef3ec5de.gif" alt="Thank You" />
 </p>
 
