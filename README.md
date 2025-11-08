@@ -9,7 +9,10 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </p>
-<h1 align="center">𝓐𝓼𝓼𝓪𝓵𝓪𝓶𝓾 𝓐𝓵𝓪𝓲𝓴𝓾𝓶, 𝓘'𝓶 <span style="color:#00C2FF;">𝓝𝓲𝓼𝓱𝓪𝓽</span></h1>
+<p align="center">
+  <img src="https://your-uploaded-gif-link.gif" alt="Animated Greeting" width="800">
+</p>
+
 <h3>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="25" height="25" />About Me:
 </h3>
