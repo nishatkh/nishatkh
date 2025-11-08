@@ -1,11 +1,6 @@
 <p align="center">
-  <img 
-    src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c13c0d2f-1bc2-47e5-b959-70aaa89f724d/dfq0co7-ee8f85f7-33ea-4ad0-baf4-ead495e572f3.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jMTNjMGQyZi0xYmMyLTQ3ZTUtYjk1OS03MGFhYTg5ZjcyNGQvZGZxMGNvNy1lZThmODVmNy0zM2VhLTRhZDAtYmFmNC1lYWQ0OTVlNTcyZjMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vI2aD4IwANEsMUxQeZxbbSzkqH7sMRQgFom3EeWlno0" 
-    alt="GitHub Ultra Wide Banner" 
-    width="1000" 
-  />
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c13c0d2f-1bc2-47e5-b959-70aaa89f724d/dfq0co7-ee8f85f7-33ea-4ad0-baf4-ead495e572f3.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jMTNjMGQyZi0xYmMyLTQ3ZTUtYjk1OS03MGFhYTg5ZjcyNGQvZGZxMGNvNy1lZThmODVmNy0zM2VhLTRhZDAtYmFmNC1lYWQ0OTVlNTcyZjMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vI2aD4IwANEsMUxQeZxbbSzkqH7sMRQgFom3EeWlno0" alt="GitHub Ultra Wide Banner" width="1000">
 </p>
-
 <p align="center" style="font-family: 'Fira Code', monospace; color: #8A2BE2; max-width: 600px; margin: 20px auto; font-size: 18px; line-height: 1.5;"> <strong>Legends are made by hard work and never giving up.</strong><br><br> When things get hard, they keep trying. Every mistake is a chance to learn and grow.<br><br> <em>“Keep working, stay strong, and your story will inspire others.”</em> </p>
 <p align ="center">
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40"/>
