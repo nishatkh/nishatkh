@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[URL=https://moewalls.com/fantasy/dark-queen-knight-live-wallpaper/][IMG]https://moewalls.com/wp-content/uploads/2025/11/dark-queen-knight-thumb-728x410.jpg[/IMG][/URL]" alt="Banner" />
+  <img src="https://moewalls.com/fantasy/dark-queen-knight-live-wallpaper/][IMG]https://moewalls.com/wp-content/uploads/2025/11/dark-queen-knight-thumb-728x410.jpg" alt="Banner" />
 </p>
   <p align="center">
   <img src="https://i.pinimg.com/originals/46/11/5e/46115e7881c064b90903e3fe0f42f75e.gif"height="120"/>
