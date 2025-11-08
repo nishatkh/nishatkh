@@ -2,7 +2,7 @@
   <img src="https://i.postimg.cc/SRNyjngX/freepik-crypto-facebook-cover-55024-20250603082956-Rd-Mo.png" alt="Banner" />
 </p>
 <p align="center">
-  <img src="" alt="Banner" />
+  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdemon-pixel-art-stickers&ved=0CBQQjRxqFwoTCLC4v52t4pADFQAAAAAdAAAAABAl&opi=89978449"/>
 </p>
 ---
 <p align="center" style="font-family: 'Fira Code', monospace; color: #8A2BE2; max-width: 600px; margin: 20px auto; font-size: 18px; line-height: 1.5;"> <strong>Legends are made by hard work and never giving up.</strong><br><br> When things get hard, they keep trying. Every mistake is a chance to learn and grow.<br><br> <em>“Keep working, stay strong, and your story will inspire others.”</em> </p>
