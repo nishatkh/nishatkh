@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://i.postimg.cc/SRNyjngX/freepik-crypto-facebook-cover-55024-20250603082956-Rd-Mo.png" alt="Banner" />
 </p>
-<p align ="center">
-<img src="https://tenor.com/view/deku-anime-gif-21660612" height="40"/>
-</p>
+<div class="tenor-gif-embed" data-postid="12123730171917401851" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/zero-two-gif-12123730171917401851">Zero Two GIF</a>from <a href="https://tenor.com/search/zero+two-gifs">Zero Two GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ---
 <p align="center" style="font-family: 'Fira Code', monospace; color: #8A2BE2; max-width: 600px; margin: 20px auto; font-size: 18px; line-height: 1.5;"> <strong>Legends are made by hard work and never giving up.</strong><br><br> When things get hard, they keep trying. Every mistake is a chance to learn and grow.<br><br> <em>“Keep working, stay strong, and your story will inspire others.”</em> </p>
 <p align ="center">
