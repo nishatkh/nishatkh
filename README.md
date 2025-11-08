@@ -125,6 +125,9 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+<p align="center">
+  <img src="https://i.redd.it/lcy6r7t9nmve1.gif" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&width=435&lines=Always+Learning+Something+New!;Loving+AI%2C+IoT%2C+and+Clean+Code!" />
