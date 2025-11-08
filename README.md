@@ -10,9 +10,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Assalamu+Alaikum%2C+I'm+Nishat;AI+and+IoT+Enthusiast+from+Bangladesh ;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Assalamu%20Alaikum%20👋%20I'm%20Nishat%20🚀&width=900&height=120" alt="Nishat Banner"/>
 </p>
-
 <h3>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="25" height="25" />About Me:
 </h3>
