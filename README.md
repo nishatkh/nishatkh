@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://images.steamusercontent.com/ugc/934958816110135870/D57D97AB61F14AA4D964E6BABDC828F34027030E/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" 
+    src="https://i.pinimg.com/originals/2c/a5/18/2ca518a09ca21e3b256be67b2bb31168.gif" 
     alt="GitHub Ultra Wide Banner"
     style="width:100%;max-width:1800px;aspect-ratio:21/9;object-fit:cover;border-radius:8px;"
   />
