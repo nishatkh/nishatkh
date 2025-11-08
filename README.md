@@ -100,9 +100,6 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishatkh&theme=dark&hide_border=false&layout=compact" />
 </p>
-<p align="center">
-  <img src="https://image.myanimelist.net/ui/9UmuGx9tAo49eFyYrYsSWN8WQxPr2IrYRCcg4q-vYF9l79Bn27As1cyXgBPzxJk1U7D6GhSB0ivnQefTZFOPzT1gKiu07yR6npSiTzsMa5r81fK8v4IO_Ggs0Qtsv7olHgr3E5SZBlCa-1TLFR2u76nWCdeFM5A9jqBv0lGBrdeK2_Pm0YjLE-g1eeb454-o" />
-</p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="1st Place Medal" width="25" height="25" />GitHub Trophies
 <p align="center">
