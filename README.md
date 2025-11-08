@@ -1,11 +1,3 @@
-<div class="min-h-screen w-full relative">
-  <!-- Azure Depths -->
-  <div
-    class="absolute inset-0 z-0"
-    style="background: radial-gradient(125% 125% at 50% 100%, #000000 40%, #010133 100%);"
-  ></div>
-  <!-- Your Content/Components -->
-  <div class="relative z-10">
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/01/e9/79/01e979e7ea349aa25f784e56b36a62eb.gif" width="1000">
@@ -135,7 +127,7 @@
 </picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F58C&center=true&vCenter=true&width=435&lines=Always+Learning+Something+New!;Building+Real-World+Apps+with+APIs!;Loving+AI%2C+IoT%2C+and+Clean+Code!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&width=435&lines=Always+Learning+Something+New!;Loving+AI%2C+IoT%2C+and+Clean+Code!" />
 </p>
 
 <p align="center" style="font-family: 'Fira Code', monospace; color: #00F58C; font-size: 18px; margin-top: 10px;">
@@ -146,5 +138,5 @@
   <img src="https://i.pinimg.com/originals/0e/4d/93/0e4d93c2f91c111aeffaf79bef3ec5de.gif" alt="Thank You" />
 </p>
 
-</div>
-</div>
+
+
