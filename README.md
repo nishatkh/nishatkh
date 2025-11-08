@@ -1,10 +1,11 @@
 <p align="center">
   <img 
     src="https://i.pinimg.com/originals/2c/a5/18/2ca518a09ca21e3b256be67b2bb31168.gif" 
-    alt="GitHub Ultra Wide Banner"
-    style="width:100%;max-width:1800px;aspect-ratio:21/9;object-fit:cover;border-radius:8px;"
+    alt="GitHub Ultra Wide Banner" 
+    width="1000" 
   />
 </p>
+
 <p align="center" style="font-family: 'Fira Code', monospace; color: #8A2BE2; max-width: 600px; margin: 20px auto; font-size: 18px; line-height: 1.5;"> <strong>Legends are made by hard work and never giving up.</strong><br><br> When things get hard, they keep trying. Every mistake is a chance to learn and grow.<br><br> <em>“Keep working, stay strong, and your story will inspire others.”</em> </p>
 <p align ="center">
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40"/>
