@@ -10,7 +10,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </p>
 <p align="center">
-  𝘼𝙨𝙨𝙖𝙡𝙖𝙢𝙪 𝘼𝙡𝙖𝙞𝙠𝙪𝙢, 𝙄'𝙢 𝙉𝙞𝙨𝙝𝙖𝙩
+  <h1>𝘼𝙨𝙨𝙖𝙡𝙖𝙢𝙪 𝘼𝙡𝙖𝙞𝙠𝙪𝙢, 𝙄'𝙢 𝙉𝙞𝙨𝙝𝙖𝙩</h1>
 </p>
 
 
