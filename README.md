@@ -3,7 +3,7 @@
 </p>
 <div class ="gif">
 <p align="left">
-  <img src="https://64.media.tumblr.com/64dfcf41c4eeeb77f8d5132dc02cfba2/6e17f09e3dfc6e47-c8/s540x810/ae6ce30fce046ea72e38d0b87b62857a27d43c28.gifv"height="120"/>
+  <img src="https://64.media.tumblr.com/64dfcf41c4eeeb77f8d5132dc02cfba2/6e17f09e3dfc6e47-c8/s540x810/ae6ce30fce046ea72e38d0b87b62857a27d43c28.gifv"height="140"/>
 </p>
   <p align="right">
   <img src="https://i.pinimg.com/originals/46/11/5e/46115e7881c064b90903e3fe0f42f75e.gif"height="120"/>
