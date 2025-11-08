@@ -126,7 +126,7 @@
   />
 </picture>
 <p align="center">
-  <img src="https://i.postimg.cc/RZTB1S6h/lcy6r7t9nmve1.gif" />
+  <img src="https://image.myanimelist.net/ui/9UmuGx9tAo49eFyYrYsSWN8WQxPr2IrYRCcg4q-vYF9l79Bn27As1cyXgBPzxJk1U7D6GhSB0ivnQefTZFOPzT1gKiu07yR6npSiTzsMa5r81fK8v4IO_Ggs0Qtsv7olHgr3E5SZBlCa-1TLFR2u76nWCdeFM5A9jqBv0lGBrdeK2_Pm0YjLE-g1eeb454-o" />
 </p>
 
 <p align="center">
