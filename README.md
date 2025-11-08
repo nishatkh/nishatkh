@@ -2,7 +2,7 @@
   <img src="https://i.postimg.cc/SRNyjngX/freepik-crypto-facebook-cover-55024-20250603082956-Rd-Mo.png" alt="Banner" />
 </p>
 <p align="center">
-  <img src="https://64.media.tumblr.com/64dfcf41c4eeeb77f8d5132dc02cfba2/6e17f09e3dfc6e47-c8/s540x810/ae6ce30fce046ea72e38d0b87b62857a27d43c28.gifv"/>
+  <img src="https://64.media.tumblr.com/64dfcf41c4eeeb77f8d5132dc02cfba2/6e17f09e3dfc6e47-c8/s540x810/ae6ce30fce046ea72e38d0b87b62857a27d43c28.gifv"height="40"/>
 </p>
 <p align="center" style="font-family: 'Fira Code', monospace; color: #8A2BE2; max-width: 600px; margin: 20px auto; font-size: 18px; line-height: 1.5;"> <strong>Legends are made by hard work and never giving up.</strong><br><br> When things get hard, they keep trying. Every mistake is a chance to learn and grow.<br><br> <em>“Keep working, stay strong, and your story will inspire others.”</em> </p>
 <p align ="center">
