@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/SRNyjngX/freepik-crypto-facebook-cover-55024-20250603082956-Rd-Mo.png" alt="Banner" />
+  <img src="https://moewalls.com/fantasy/dark-queen-knight-live-wallpaper/" alt="Banner" />
 </p>
   <p align="center">
   <img src="https://i.pinimg.com/originals/46/11/5e/46115e7881c064b90903e3fe0f42f75e.gif"height="120"/>
