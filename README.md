@@ -1,3 +1,11 @@
+<div class="min-h-screen w-full relative">
+  <!-- Azure Depths -->
+  <div
+    class="absolute inset-0 z-0"
+    style="background: radial-gradient(125% 125% at 50% 100%, #000000 40%, #010133 100%);"
+  ></div>
+  <!-- Your Content/Components -->
+  <div class="relative z-10">
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/01/e9/79/01e979e7ea349aa25f784e56b36a62eb.gif" width="1000">
@@ -138,6 +146,5 @@
   <img src="https://i.pinimg.com/originals/0e/4d/93/0e4d93c2f91c111aeffaf79bef3ec5de.gif" alt="Thank You" />
 </p>
 
-
-
-
+</div>
+</div>
