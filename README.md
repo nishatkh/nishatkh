@@ -126,8 +126,8 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-<p align="center">
-  <img src="https://image.myanimelist.net/ui/9UmuGx9tAo49eFyYrYsSWN8WQxPr2IrYRCcg4q-vYF9l79Bn27As1cyXgBPzxJk1U7D6GhSB0ivnQefTZFOPzT1gKiu07yR6npSiTzsMa5r81fK8v4IO_Ggs0Qtsv7olHgr3E5SZBlCa-1TLFR2u76nWCdeFM5A9jqBv0lGBrdeK2_Pm0YjLE-g1eeb454-o" />
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&width=435&lines=Always+Learning+Something+New!;Loving+AI%2C+IoT%2C+and+Clean+Code!" />
 </p>
 
 <p align="center" style="font-family: 'Fira Code', monospace; color: #00F58C; font-size: 18px; margin-top: 10px;">
