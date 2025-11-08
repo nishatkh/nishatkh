@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://in.pinterest.com/pin/336081190955087231/" 
+    src="https://i.pinimg.com/originals/2c/a5/18/2ca518a09ca21e3b256be67b2bb31168.gif" 
     alt="GitHub Ultra Wide Banner"
     style="width:100%;max-width:1800px;aspect-ratio:21/9;object-fit:cover;border-radius:8px;"
   />
