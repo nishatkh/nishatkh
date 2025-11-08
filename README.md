@@ -9,11 +9,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </p>
-<p align="center">
-  <h1>𝘼𝙨𝙨𝙖𝙡𝙖𝙢𝙪 𝘼𝙡𝙖𝙞𝙠𝙪𝙢, 𝙄'𝙢 𝙉𝙞𝙨𝙝𝙖𝙩</h1>
-</p>
-
-
+  <h1 align="center">𝘼𝙨𝙨𝙖𝙡𝙖𝙢𝙪 𝘼𝙡𝙖𝙞𝙠𝙪𝙢, 𝙄'𝙢 𝙉𝙞𝙨𝙝𝙖𝙩</h1>
 <h3>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="25" height="25" />About Me:
 </h3>
