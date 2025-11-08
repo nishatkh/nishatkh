@@ -28,13 +28,15 @@
   <strong>AI</strong> and <strong>IoT</strong>.
 </p>
 </p>
-  <p align="right">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/050/950/883/original/vitalik-egorov-enemy3attack.gif?1656158639"height="120"/>
-</p>
 <p>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Right%20Anger%20Bubble.png" alt="Right Anger Bubble" width="25" height="25" />Always learning something new from building smarter apps to understanding how AI and IoT shape our future.
 </p>
-
+ <p align="right">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/050/950/883/original/vitalik-egorov-enemy3attack.gif?1656158639"height="120"/>
+</p>
+<p align="left">
+  <img src="https://64.media.tumblr.com/b7159bbeedbb97f1e555a8c8bdd639fc/tumblr_mtti2mJNHC1shdhdjo1_500.gif"height="120"/>
+</p>
 <p>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" alt="Hundred Points" width="25" height="25" /></p>
 
