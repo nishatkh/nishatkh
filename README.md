@@ -101,6 +101,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=nishatkh&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 <a href="my-badges/stars-20000.md"><img src="https://my-badges.github.io/my-badges/stars-20000.png" alt="I collected 20000 stars." title="I collected 20000 stars." width="64"></a>
+<a href="my-badges/stars-10000.md"><img src="https://my-badges.github.io/my-badges/stars-10000.png" alt="I collected 10000 stars." title="I collected 10000 stars." width="64"></a>
+<a href="my-badges/stars-5000.md"><img src="https://my-badges.github.io/my-badges/stars-5000.png" alt="I collected 5000 stars." title="I collected 5000 stars." width="64"></a>
+<a href="my-badges/stars-2000.md"><img src="https://my-badges.github.io/my-badges/stars-2000.png" alt="I collected 2000 stars." title="I collected 2000 stars." width="64"></a>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nishatkh&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -108,8 +112,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&width=435&lines=Always+Learning+Something+New!;Loving+AI%2C+IoT%2C+and+Clean+Code!" />
 </p>
-[![Nishat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&theme=xcode)](https://github.com/nishatkh)
-
 
 <p align="center" style="font-family: 'Fira Code', monospace; color: #00F58C; font-size: 18px; margin-top: 10px;">
   Thanks for visiting!
