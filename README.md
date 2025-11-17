@@ -100,7 +100,7 @@
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=nishatkh&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
-[![Nishat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishatkh_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="my-badges/stars-20000.md"><img src="https://my-badges.github.io/my-badges/stars-20000.png" alt="I collected 20000 stars." title="I collected 20000 stars." width="64"></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nishatkh&icon=0&color=0)](https://visitcount.itsvg.in)
