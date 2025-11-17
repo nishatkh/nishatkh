@@ -49,7 +49,7 @@
 ---
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Languages and Tools:
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,javascript,php,html,css,react,nextjs,nodejs,express,bootstrap,tailwindcss,mongodb,mysql,postgresql,arduino,raspberrypi,linux,git,github,vs-code,postman,firebase,figma,androidstudio,docker,pycharm,clion,opencv,pytorch,tensorflow&perline=10&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,javascript,php,html,css,react,nextjs,nodejs,express,bootstrap,tailwindcss,mongodb,mysql,postgresql,arduino,raspberrypi,linux,git,github,postman,firebase,figma,androidstudio,docker,pycharm,clion,opencv,pytorch,tensorflow&perline=10&theme=light)](https://skillicons.dev)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=nishatkh&data=followers,repositories,stars,commits&theme=rgb)](https://github.com/nishatkh/github-widgetbox)<br/>
 <a href="my-badges/morning-commits.md"><img src="https://my-badges.github.io/my-badges/morning-commits.png" alt="I commit in the morning." title="I commit in the morning." width="64"></a>
