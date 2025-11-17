@@ -100,7 +100,7 @@
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=nishatkh&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
-[![Nishat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishatkh)](https://github.com/nishatkh/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/nishatkh/github-readme-activity-graph)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nishatkh&icon=0&color=0)](https://visitcount.itsvg.in)
