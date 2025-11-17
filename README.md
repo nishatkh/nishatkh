@@ -49,24 +49,8 @@
 ---
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Languages and Tools:
-  ## Programming Languages
-<img src="./icons/C.svg" width="48"> <img src="./icons/CPP.svg" width="48"> <img src="./icons/Python-Dark.svg" width="48"> <img src="./icons/JavaScript.svg" width="48"> <img src="./icons/Java-Dark.svg" width="48"> <img src="./icons/PHP-Dark.svg" width="48">
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,javascript,php,html,css,react,nextjs,nodejs,express,bootstrap,tailwindcss,mongodb,mysql,postgresql,arduino,raspberrypi,linux,git,github,vs-code,postman,firebase,figma,androidstudio,docker,pycharm,clion,opencv,pytorch,scikit-learn,tensorflow&perline=10&theme=light)](https://skillicons.dev)
 
-## Web Development
-<img src="./icons/HTML.svg" width="48"> <img src="./icons/CSS.svg" width="48"> <img src="./icons/JavaScript.svg" width="48"> <img src="./icons/React-Dark.svg" width="48"> <img src="./icons/NextJS-Dark.svg" width="48"> <img src="./icons/NodeJS-Dark.svg" width="48"> <img src="./icons/ExpressJS-Dark.svg" width="48"> <img src="./icons/Bootstrap.svg" width="48"> <img src="./icons/TailwindCSS-Dark.svg" width="48"> <img src="./icons/MongoDB.svg" width="48"> <img src="./icons/MySQL-Dark.svg" width="48"> <img src="./icons/PostgreSQL-Dark.svg" width="48">
-
-## AI, Data & Machine Learning
-<img src="./icons/Python-Dark.svg" width="48"> <img src="./icons/PyTorch-Dark.svg" width="48"> <img src="./icons/ScikitLearn-Dark.svg" width="48"> <img src="./icons/TensorFlow-Dark.svg" width="48"> <img src="./icons/OpenCV-Dark.svg" width="48">
-
-## IoT & Embedded Systems
-<img src="./icons/Arduino.svg" width="48"> <img src="./icons/RaspberryPi-Dark.svg" width="48"> <img src="./icons/Linux-Dark.svg" width="48">
-
-## Tools & Platforms
-<img src="./icons/Git.svg" width="48"> <img src="./icons/Github-Dark.svg" width="48"> <img src="./icons/VSCode-Dark.svg" width="48"> <img src="./icons/Postman.svg" width="48"> <img src="./icons/Firebase-Dark.svg" width="48"> <img src="./icons/Figma-Dark.svg" width="48"> <img src="./icons/AndroidStudio-Dark.svg" width="48"> <img src="./icons/Docker.svg" width="48">
-
-## IDEs & Code Editors
-<img src="./icons/VSCode-Dark.svg" width="48"> <img src="./icons/AndroidStudio-Dark.svg" width="48"> <img src="./icons/PyCharm-Dark.svg" width="48"> <img src="./icons/CLion-Dark.svg" width="48">
- 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=nishatkh&data=followers,repositories,stars,commits&theme=rgb)](https://github.com/nishatkh/github-widgetbox)<br/>
 <a href="my-badges/morning-commits.md"><img src="https://my-badges.github.io/my-badges/morning-commits.png" alt="I commit in the morning." title="I commit in the morning." width="64"></a>
 <a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
