@@ -61,7 +61,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="1st Place Medal" width="25" height="25" />GitHub Trophies
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=nishatkh&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img width="660" src="https://github-profile-trophy.vercel.app/?username=nishatkh&theme=buddhism">
 </p>
 
 
