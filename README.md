@@ -39,13 +39,6 @@
   <a href="https://github.com/nishatkh"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<a href="my-badges/stars-20000.md"><img src="https://my-badges.github.io/my-badges/stars-20000.png" alt="I collected 20000 stars." title="I collected 20000 stars." width="64"></a>
-<a href="my-badges/stars-10000.md"><img src="https://my-badges.github.io/my-badges/stars-10000.png" alt="I collected 10000 stars." title="I collected 10000 stars." width="64"></a>
-<a href="my-badges/stars-5000.md"><img src="https://my-badges.github.io/my-badges/stars-5000.png" alt="I collected 5000 stars." title="I collected 5000 stars." width="64"></a>
-<a href="my-badges/stars-2000.md"><img src="https://my-badges.github.io/my-badges/stars-2000.png" alt="I collected 2000 stars." title="I collected 2000 stars." width="64"></a>
-<a href="my-badges/stars-100.md"><img src="https://my-badges.github.io/my-badges/stars-100.png" alt="I collected 100 stars." title="I collected 100 stars." width="64"></a>
-<a href="my-badges/stars-500.md"><img src="https://my-badges.github.io/my-badges/stars-500.png" alt="I collected 500 stars." title="I collected 500 stars." width="64"></a>
-
 ---
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Languages and Tools:
