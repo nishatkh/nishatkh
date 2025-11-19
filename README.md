@@ -61,6 +61,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="1st Place Medal" width="25" height="25" />GitHub Trophies
 <p align="left">
+  <img loading="lazy" src="https://montasim-github-profile-trophy.vercel.app?username=nishatkh&theme=radical&no-bg=true&no-frame=true&row=1&column=7&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
   <img loading="lazy" alt="visitor badge" src="https://montasim-github-readme-activity-graph.vercel.app/graph?username=nishatkh&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true">
 </p>
 
