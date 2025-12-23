@@ -1,4 +1,4 @@
-<img width="512" height="286" alt="image" src="https://github.com/user-attachments/assets/b0608299-761c-4ca1-a273-dbdb2a38f36e" />
+
 <p align="center">
   <img src="https://wallpapers-clan.com/wp-content/uploads/2024/08/man-dark-city-in-the-rain-gif-desktop-wallpaper-cover.gif" width="1000">
 </p>
