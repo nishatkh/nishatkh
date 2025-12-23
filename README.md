@@ -1,6 +1,6 @@
-
+<img width="512" height="286" alt="image" src="https://github.com/user-attachments/assets/b0608299-761c-4ca1-a273-dbdb2a38f36e" />
 <p align="center">
-  <img src="https://i.pinimg.com/originals/d0/d0/f4/d0d0f497e74132aac08104ea8619e264.gif" width="1000">
+  <img src="https://wallpapers-clan.com/wp-content/uploads/2024/08/man-dark-city-in-the-rain-gif-desktop-wallpaper-cover.gif" width="1000">
 </p>
 <p align="center" style="font-family: 'Fira Code', monospace; color: #8A2BE2; max-width: 600px; margin: 20px auto; font-size: 18px; line-height: 1.5;"> <strong>Legends are made by hard work and never giving up.</strong><br><br> When things get hard, they keep trying. Every mistake is a chance to learn and grow.<br><br> <em>“Keep working, stay strong, and your story will inspire others.”</em> </p>
 <p align ="center">
