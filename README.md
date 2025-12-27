@@ -44,7 +44,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Languages and Tools:
   [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,javascript,php,html,css,react,nextjs,nodejs,express,bootstrap,tailwindcss,mongodb,mysql,postgresql,arduino,raspberrypi,linux,git,github,postman,firebase,figma,androidstudio,docker,pycharm,clion,opencv,pytorch,tensorflow&perline=10&theme=light)](https://skillicons.dev)
 
-```svg
 <svg width="400" height="280" viewBox="0 0 400 280" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <!-- Cyberpunk Gradients -->
@@ -52,23 +51,19 @@
       <stop offset="0%" style="stop-color:#00f5ff;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#00ff88;stop-opacity:1" />
     </linearGradient>
-    
     <linearGradient id="neonMagenta" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#ff00ff;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#ff0080;stop-opacity:1" />
     </linearGradient>
-    
     <linearGradient id="terminalBg" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" style="stop-color:#0a0a0a;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#1a1a2e;stop-opacity:1" />
     </linearGradient>
-    
     <linearGradient id="cardGradient" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#00f5ff22;stop-opacity:1" />
       <stop offset="50%" style="stop-color:#ff00ff22;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#00ff8822;stop-opacity:1" />
     </linearGradient>
-
     <!-- Glow Filters -->
     <filter id="cyanGlow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
@@ -77,7 +72,6 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-    
     <filter id="textGlow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
       <feMerge>
@@ -85,7 +79,6 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-    
     <filter id="strongGlow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
       <feMerge>
@@ -93,18 +86,15 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-
     <!-- Scanline Pattern -->
     <pattern id="scanlines" patternUnits="userSpaceOnUse" width="4" height="4">
       <line x1="0" y1="0" x2="4" y2="1" stroke="#00ff88" stroke-width="0.5" opacity="0.1"/>
     </pattern>
-    
     <!-- Grid Pattern -->
     <pattern id="grid" patternUnits="userSpaceOnUse" width="20" height="20">
       <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#00f5ff" stroke-width="0.3" opacity="0.15"/>
     </pattern>
   </defs>
-
   <!-- Background -->
   <rect width="400" height="280" fill="url(#terminalBg)"/>
   <rect width="400" height="280" fill="url(#grid)"/>
@@ -144,18 +134,15 @@
       <tspan>◆ NISHATKH ◆</tspan>
       <animate attributeName="opacity" values="1;0.8;1" dur="1.5s" repeatCount="indefinite"/>
     </text>
-    
     <!-- Status Indicator -->
     <circle cx="290" cy="60" r="5" fill="#00ff00" filter="url(#cyanGlow)">
       <animate attributeName="opacity" values="1;0.3;1" dur="1s" repeatCount="indefinite"/>
     </circle>
     <text x="300" y="64" font-size="10" fill="#00ff00">ONLINE</text>
   </g>
-
   <!-- Stats Grid -->
   <g font-family="'Courier New', monospace">
-    
-    <!-- REPOS - Top Left -->
+  <!-- REPOS - Top Left -->
     <g transform="translate(35, 100)">
       <rect width="155" height="60" fill="url(#cardGradient)" rx="3" stroke="#00f5ff" stroke-width="1" opacity="0.8"/>
       <text x="10" y="20" font-size="11" fill="#888">● REPOSITORIES</text>
@@ -165,7 +152,6 @@
       </text>
       <text x="95" y="42" font-size="12" fill="#00ff88">[███....]</text>
     </g>
-
     <!-- STARS - Top Right -->
     <g transform="translate(210, 100)">
       <rect width="155" height="60" fill="url(#cardGradient)" rx="3" stroke="#ff00ff" stroke-width="1" opacity="0.8"/>
@@ -176,7 +162,6 @@
       </text>
       <text x="90" y="42" font-size="12" fill="#ff00ff">★ ★ ★ ☆ ☆</text>
     </g>
-
     <!-- FOLLOWERS - Bottom Left -->
     <g transform="translate(35, 175)">
       <rect width="155" height="60" fill="url(#cardGradient)" rx="3" stroke="#00ff88" stroke-width="1" opacity="0.8"/>
@@ -187,7 +172,6 @@
       </text>
       <text x="90" y="42" font-size="12" fill="#00ff88">👥 👥 👥 ○ ○</text>
     </g>
-
     <!-- FORKS - Bottom Right -->
     <g transform="translate(210, 175)">
       <rect width="155" height="60" fill="url(#cardGradient)" rx="3" stroke="#ffaa00" stroke-width="1" opacity="0.8"/>
@@ -204,7 +188,6 @@
       <tspan fill="#fff"> cat stats.json</tspan>
       <animate attributeName="opacity" values="1;0;1" dur="4s" repeatCount="indefinite"/>
     </text>
-    
     <!-- Blinking Cursor -->
     <rect x="245" y="238" width="8" height="14" fill="#00f5ff" filter="url(#cyanGlow)">
       <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
@@ -217,7 +200,6 @@
     <text x="5" y="150">10</text>
     <text x="385" y="200">11</text>
     <text x="0" y="100">00</text>
-    
     <!-- Animated binary rain -->
     <text x="370" y="120" opacity="0.5">
       <animate attributeName="y" values="120;280" dur="8s" repeatCount="indefinite"/>
