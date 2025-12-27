@@ -45,7 +45,35 @@
   [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,javascript,php,html,css,react,nextjs,nodejs,express,bootstrap,tailwindcss,mongodb,mysql,postgresql,arduino,raspberrypi,linux,git,github,postman,firebase,figma,androidstudio,docker,pycharm,clion,opencv,pytorch,tensorflow&perline=10&theme=light)](https://skillicons.dev)
 
 
-https://api.github.com/users/YOUR_USERNAME
+# Nishat khan
+
+> Crafting digital experiences
+
+A developer shaping the future.
+
+![Header](./assets/nishatkh-header.svg)
+
+## 📊 Stats
+
+<p align="center">
+  <img src="./assets/nishatkh-stats.svg" />
+  <img src="./assets/nishatkh-languages.svg" />
+</p>
+
+## ⚡ Activity
+
+![Activity](./assets/nishatkh-activity.svg)
+
+## 💻 Terminal
+
+![Terminal](./assets/nishatkh-terminal.svg)
+
+## 📈 Contributions
+
+![Contrib](./assets/nishatkh-contrib.svg)
+
+---
+*Generated with Hyprland README Generator*
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="1st Place Medal" width="25" height="25" />GitHub Trophies
 <p align="left">
