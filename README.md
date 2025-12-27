@@ -46,6 +46,18 @@
 
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" />GitHub Stats:
+## 📊 GitHub Stats
+
+
+┌──────────────────────────────────┐
+│  @nishatkh                  │
+├──────────────────────────────────┤
+│  Repositories                25 │
+│  Stars                       16 │
+│  Forks                        0 │
+│  Followers                    8 │
+│  Following                    2 │
+└──────────────────────────────────┘
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="1st Place Medal" width="25" height="25" />GitHub Trophies
 <p align="left">
