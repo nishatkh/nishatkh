@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.redd.it/axjjd2nyj1kb1.gif" width="1000">
+  <img src="https://i.pinimg.com/originals/49/06/59/490659714c77ed847802d29f3cf34100.gif" width="1000">
 </p>
 <p align="center" style="font-family: 'Fira Code', monospace; color: #8A2BE2; max-width: 600px; margin: 20px auto; font-size: 18px; line-height: 1.5;"> <strong>Legends are made by hard work and never giving up.</strong><br><br> When things get hard, they keep trying. Every mistake is a chance to learn and grow.<br><br> <em>“Keep working, stay strong, and your story will inspire others.”</em> </p>
 <p align ="center">
