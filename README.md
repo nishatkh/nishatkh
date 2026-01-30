@@ -106,7 +106,7 @@ const nishat = {
 ### 📌 **My Journey**
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/49/06/59/490659714c77ed847802d29f3cf34100.gif" width="500"/>
+  <img src="https://i.pinimg.com/originals/49/06/59/490659714c77ed847802d29f3cf34100.gif" width="1000"/>
 </p>
 
 <p align="center">
@@ -604,6 +604,17 @@ Auth: NextAuth.js
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
+<!-- ====================================== GITHUB TROPHIES ====================================== -->
+
+<h2 align="center">
+  🏆 GitHub Trophies
+</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nishatkh&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ====================================== GITHUB STATS SECTION ====================================== -->
 
