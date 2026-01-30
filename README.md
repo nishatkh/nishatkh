@@ -634,55 +634,18 @@ Auth: NextAuth.js
 
 
 <!-- ====================================== ACTIVITY SECTION ====================================== -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+  Coding Activity
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+</h2>
 
+<br/>
 <!-- Time-based Productivity -->
-<h3>⏰ Daily Productivity Cycle</h3>
-
-<div>
-  🌞 <b>Morning</b>&nbsp;&nbsp;
-  <svg width="300" height="25" style="vertical-align: middle;">
-    <rect x="0" y="5" width="300" height="15" fill="#2d2d2d" opacity="0.1" rx="3"/>
-    <rect x="0" y="5" width="0" height="15" fill="#FFD700" rx="3">
-      <animate attributeName="width" from="0" to="105.6" dur="1.2s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
-    </rect>
-  </svg>
-  <b>35.2%</b> <sub>Peak Productivity</sub>
-</div>
-
-<div>
-  🌆 <b>Daytime</b>&nbsp;&nbsp;
-  <svg width="300" height="25" style="vertical-align: middle;">
-    <rect x="0" y="5" width="300" height="15" fill="#2d2d2d" opacity="0.1" rx="3"/>
-    <rect x="0" y="5" width="0" height="15" fill="#FF6B35" rx="3">
-      <animate attributeName="width" from="0" to="158.4" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
-    </rect>
-  </svg>
-  <b>52.8%</b> <sub>Maximum Focus</sub>
-</div>
-
-<div>
-  🌃 <b>Evening</b>&nbsp;&nbsp;
-  <svg width="300" height="25" style="vertical-align: middle;">
-    <rect x="0" y="5" width="300" height="15" fill="#2d2d2d" opacity="0.1" rx="3"/>
-    <rect x="0" y="5" width="0" height="15" fill="#4ECDC4" rx="3">
-      <animate attributeName="width" from="0" to="85.2" dur="1s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
-    </rect>
-  </svg>
-  <b>28.4%</b> <sub>Creative Flow</sub>
-</div>
-
-<div>
-  🌙 <b>Night</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <svg width="300" height="25" style="vertical-align: middle;">
-    <rect x="0" y="5" width="300" height="15" fill="#2d2d2d" opacity="0.1" rx="3"/>
-    <rect x="0" y="5" width="0" height="15" fill="#2C3E50" rx="3">
-      <animate attributeName="width" from="0" to="43.8" dur="0.8s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
-    </rect>
-  </svg>
-  <b>14.6%</b> <sub>Deep Work</sub>
-</div>
-
+<h2 align="center">
+  <img src="https://i.postimg.cc/KvtYrX52/nishatkh-contributions.png" width="700">
 <!-- Language Distribution -->
 <h3>💻 Language Distribution</h3>
 
