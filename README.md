@@ -206,11 +206,9 @@ const nishat = {
 <!-- PROJECT 1: TERMCLOCK -->
 <details open>
 <summary><h3>🕐 TermClock - Animated Terminal Clock</h3></summary>
-
 <table>
 <tr>
 <td width="50%">
-
 <br/>
 
 **🎯 Description**
