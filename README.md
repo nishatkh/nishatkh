@@ -610,16 +610,11 @@ Auth: NextAuth.js
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
   GitHub Statistics
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
-</h2>
-
 <br/>
-
 <div align="center">
 <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishatkh&layout=compact&hide_border=true&title_color=00FFFF&text_color=c9d1d9&bg_color=0d1117&langs_count=10" />
 
-<br/><br/>
-
+<br/>
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&custom_title=Contribution%20Graph&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area_color=0D1117&title_color=00FFFF&area=true&hide_border=true" />
 
 <br/>
