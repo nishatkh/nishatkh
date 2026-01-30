@@ -615,27 +615,7 @@ Auth: NextAuth.js
 </p>
 
 <!-- ====================================== GITHUB STATS SECTION ====================================== -->
-<!-- ====================================== ACHIEVEMENTS ====================================== -->
-
-<h2 align="center">🏆 Achievements & Milestones</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20in%20IoT-Specialist-00FFFF?style=for-the-badge&logo=robot&logoColor=black" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problem%20Solver-Always%20Learning-FF9800?style=for-the-badge&logo=codeforces&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Projects-Built%20with%20Passion-9C27B0?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Consistency-Daily%20Coding-2196F3?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishatkh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" />
-</p>
-
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+  <img src="https://media0.giphy.com/media/Sh1iCtJZEdx4PFYy4q/source.gif" width="120" />
   GitHub Statistics
 <br/>
 <br/>
