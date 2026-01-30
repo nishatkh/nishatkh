@@ -729,8 +729,6 @@ HTML/CSS     ████░░░░░░░░░░░░░░░░   11.8
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <br/>
 
 <!-- ====================================== INSPIRATION SECTION ====================================== -->
@@ -783,5 +781,5 @@ HTML/CSS     ████░░░░░░░░░░░░░░░░   11.8
 <sub>**Last Updated:** January 2026 | **Made by Nishat Khan**</sub>
 <br/>
 <sub>Crafted with passion • Powered by curiosity • Driven by innovation ⚡</sub>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
