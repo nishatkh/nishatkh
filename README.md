@@ -468,13 +468,6 @@ A modern social media platform for DIU students combining features of Twitter an
 <br/>
 
 </td>
-<td width="50%">
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="400">
-</div>
 
 <br/>
 **✨ Key Features**
@@ -507,7 +500,7 @@ Deployment: Docker, Nginx
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41fb-9569-48cbf76eff5f.gif" width="400">
+  <img src="https://genhq.com/wp-content/uploads/2018/07/Social-Media-Final-D.gif" width="400">
 </div>
 
 <br/>
