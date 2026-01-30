@@ -467,6 +467,16 @@ A modern social media platform for DIU students combining features of Twitter an
 
 <br/>
 
+</td>
+<td width="50%">
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="400">
+</div>
+
+<br/>
 **✨ Key Features**
 
 - 💬 **Real-Time Chat** - Instant messaging system
