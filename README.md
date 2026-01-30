@@ -606,15 +606,13 @@ Auth: NextAuth.js
 <br/>
 <!-- ====================================== GITHUB TROPHIES ====================================== -->
 
-<h2 align="center">
-  🏆 GitHub Trophies
-</h2>
+<h2 align="center">🏅 GitHub Highlights</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nishatkh&theme=algolia&no-frame=true&row=1&column=6" />
+  <img src="https://img.shields.io/badge/Total%20Stars-⭐%20Dynamic-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Public%20Repos-📦%20Dynamic-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contributions-🔥%20Active-orange?style=for-the-badge" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ====================================== GITHUB STATS SECTION ====================================== -->
 
