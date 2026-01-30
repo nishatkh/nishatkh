@@ -645,32 +645,8 @@ Auth: NextAuth.js
 <br/>
 <!-- Time-based Productivity -->
 <h2 align="center">
-  <img src="https://i.postimg.cc/KvtYrX52/nishatkh-contributions.png" width="700">
+  <img src="https://i.postimg.cc/KvtYrX52/nishatkh-contributions.png" width="500">
 <!-- Language Distribution -->
-<h3>💻 Language Distribution</h3>
-
-<div>
-  🐍 <b>Python</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <svg width="300" height="25" style="vertical-align: middle;">
-    <rect x="0" y="5" width="300" height="15" fill="#2d2d2d" opacity="0.1" rx="3"/>
-    <rect x="0" y="5" width="0" height="15" fill="#3776AB" rx="3">
-      <animate attributeName="width" from="0" to="144.6" dur="1.5s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
-    </rect>
-  </svg>
-  <b>48.2%</b> <sub>AI/ML Development</sub>
-</div>
-
-<div>
-  ⚡ <b>JavaScript</b>&nbsp;
-  <svg width="300" height="25" style="vertical-align: middle;">
-    <rect x="0" y="5" width="300" height="15" fill="#2d2d2d" opacity="0.1" rx="3"/>
-    <rect x="0" y="5" width="0" height="15" fill="#F7DF1E" rx="3">
-      <animate attributeName="width" from="0" to="116.1" dur="1.3s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
-    </rect>
-  </svg>
-  <b>38.7%</b> <sub>Web Applications</sub>
-</div>
-
 <div>
   ⚙️ <b>C++</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <svg width="300" height="25" style="vertical-align: middle;">
