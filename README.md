@@ -1,508 +1,629 @@
-<!-- ============================================================ -->
-<!-- HERO SECTION WITH ANIMATED TYPEWRITER EFFECT -->
-<!-- ============================================================ -->
-
 <div align="center">
-  
-<!-- Animated Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nishat%20Khan&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<!-- Animated Typing Introduction -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=AI+%2B+IoT+Engineer+%7C+Full+Stack+Developer;Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- EPIC ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,3,5,6,8,9,11,12,14,15,17,18,20,21,23,24,26,27,29,30&text=NISHAT%20KHAN&fontSize=70&fontAlignY=35&desc=AI%20%2B%20IoT%20Engineer%20|%20Full%20Stack%20Developer%20|%20Tech%20Enthusiast&descAlignY=51&descSize=20&animation=fadeIn&fontColor=ffffff"/>
 
-<!-- Profile Views Counter with Style -->
-<img src="https://komarev.com/ghpvc/?username=nishatkh&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="nishatkh" />
+<!-- GLITCH EFFECT BANNER -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+  <img width="100%" alt="Divider" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+</picture>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- TYPING ANIMATION WITH MULTIPLE LINES -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;AI+%2B+IoT+%7C+Building+Intelligent+Systems+%F0%9F%A4%96;Full+Stack+Developer+%7C+MERN+Specialist+%F0%9F%92%BB;Open+Source+Contributor+%7C+Tech+Innovator+%F0%9F%9A%80;Always+Learning%2C+Always+Creating+%E2%9C%A8" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- ANIMATED BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20in%20IoT-blueviolet?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Coding%20%26%20Creating-success?style=for-the-badge&logo=atom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lives-Dhaka%2C%20Bangladesh-ff69b4?style=for-the-badge&logo=google-maps&logoColor=white" />
+</p>
+
+<!-- PROFILE VIEWS WITH FIRE ANIMATION -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=nishatkh&icon=5&color=6" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/nishatkh?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/nishatkh?label=Stars&style=social" alt="GitHub Stars" />
+</p>
+
+<!-- COOL PIXEL ART DIVIDER -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 </div>
 
-<!-- ============================================================ -->
-<!-- ABOUT ME - CREATIVE CARDS LAYOUT -->
-<!-- ============================================================ -->
+<!-- ============================================================================================================ -->
+<!-- ABOUT ME SECTION WITH CYBERPUNK AESTHETICS -->
+<!-- ============================================================================================================ -->
 
-<div align="center">
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  💫 ABOUT ME - WHO AM I? 💫
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
 
-## 💫 **About Me - Building Tomorrow's Technology Today**
+<p align="center">
+  <img src="https://i.pinimg.com/originals/49/06/59/490659714c77ed847802d29f3cf34100.gif" width="500"/>
+</p>
 
-</div>
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990345d8744e111a9d7fb23ca23b7e9e1f02caf55e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304549696f67432f67697068792e676966">
+### 🎯 Quick Facts
 
-```yaml
-name: Nishat Khan
-located_in: Dhaka, Bangladesh
-current_focus: AI in IoT
-education: 
-  university: Daffodil International University
-  major: Computing & Information Systems
-  specialization: Artificial Intelligence in IoT
-  
-interests:
-  - Smart Systems & Automation
-  - Machine Learning & Deep Learning
-  - Full Stack Development
-  - Network Architecture
-  - Open Source Contribution
-  
-currently_learning:
-  - Advanced Neural Networks
-  - Edge Computing
-  - Cloud Infrastructure
-  - Microservices Architecture
-  
-life_philosophy: >
-  "Legends are made by hard work and never giving up.
-   Every mistake is a chance to learn and grow."
+```javascript
+const nishat = {
+    location: "Dhaka, Bangladesh 🇧🇩",
+    education: {
+        university: "Daffodil International University",
+        degree: "Computing & Information Systems",
+        major: "AI in IoT 🤖",
+        graduation: "2027"
+    },
+    currentFocus: [
+        "Artificial Intelligence",
+        "Internet of Things",
+        "Full Stack Development",
+        "Machine Learning",
+        "Network Architecture"
+    ],
+    funFact: "I debug with console.log() 😎"
+};
 ```
 
-<br clear="right"/>
-
-<!-- ============================================================ -->
-<!-- TECH STACK - ORGANIZED BY CATEGORY WITH ANIMATIONS -->
-<!-- ============================================================ -->
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🛠️ **Technology Arsenal**
-
-</div>
-
-<details open>
-<summary><b>🤖 AI & Machine Learning</b></summary>
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>💻 Programming Languages</b></summary>
-<br>
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🌐 Web Development</b></summary>
-<br>
-
-**Frontend:**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend:**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🗄️ Databases</b></summary>
-<br>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</details>
-
-<details open>
-<summary><b>⚡ IoT & Embedded Systems</b></summary>
-<br>
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🛠️ Tools & Technologies</b></summary>
-<br>
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
-
-</details>
-
-<!-- ============================================================ -->
-<!-- FEATURED PROJECTS - SHOWCASE GRID -->
-<!-- ============================================================ -->
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🚀 **Featured Projects - Innovation in Action**
-
-</div>
-
-<div align="center">
-
-<!-- Project 1: TermClock -->
-<a href="https://github.com/nishatkh/termclock">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishatkh&repo=termclock&theme=tokyonight&hide_border=true&border_radius=15&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117" />
-</a>
-
-<!-- Project 2: Smart Airport Network -->
-<a href="https://github.com/nishatkh/smart-airport">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishatkh&repo=smart-airport&theme=tokyonight&hide_border=true&border_radius=15&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<!-- Project 3: Repono -->
-<a href="https://github.com/nishatkh/repono">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishatkh&repo=repono&theme=tokyonight&hide_border=true&border_radius=15&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117" />
-</a>
-
-<!-- Project 4: Anos -->
-<a href="https://github.com/nishatkh/anos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishatkh&repo=anos&theme=tokyonight&hide_border=true&border_radius=15&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117" />
-</a>
-
-</div>
-
-<br>
-
-### 🎯 **Project Highlights**
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🕐 **TermClock**
-> *Animated Terminal Clock for Linux & SSH*
-
-Transform your terminal into a beautiful timepiece! A lightweight Python-based clock with ASCII art, smooth animations, and system monitoring.
-
-**🔥 Key Features:**
-- ⚡ Lightning-fast performance
-- 🎨 Multiple ASCII font styles
-- 📊 Real-time system information
-- 🌈 Customizable color schemes
-- 🔧 SSH-friendly design
-
-**💻 Tech:** `Python` `Terminal UI` `ASCII Art` `Linux`
-
-**🏷️ Tags:** #terminal-clock #tty-clock-alternative #python #cli-tool
-
 </td>
 <td width="50%" valign="top">
 
-#### ✈️ **Smart Airport Network System**
-> *Enterprise-Grade Airport Infrastructure Simulation*
+<br/>
 
-A comprehensive Cisco Packet Tracer project simulating real-world airport networking infrastructure with IoT integration.
+<img align="right" width="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding"/>
 
-**🔥 Key Features:**
-- 🌐 Complete network topology
-- 📡 Wireless & wired integration
-- 🔒 Enterprise security protocols
-- 🤖 IoT device management
-- 🎯 VLANs & routing protocols
+### ⚡ What Drives Me
 
-**💻 Tech:** `Cisco Packet Tracer` `Network Design` `IoT` `VLAN`
+> **"Legends are made by hard work and never giving up."**
 
-**🏷️ Tags:** #networking #cisco #iot #infrastructure
+🔥 **Passionate** about creating intelligent systems  
+💡 **Innovative** in solving real-world problems  
+🚀 **Committed** to open source contribution  
+🎓 **Continuous** learner and tech explorer  
+🌟 **Believer** in the power of AI + IoT  
 
-</td>
-</tr>
+<br/>
 
-<tr>
-<td width="50%" valign="top">
-
-#### 📝 **Repono**
-> *AI-Powered README Generator for Developers*
-
-Revolutionize your documentation with AI! Generate professional, customized README files with GitHub integration and smart templates.
-
-**🔥 Key Features:**
-- 🤖 AI-driven content generation
-- 🔗 Seamless GitHub integration
-- 🎨 Professional templates library
-- ⚡ Lightning-fast generation
-- 📋 Markdown best practices
-
-**💻 Tech:** `AI/ML` `GitHub API` `Node.js` `React`
-
-**🏷️ Tags:** #ai-tools #readme-generator #automation #github
-
-</td>
-<td width="50%" valign="top">
-
-#### 🌐 **Anos - DIU Social Platform**
-> *Modern Social Network for University Community*
-
-A Twitter-meets-Reddit experience designed for DIU students. Share, discuss, and connect in topic-based communities.
-
-**🔥 Key Features:**
-- 💬 Real-time discussions
-- 👥 Community-driven spaces
-- 🔥 Trending topics & hashtags
-- 📱 Responsive design
-- 🔔 Smart notifications
-
-**💻 Tech:** `MERN Stack` `Socket.io` `Redis` `Tailwind CSS`
-
-**🏷️ Tags:** #social-media #full-stack #real-time #community
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-#### 📚 **DIU Note Vault**
-> *Collaborative Study Platform - Study Together, Succeed Together*
-
-A comprehensive knowledge-sharing platform where DIU students collaborate, share notes, and build academic excellence together.
-
-**🔥 Key Features:**
-- 📖 Extensive notes library
-- 🔍 Advanced search & filtering
-- 📂 Course-wise organization
-- ⭐ Rating & review system
-- 📥 Easy upload & download
-
-**💻 Tech:** `Next.js` `MongoDB` `AWS S3` `TypeScript`
-
-**🏷️ Tags:** #education #knowledge-sharing #student-platform #notes
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 **More Projects Coming Soon!**
-
-Currently brewing some exciting projects:
-- 🧠 **AI Study Assistant** - Your personal AI tutor
-- 🏠 **Smart Home Hub** - IoT home automation
-- 🎮 **Game Dev Adventures** - Indie game projects
-- 📊 **Data Viz Dashboard** - Beautiful analytics
-
-**Stay tuned for updates!** ⭐
+**🎯 Current Mission:**  
+Building the future, one line of code at a time!
 
 </td>
 </tr>
 </table>
 
-<!-- ============================================================ -->
-<!-- GITHUB STATISTICS - COMPREHENSIVE ANALYTICS -->
-<!-- ============================================================ -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<!-- ============================================================================================================ -->
+<!-- TECH STACK - NEON STYLED SKILLS -->
+<!-- ============================================================================================================ -->
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+  🛠️ MY TECH ARSENAL 🛠️
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+</h2>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 **GitHub Analytics - By the Numbers**
+### 🤖 **AI & Machine Learning**
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=light" />
+<br/>
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+### 💻 **Programming Languages**
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,php&theme=light" />
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+### 🌐 **Web Development**
+#### Frontend Mastery
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&theme=light" />
+
+#### Backend Power
+<img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=light" />
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+### 🗄️ **Databases & Cloud**
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase&theme=light" />
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+### ⚡ **IoT & Embedded Systems**
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=light" />
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+### 🛠️ **Tools & DevOps**
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,figma,vscode,pycharm,androidstudio&theme=light" />
 
 </div>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nishatkh&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nishatkh&theme=tokyonight&hide_border=true&border_radius=15&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&background=0D1117" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishatkh&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&title_color=00D9FF&text_color=ffffff&bg_color=0D1117&langs_count=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishatkh&theme=tokyonight" />
-</p>
-
-<!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&radius=15" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<!-- ============================================================ -->
-<!-- TROPHIES & ACHIEVEMENTS -->
-<!-- ============================================================ -->
+<!-- ============================================================================================================ -->
+<!-- FEATURED PROJECTS WITH EXPLOSIVE VISUALS -->
+<!-- ============================================================================================================ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  🚀 FEATURED PROJECTS - MY CREATIONS 🚀
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 **GitHub Trophies**
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nishatkh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
-</p>
+<!-- PROJECT CARDS WITH GLOWING EFFECTS -->
+<table align="center">
+<tr>
+<td width="50%" align="center">
 
-<!-- ============================================================ -->
-<!-- CODING ACTIVITY - WAKATIME STATS -->
-<!-- ============================================================ -->
+### 🕐 [TermClock](https://github.com/nishatkh/termclock)
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="400"/>
 
-## ⚡ **Recent Activity & Contributions**
+#### Animated Terminal Clock for Linux & SSH
 
-</div>
+**🔥 FEATURES:**
+- ⚡ **Lightning Performance** - Blazing fast rendering
+- 🎨 **ASCII Art Magic** - Multiple beautiful fonts
+- 📊 **System Monitor** - Real-time stats display
+- 🌈 **Color Customization** - Your terminal, your style
+- 🔧 **SSH Optimized** - Perfect for remote sessions
 
-```text
-🌞 Morning     ████████░░░░░░░░░   35.2%
-🌆 Daytime     ████████████░░░░░   52.8%
-🌃 Evening     ██████░░░░░░░░░░░   28.4%
-🌙 Night       ███░░░░░░░░░░░░░░   14.6%
-
-💻 Most Used Languages:
-Python       ████████████░░░░░   48.2%
-JavaScript   ██████████░░░░░░░   38.7%
-C++          ████░░░░░░░░░░░░░   15.3%
-Java         ███░░░░░░░░░░░░░░   12.1%
-HTML/CSS     ███░░░░░░░░░░░░░░   11.8%
+**💻 TECH STACK:**
+```yaml
+Language: Python 🐍
+Interface: Terminal UI
+Graphics: ASCII Art
+Platform: Linux/Unix
 ```
 
-<!-- ============================================================ -->
-<!-- CONTRIBUTION SNAKE -->
-<!-- ============================================================ -->
+<a href="https://github.com/nishatkh/termclock">
+  <img src="https://img.shields.io/badge/View%20Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+**🏷️ TAGS:**  
+`#terminal` `#python` `#cli-tool` `#ascii-art` `#tty-clock`
+
+</td>
+<td width="50%" align="center">
+
+### ✈️ [Smart Airport Network](https://github.com/nishatkh/smart-airport)
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTBqcXJsMzB5ZGM0eWltdG1pMjZwdGd3OHB5dWN5eGk4aWN3YmVwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlNQ03J5JxX6lva/giphy.gif" width="400"/>
+
+#### Enterprise Airport Infrastructure Simulation
+
+**🔥 FEATURES:**
+- 🌐 **Complete Topology** - Real-world network design
+- 📡 **Hybrid Network** - Wired + Wireless integration
+- 🔒 **Enterprise Security** - Advanced protocols
+- 🤖 **IoT Integration** - Smart device management
+- 🎯 **VLAN & Routing** - Professional configuration
+
+**💻 TECH STACK:**
+```yaml
+Platform: Cisco Packet Tracer
+Design: Network Architecture
+Tech: VLAN, Routing, IoT
+Protocols: TCP/IP, DNS, DHCP
+```
+
+<a href="https://github.com/nishatkh/smart-airport">
+  <img src="https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=cisco&logoColor=white" />
+</a>
+
+**🏷️ TAGS:**  
+`#networking` `#cisco` `#iot` `#infrastructure` `#enterprise`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 📝 [Repono](https://github.com/nishatkh/repono)
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400"/>
+
+#### AI-Powered README Generator
+
+**🔥 FEATURES:**
+- 🤖 **AI Intelligence** - Smart content generation
+- 🔗 **GitHub Sync** - Seamless integration
+- 🎨 **Pro Templates** - Beautiful designs
+- ⚡ **Instant Generate** - Lightning speed
+- 📋 **Best Practices** - Industry standards
+
+**💻 TECH STACK:**
+```yaml
+AI: Machine Learning Models
+Frontend: React, Next.js
+Backend: Node.js, Express
+API: GitHub REST API
+```
+
+<a href="https://github.com/nishatkh/repono">
+  <img src="https://img.shields.io/badge/View%20Project-4CAF50?style=for-the-badge&logo=ai&logoColor=white" />
+</a>
+
+**🏷️ TAGS:**  
+`#ai` `#automation` `#github` `#readme` `#developer-tools`
+
+</td>
+<td width="50%" align="center">
+
+### 🌐 [Anos Social](https://github.com/nishatkh/anos)
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
+
+#### Modern Social Platform for DIU
+
+**🔥 FEATURES:**
+- 💬 **Real-Time Chat** - Instant messaging
+- 👥 **Communities** - Topic-based groups
+- 🔥 **Trending Topics** - Viral content discovery
+- 📱 **Responsive UI** - Mobile-first design
+- 🔔 **Smart Alerts** - Personalized notifications
+
+**💻 TECH STACK:**
+```yaml
+Frontend: React, Tailwind CSS
+Backend: Node.js, Express
+Database: MongoDB
+Real-time: Socket.io, Redis
+```
+
+<a href="https://github.com/nishatkh/anos">
+  <img src="https://img.shields.io/badge/View%20Project-9C27B0?style=for-the-badge&logo=react&logoColor=white" />
+</a>
+
+**🏷️ TAGS:**  
+`#social-media` `#mern-stack` `#real-time` `#community`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 📚 [DIU Note Vault](https://github.com/nishatkh/diu-notes)
+
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="400"/>
+
+#### Collaborative Study Platform
+
+**🔥 FEATURES:**
+- 📖 **Note Library** - Thousands of resources
+- 🔍 **Smart Search** - Find anything instantly
+- 📂 **Organized** - Course & subject wise
+- ⭐ **Community Rated** - Quality assured
+- 📥 **Easy Access** - Download & upload
+
+**💻 TECH STACK:**
+```yaml
+Frontend: Next.js, TypeScript
+Backend: Node.js
+Database: MongoDB
+Storage: AWS S3
+Search: Elasticsearch
+```
+
+<a href="https://github.com/nishatkh/diu-notes">
+  <img src="https://img.shields.io/badge/View%20Project-FF9800?style=for-the-badge&logo=education&logoColor=white" />
+</a>
+
+**🏷️ TAGS:**  
+`#education` `#notes` `#student-platform` `#knowledge-sharing`
+
+</td>
+<td width="50%" align="center">
+
+### 🎯 More Awesome Projects
+
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400"/>
+
+#### Coming Soon! 🚀
+
+**BREWING IN THE LAB:**
+- 🧠 **AI Study Assistant** - Personal tutor
+- 🏠 **Smart Home Hub** - IoT automation
+- 🎮 **Game Projects** - Indie games
+- 📊 **Data Dashboard** - Analytics viz
+- 🔐 **Cyber Security Tool** - Penetration testing
+
+**STAY TUNED!** ⭐
+
+<a href="https://github.com/nishatkh">
+  <img src="https://img.shields.io/badge/Explore%20More-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<!-- ============================================================================================================ -->
+<!-- GITHUB STATS - EXPLOSIVE ANALYTICS -->
+<!-- ============================================================================================================ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  📊 GITHUB STATS - THE NUMBERS DON'T LIE 📊
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50">
+</div>
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/nishatkh/nishatkh/output/github-contribution-grid-snake-dark.svg)
+<!-- STATS CARDS -->
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nishatkh&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Nishat Khan github stats" /> 
+
+<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=nishatkh&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" />
 
 </div>
-
-<!-- ============================================================ -->
-<!-- CONNECT WITH ME - SOCIAL LINKS -->
-<!-- ============================================================ -->
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🤝 **Let's Connect & Collaborate!**
-
-### 💌 **Get In Touch**
+  
+<!-- LANGUAGE STATS -->
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishatkh&layout=compact&hide_border=true&title_color=00FFFF&text_color=c9d1d9&bg_color=0d1117&langs_count=10" />
 
 </div>
+
+<div align="center">
+
+<!-- PROFILE DETAILS -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishatkh&theme=radical" />
+
+</div>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&custom_title=Nishat's%20Contribution%20Graph&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area_color=0D1117&title_color=00FFFF&area=true" />
+</div>
+
+<!-- TROPHIES -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nishatkh&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<!-- ============================================================================================================ -->
+<!-- CODING STATS & ACTIVITY -->
+<!-- ============================================================================================================ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  ⚡ CODING ACTIVITY & PRODUCTIVITY ⚡
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
+
+<div align="center">
+
+### 📅 **Contribution Graph**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishatkh/nishatkh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishatkh/nishatkh/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nishatkh/nishatkh/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/><br/>
+
+### 💻 **Weekly Development Breakdown**
+
+```text
+🌞 Morning     ████████████░░░░░░░░░   35.2% | Most Productive!
+🌆 Daytime     ███████████████░░░░░░   52.8% | Peak Performance
+🌃 Evening     ████████░░░░░░░░░░░░░   28.4% | Still Going Strong
+🌙 Night       █████░░░░░░░░░░░░░░░░   14.6% | Night Owl Mode
+
+📊 Language Distribution:
+Python       ████████████████░░░░░   48.2%  |  AI/ML Projects
+JavaScript   ██████████████░░░░░░░   38.7%  |  Web Development
+C++          ██████░░░░░░░░░░░░░░░   15.3%  |  System Programming
+Java         █████░░░░░░░░░░░░░░░░   12.1%  |  Android & Backend
+HTML/CSS     ████░░░░░░░░░░░░░░░░░   11.8%  |  Frontend Design
+```
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<!-- ============================================================================================================ -->
+<!-- CONNECT & SOCIAL -->
+<!-- ============================================================================================================ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  🤝 LET'S CONNECT - REACH OUT! 🤝
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</div>
+
+<br/>
 
 <p align="center">
   <a href="mailto:nishatkhan8u@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/nishatkh">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/nishatkh">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/nishatkh">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100053457121891">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://facebook.com/profile.php?id=100053457121891">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://instagram.com/n-i-s-h-a-t-k-h-a-n">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://github.com/nishatkh">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-<!-- ============================================================ -->
-<!-- SUPPORT & SPONSOR -->
-<!-- ============================================================ -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<!-- ============================================================================================================ -->
+<!-- SUPPORT SECTION -->
+<!-- ============================================================================================================ -->
+
+<h2 align="center">
+  💖 SUPPORT MY WORK 💖
+</h2>
 
 <div align="center">
+  <p>If you find my projects helpful or interesting, consider supporting me! Your support fuels my passion! ☕</p>
+  
+  <a href="https://www.buymeacoffee.com/nishatkh">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+  <a href="https://ko-fi.com/nishatkh">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a>
+  <a href="https://patreon.com/nishatkh">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
+  </a>
+</div>
 
-### 💖 **Support My Work**
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
-If you find my projects helpful, consider supporting me!
+<!-- ============================================================================================================ -->
+<!-- INSPIRATION & QUOTES -->
+<!-- ============================================================================================================ -->
 
-<a href="https://www.buymeacoffee.com/nishatkh">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-</a>
-<a href="https://ko-fi.com/nishatkh">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
-</a>
+<h2 align="center">
+  💭 DAILY MOTIVATION 💭
+</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Legends%20are%20made%20by%20hard%20work%20and%20never%20giving%20up.%20When%20things%20get%20hard%2C%20they%20keep%20trying.%20Every%20mistake%20is%20a%20chance%20to%20learn%20and%20grow.&author=Nishat%20Khan&border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  
+### 😄 **Random Dev Humor**
+<img src="https://readme-jokes.vercel.app/api?theme=radical&borderColor=%2300FFFF" alt="Jokes Card" />
 
 </div>
 
-<!-- ============================================================ -->
-<!-- QUOTES & MOTIVATION -->
-<!-- ============================================================ -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<!-- ============================================================================================================ -->
+<!-- SPOTIFY -->
+<!-- ============================================================================================================ -->
+
+<h2 align="center">
+  🎵 CURRENTLY VIBING TO 🎵
+</h2>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💭 **Daily Inspiration**
-
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" />
 </div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<!-- ============================================================================================================ -->
+<!-- FOOTER -->
+<!-- ============================================================================================================ -->
+
+<div align="center">
+
+### ⭐ **If You Like What You See, Drop a Star!** ⭐
+
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="50"/>
+
+<br/>
+
+**💙 "Keep working, stay strong, and your story will inspire others." 💙**
+
+<br/>
+
+<!-- VISITOR & STATS BADGES -->
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnishatkh&label=VISITORS&countColor=%2300ffff&style=flat&labelStyle=upper)
+![Profile Views](https://komarev.com/ghpvc/?username=nishatkh&color=00ffff&style=flat&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/nishatkh?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/nishatkh?label=Stars&style=social)
+
+<br/>
+
+<!-- ANIMATED GLITCH ELEMENTS -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
+
+<br/><br/>
+
+### 🚀 **Thank You for Visiting!** 🚀
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Legends%20are%20made%20by%20hard%20work%20and%20never%20giving%20up.%20When%20things%20get%20hard,%20they%20keep%20trying.%20Every%20mistake%20is%20a%20chance%20to%20learn%20and%20grow.&author=Nishat%20Khan" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,11,20&section=footer&animation=twinkling"/>
 </p>
 
-<!-- ============================================================ -->
-<!-- FUN ELEMENTS -->
-<!-- ============================================================ -->
+---
 
-<div align="center">
-
-### 😄 **Random Dev Joke**
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-
-### 🎵 **Currently Vibing To**
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l5bvod3jx5gozqgwwjqwf3w5aq&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00d9ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31l5bvod3jx5gozqgwwjqwf3w5aq&redirect=true)
+<p align="center">
+  <sub><strong>Last Updated:</strong> January 2026 | <strong>Made with</strong> 💙 <strong>by Nishat Khan</strong></sub>
+  <br/>
+  <sub>Crafted with passion, powered by curiosity, driven by innovation ⚡</sub>
+</p>
 
 </div>
 
-<!-- ============================================================ -->
-<!-- FOOTER WITH WAVE -->
-<!-- ============================================================ -->
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### ⭐ **Star Some Repos If You Like What You See!**
-
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40"/>
-
-**"Keep working, stay strong, and your story will inspire others."**
-
-![Profile Views](https://komarev.com/ghpvc/?username=nishatkh&color=00d9ff&style=flat-square&label=Visitors)
-![Followers](https://img.shields.io/github/followers/nishatkh?style=flat-square&color=00d9ff&labelColor=0d1117)
-![Stars](https://img.shields.io/github/stars/nishatkh?style=flat-square&color=00d9ff&labelColor=0d1117)
-
-</div>
-
-<!-- Animated Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-
-<!-- ============================================================ -->
-<!-- LAST UPDATED -->
-<!-- ============================================================ -->
-
-<div align="center">
-  <sub>Last Updated: <strong>January 2026</strong> | Made with 💙 by Nishat Khan</sub>
-</div>
+<!-- SECRET EASTEREGG FOR VIEWERS -->
+<!-- 
+  ██╗  ██╗███████╗██╗     ██╗      ██████╗     ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗ ██╗
+  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ██║    ██║██╔═══██╗██╔══██╗██║     ██╔══██╗██║
+  ███████║█████╗  ██║     ██║     ██║   ██║    ██║ █╗ ██║██║   ██║██████╔╝██║     ██║  ██║██║
+  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║    ██║███╗██║██║   ██║██╔══██╗██║     ██║  ██║╚═╝
+  ██║  ██║███████╗███████╗███████╗╚██████╔╝    ╚███╔███╔╝╚██████╔╝██║  ██║███████╗██████╔╝██╗
+  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝      ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝
+  
+  Thanks for checking out my profile! Let's build something amazing together! 🚀
+-->
