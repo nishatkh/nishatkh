@@ -54,7 +54,7 @@ const nishat = {
     university: "Daffodil International University",
     degree: "Computing & Information Systems",
     specialization: "AI in IoT",
-    year: "2027"
+    year: "2028"
   },
   
   interests: [
