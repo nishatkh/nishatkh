@@ -106,7 +106,7 @@ const nishat = {
 ### 📌 **My Journey**
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/49/06/59/490659714c77ed847802d29f3cf34100.gif" width="800"/>
+  <img src="https://i.pinimg.com/originals/49/06/59/490659714c77ed847802d29f3cf34100.gif" width="950"/>
 </p>
 
 <p align="center">
