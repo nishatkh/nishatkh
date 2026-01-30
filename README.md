@@ -206,7 +206,9 @@ const nishat = {
 <tr>
 <td width="50%">
 <br/>
+  
 **🎯 Description**
+
 A fast and lightweight animated terminal clock written in Python. A modern tty-clock alternative with ASCII fonts, smooth animations, and optional system information.
 <br/>
 
