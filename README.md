@@ -64,7 +64,7 @@ A fast and lightweight animated terminal clock written in Python. A modern tty-c
 - System information display
 - Lightweight & fast
 
-🏷️ *terminal clock · animated terminal app · tty-clock alternative · linux terminal clock · python terminal UI*
+🏷️ *terminal clock · animated terminal app · linux terminal clock · python terminal UI*
 
 </td>
 <td width="50%">
