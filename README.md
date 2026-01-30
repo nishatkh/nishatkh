@@ -615,19 +615,23 @@ Auth: NextAuth.js
 </p>
 
 <!-- ====================================== GITHUB STATS SECTION ====================================== -->
+ <!-- Top small GIF -->
+<p align="center">
   <img src="https://media0.giphy.com/media/Sh1iCtJZEdx4PFYy4q/source.gif" width="120" />
-  GitHub Statistics
-<br/>
+</p>
+
+<!-- GitHub Statistics -->
+## GitHub Statistics
 <br/>
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&custom_title=Contribution%20Graph&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area_color=0D1117&title_color=00FFFF&area=true&hide_border=true" />
 
 <br/>
 
-</div>
+<!-- Bottom GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="150" />
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
 
 <!-- ====================================== ACTIVITY SECTION ====================================== -->
 
