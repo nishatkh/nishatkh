@@ -465,11 +465,6 @@ Auth: OAuth 2.0
 
 A modern social media platform for DIU students combining features of Twitter and Reddit. Share posts, join communities, and engage in discussions.
 
-<br/>
-
-</td>
-
-<br/>
 **✨ Key Features**
 
 - 💬 **Real-Time Chat** - Instant messaging system
