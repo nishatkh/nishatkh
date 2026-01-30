@@ -1,8 +1,7 @@
-
 <p align="center">
   <img src="https://i.pinimg.com/originals/49/06/59/490659714c77ed847802d29f3cf34100.gif" width="1000">
 </p>
-<p align="center" style="font-family: 'Fira Code', monospace; color: #8A2BE2; max-width: 600px; margin: 20px auto; font-size: 18px; line-height: 1.5;"> <strong>Legends are made by hard work and never giving up.</strong><br><br> When things get hard, they keep trying. Every mistake is a chance to learn and grow.<br><br> <em>“Keep working, stay strong, and your story will inspire others.”</em> </p>
+<p align="center" style="font-family: 'Fira Code', monospace; color: #8A2BE2; max-width: 600px; margin: 20px auto; font-size: 18px; line-height: 1.5;"> <strong>Legends are made by hard work and never giving up.</strong><br><br> When things get hard, they keep trying. Every mistake is a chance to learn and grow.<br><br> <em>"Keep working, stay strong, and your story will inspire others."</em> </p>
 <p align ="center">
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40"/>
 </p>
@@ -18,7 +17,7 @@
   majoring in <strong>AI in IoT</strong>.
 </p>
 <p>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Magnifying Glass Tilted Left" width="25" height="25" /> I’m deeply interested in how technology can solve real-life problems especially using
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Magnifying Glass Tilted Left" width="25" height="25" /> I'm deeply interested in how technology can solve real-life problems especially using
   <strong>AI</strong> and <strong>IoT</strong>.
 </p>
 </p>
@@ -44,8 +43,113 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Languages and Tools:
   [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,javascript,php,html,css,react,nextjs,nodejs,express,bootstrap,tailwindcss,mongodb,mysql,postgresql,arduino,raspberrypi,linux,git,github,postman,firebase,figma,androidstudio,docker,pycharm,clion,opencv,pytorch,tensorflow&perline=10&theme=light)](https://skillicons.dev)
 
+---
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🕐 TermClock
+**Animated Terminal Clock for Linux & SSH**
+
+A fast and lightweight animated terminal clock written in Python. A modern tty-clock alternative with ASCII fonts, smooth animations, and optional system information.
+
+**Tech Stack:** `Python` `Terminal UI` `ASCII Art`
+
+**Features:**
+- Smooth animations
+- ASCII font support
+- System information display
+- Lightweight & fast
+
+🏷️ *terminal clock · animated terminal app · tty-clock alternative · linux terminal clock · python terminal UI*
+
+</td>
+<td width="50%">
+
+### ✈️ Smart Airport Network System
+**Enterprise-Level Airport Infrastructure**
+
+A comprehensive Cisco Packet Tracer project demonstrating modern airport networking infrastructure. Showcases practical networking skills through realistic simulation of airport operations.
+
+**Tech Stack:** `Cisco Packet Tracer` `Network Design` `IoT`
+
+**Features:**
+- Wired & wireless integration
+- IoT device management
+- Enterprise-level services
+- Realistic airport operations
+
+🏷️ *network simulation · cisco · airport infrastructure · IoT integration*
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📝 Repono
+**AI-Powered README Generator**
+
+AI-Enhanced README generator for modern developers with GitHub integration and professional templates.
+
+**Tech Stack:** `AI` `GitHub API` `Web Development`
+
+**Features:**
+- GitHub Integration
+- AI-powered content generation
+- Professional templates
+- Developer-friendly
+
+🏷️ *AI tools · README generator · developer productivity · automation*
+
+</td>
+<td width="50%">
+
+### 🌐 Anos
+**Social Media Platform for DIU**
+
+A modern social platform combining the best of Twitter and Reddit. Share posts, join communities, and engage in meaningful discussions.
+
+**Tech Stack:** `Full Stack Web` `Social Media` `Community Platform`
+
+**Features:**
+- Post sharing & discussions
+- Community engagement
+- Modern UI/UX
+- Real-time interactions
+
+🏷️ *social media · community platform · full stack · web app*
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" colspan="2">
+
+### 📚 DIU Note Vault
+**Study Together, Succeed Together**
+
+A collaborative platform for DIU students to share, browse, and access study materials. Building a community of knowledge sharing and academic excellence.
+
+**Tech Stack:** `Web Development` `Database` `File Management`
+
+**Features:**
+- Browse & share notes
+- Community-driven content
+- Organized by subjects
+- Easy access & search
+
+🏷️ *education · note sharing · student community · knowledge base*
+
+</td>
+</tr>
+</table>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=nishatkh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
@@ -57,8 +161,5 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/0e/4d/93/0e4d93c2f91c111aeffaf79bef3ec5de.gif" alt="Thank You" />
+  <img src="https://i.pinimg.com/originals/0e/4d/93/0e4d93c2f91c111aaffaf79bef3ec5de.gif" alt="Thank You" />
 </p>
-
-
-
