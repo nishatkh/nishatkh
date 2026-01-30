@@ -110,7 +110,7 @@ const nishat = {
 </p>
 
 <p align="center">
-  <i>"Legends are made by hard work and never giving up. When things get hard, they keep trying. Every mistake is a chance to learn and grow."</i>
+  <i>"I don't care if you're a king or not. There are things that matter more than power"</i>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
