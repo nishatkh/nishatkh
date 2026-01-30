@@ -123,12 +123,12 @@ const nishat = {
 
 <!-- ====================================== TECH STACK SECTION ====================================== -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" align="left">
 
 <h2 align="left">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32">
   Tech Stack & Tools
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32">
 </h2>
 
 <br/>
@@ -136,7 +136,7 @@ const nishat = {
 <details open>
 <summary><b>🤖 Artificial Intelligence & Machine Learning</b></summary>
 <br/>
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=4" />
 </p>
 </details>
@@ -144,7 +144,7 @@ const nishat = {
 <details open>
 <summary><b>💻 Programming Languages</b></summary>
 <br/>
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,php&perline=6" />
 </p>
 </details>
@@ -152,7 +152,7 @@ const nishat = {
 <details open>
 <summary><b>🌐 Frontend Development</b></summary>
 <br/>
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&perline=7" />
 </p>
 </details>
@@ -160,7 +160,7 @@ const nishat = {
 <details open>
 <summary><b>⚙️ Backend Development</b></summary>
 <br/>
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,php&perline=3" />
 </p>
 </details>
@@ -168,7 +168,7 @@ const nishat = {
 <details open>
 <summary><b>🗄️ Databases</b></summary>
 <br/>
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase&perline=4" />
 </p>
 </details>
@@ -176,7 +176,7 @@ const nishat = {
 <details open>
 <summary><b>⚡ IoT & Embedded Systems</b></summary>
 <br/>
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=2" />
 </p>
 </details>
@@ -184,14 +184,12 @@ const nishat = {
 <details open>
 <summary><b>🛠️ Development Tools</b></summary>
 <br/>
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma,androidstudio&perline=8" />
 </p>
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" align="left">
 
 <!-- ====================================== PROJECTS SECTION ====================================== -->
 
