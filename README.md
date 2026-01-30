@@ -633,7 +633,6 @@ Auth: NextAuth.js
 
 <!-- ====================================== ACTIVITY SECTION ====================================== -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
@@ -669,7 +668,6 @@ HTML/CSS     ████░░░░░░░░░░░░░░░░   11.8
 
 <!-- ====================================== CONNECT SECTION ====================================== -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
@@ -716,8 +714,6 @@ HTML/CSS     ████░░░░░░░░░░░░░░░░   11.8
 
 <!-- ====================================== SUPPORT SECTION ====================================== -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
 <h2 align="center">💖 Support My Work</h2>
 
 <p align="center">
@@ -739,7 +735,6 @@ HTML/CSS     ████░░░░░░░░░░░░░░░░   11.8
 
 <!-- ====================================== INSPIRATION SECTION ====================================== -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 <h2 align="center">💭 Daily Inspiration</h2>
 
@@ -763,8 +758,6 @@ HTML/CSS     ████░░░░░░░░░░░░░░░░   11.8
 
 <!-- ====================================== FOOTER ====================================== -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
 <br/>
 
 <div align="center">
@@ -787,7 +780,7 @@ HTML/CSS     ████░░░░░░░░░░░░░░░░   11.8
 
 ---
 
-<sub>**Last Updated:** January 2026 | **Made with** 💙 **by Nishat Khan**</sub>
+<sub>**Last Updated:** January 2026 | **Made by Nishat Khan**</sub>
 <br/>
 <sub>Crafted with passion • Powered by curiosity • Driven by innovation ⚡</sub>
 
