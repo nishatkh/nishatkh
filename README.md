@@ -616,22 +616,6 @@ Auth: NextAuth.js
 <br/>
 
 <div align="center">
-
-<table>
-<tr>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishatkh&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishatkh&theme=react&hide_border=true&stroke=0000&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" />
-</p>
-
-</tr>
-</table>
-
-<br/>
-
 <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishatkh&layout=compact&hide_border=true&title_color=00FFFF&text_color=c9d1d9&bg_color=0d1117&langs_count=10" />
 
 <br/><br/>
