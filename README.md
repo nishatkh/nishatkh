@@ -620,11 +620,10 @@ Auth: NextAuth.js
   <img src="https://miro.medium.com/0*khSm-BwiYiSlQeGY.gif" width="36" style="vertical-align: middle;" />
   GitHub Statistics
 </h2>
-
 <br/>
-
+<p align="center">
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&custom_title=Contribution%20Graph&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area_color=0D1117&title_color=00FFFF&area=true&hide_border=true" />
-
+</p>
 <br/>
 
 <p align="center">
