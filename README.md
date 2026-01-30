@@ -194,15 +194,11 @@ const nishat = {
   Featured Projects
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
 </h2>
-
 <br/>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
-
 <br/>
-
 <!-- PROJECT 1: TERMCLOCK -->
 <details open>
 <summary><h3>🕐 TermClock - Animated Terminal Clock</h3></summary>
@@ -210,11 +206,8 @@ const nishat = {
 <tr>
 <td width="50%">
 <br/>
-
 **🎯 Description**
-
 A fast and lightweight animated terminal clock written in Python. A modern tty-clock alternative with ASCII fonts, smooth animations, and optional system information.
-
 <br/>
 
 **✨ Key Features**
