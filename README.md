@@ -1,7 +1,27 @@
 <div align="center">
 
-<!-- LUXURY ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&text=NISHAT%20KHAN&fontSize=80&fontAlignY=35&desc=AI%20Engineer%20|%20IoT%20Specialist%20|%20Tech%20Innovator&descAlignY=51&descSize=20&animation=twinkling&fontColor=fff"/>
+<!-- ADVANCED CREATIVE ANIMATED HEADER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=NISHAT%20KHAN&animation=fadeIn&fontAlignY=38&fontSize=50&fontColor=gradient&stroke=FFFFFF&strokeWidth=2" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=AI+Engineer+%F0%9F%A4%96;IoT+Specialist+%F0%9F%93%A1;Tech+Innovator+%F0%9F%9A%80;Building+The+Future+%E2%9C%A8" alt="Subtitle" />
+</div>
+
+<br/>
+
+<!-- Creative Visual Elements -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+</p>
+
+<!-- Animated Profile Banner -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+
+<br/>
 
 </div>
 
