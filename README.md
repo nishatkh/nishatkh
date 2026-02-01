@@ -1,6 +1,5 @@
 <div align="center">
-<!-- PREMIUM PROFESSIONAL HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667EEA,100:764BA2&height=300&section=header&text=NISHAT%20KHAN&fontSize=80&fontColor=ffffff&animation=twinkling&stroke=FF6B6B&strokeWidth=2&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20IoT%20Specialist%20%E2%80%A2%20Tech%20Innovator&descSize=20&descAlignY=60" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&text=NISHAT%20KHAN&fontSize=80&fontAlignY=35&desc=AI%20Engineer%20|%20IoT%20Specialist%20|%20Tech%20Innovator&descAlignY=51&descSize=20&animation=twinkling&fontColor=fff"/>
 </div>
 <!-- EPIC TYPING EFFECT -->
 <p align="center">
