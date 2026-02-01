@@ -2,12 +2,10 @@
 <!-- PREMIUM PROFESSIONAL HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:667EEA,100:764BA2&height=300&section=header&text=NISHAT%20KHAN&fontSize=80&fontColor=ffffff&animation=twinkling&stroke=FF6B6B&strokeWidth=2&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20IoT%20Specialist%20%E2%80%A2%20Tech%20Innovator&descSize=20&descAlignY=60" width="100%"/>
 </div>
-
 <!-- EPIC TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Welcome+to+My+Digital+Universe+%F0%9F%8C%8C;Artificial+Intelligence+%2B+IoT+Engineer+%F0%9F%A4%96;Building+Intelligent+Systems+%F0%9F%9A%80;Machine+Learning+%7C+Deep+Learning+%F0%9F%A7%A0;Always+Learning%2C+Always+Building+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&width=940&lines=Welcome+to+My+Digital+Universe+%F0%9F%8C%8C;Artificial+Intelligence+%2B+IoT+Engineer+%F0%9F%A4%96;Building+Intelligent+Systems+%F0%9F%9A%80;Machine+Learning+%7C+Deep+Learning+%F0%9F%A7%A0;Always+Learning%2C+Always+Building+%E2%9C%A8" alt="Typing SVG" />
 </p>
-
 <!-- PREMIUM BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20in%20IoT-blueviolet?style=for-the-badge&logo=robot&logoColor=white" />
