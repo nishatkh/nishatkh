@@ -1,8 +1,6 @@
 <div align="center">
-
 <!-- PREMIUM PROFESSIONAL HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:667EEA,100:764BA2&height=300&section=header&text=NISHAT%20KHAN&fontSize=80&fontColor=ffffff&animation=twinkling&stroke=FF6B6B&strokeWidth=2&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20IoT%20Specialist%20%E2%80%A2%20Tech%20Innovator&descSize=20&descAlignY=60" width="100%"/>
-
 </div>
 
 <!-- EPIC TYPING EFFECT -->
