@@ -1,497 +1,737 @@
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&text=NISHAT%20KHAN&fontSize=80&fontAlignY=35&desc=AI%20Engineer%20|%20IoT%20Specialist%20|%20Tech%20Innovator&descAlignY=51&descSize=20&animation=twinkling&fontColor=fff"/>
+</div>
+<!-- EPIC TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&width=940&lines=Welcome+to+My+Digital+Universe+%F0%9F%8C%8C;Artificial+Intelligence+%2B+IoT+Engineer+%F0%9F%A4%96;Building+Intelligent+Systems+%F0%9F%9A%80;Machine+Learning+%7C+Deep+Learning+%F0%9F%A7%A0;Always+Learning%2C+Always+Building+%E2%9C%A8" alt="Typing SVG" />
+</p>
+<!-- PREMIUM BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20in%20IoT-blueviolet?style=for-the-badge&logo=robot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Based_in-Dhaka,_Bangladesh-success?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Building_the_Future-ff69b4?style=for-the-badge&logo=rocket&logoColor=white" />
+</p>
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,3,5,6&text=NISHAT%20KHAN&fontSize=90&fontAlignY=35&desc=AI%20Engineer%20•%20IoT%20Architect%20•%20System%20Designer&descAlignY=52&descSize=22&animation=fadeIn&fontColor=FFFFFF&descAlign=50"/>
+<!-- SOCIAL STATS -->
+<p align="center">
+  <a href="https://github.com/nishatkh">
+    <img src="https://img.shields.io/github/followers/nishatkh?label=Followers&style=social" alt="followers" />
+  </a>
+  <a href="https://github.com/nishatkh">
+    <img src="https://img.shields.io/github/stars/nishatkh?label=Stars&style=social" alt="stars" />
+  </a>
+</p>
 
-<!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=Building+Intelligence+at+the+Edge;Neural+Networks+%2B+Embedded+Systems;Transforming+Ideas+into+Intelligent+Solutions;AI+Engineer+%7C+IoT+Specialist;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- ====================================== ABOUT ME SECTION ====================================== -->
+
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+  About Me
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+</h2>
 
 <br/>
 
-<!-- Status Badges -->
-<p>
-  <img src="https://img.shields.io/badge/Focus-AI%20in%20IoT-00D9FF?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Based-Dhaka%2C%20Bangladesh-00C853?style=for-the-badge&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Collaboration-FF6B6B?style=for-the-badge&logo=handshake&logoColor=white" />
-</p>
+<table>
+<tr>
+<td width="55%">
 
-<!-- Social Stats with Animation -->
-<p>
-  <a href="https://github.com/nishatkh">
-    <img src="https://img.shields.io/github/followers/nishatkh?label=Followers&style=social&logo=github" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/nishatkh">
-    <img src="https://img.shields.io/github/stars/nishatkh?label=Stars&style=social&logo=github" alt="GitHub Stars" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=nishatkh&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
+### 👨‍💻 **Quick Introduction**
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- About Section with Gradient -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
-
-</div>
-
-```typescript
-const nishatKhan = {
-    identity: {
-        name: "Nishat Khan",
-        role: "AI Engineer & IoT Architect",
-        location: "Dhaka, Bangladesh 🇧🇩",
-        education: {
-            university: "Daffodil International University",
-            degree: "BSc in Computing & Information Systems",
-            specialization: "Artificial Intelligence in IoT",
-            expectedGraduation: 2028
-        }
-    },
-    
-    coreCompetencies: [
-        "Artificial Intelligence & Machine Learning",
-        "Internet of Things & Embedded Systems",
-        "Full-Stack Development",
-        "Network Architecture & Engineering",
-        "Cloud Computing & DevOps",
-        "System Design & Optimization"
-    ],
-    
-    currentFocus: {
-        learning: [
-            "Neural network optimization for edge devices",
-            "Real-time computer vision systems",
-            "Federated learning for IoT networks",
-            "MLOps best practices"
-        ],
-        building: [
-            "Smart IoT ecosystems with ML inference",
-            "Scalable distributed systems",
-            "AI-powered automation tools"
-        ]
-    },
-    
-    philosophy: "Innovation through continuous learning and systematic problem-solving",
-    
-    availability: "Open for collaboration and exciting opportunities"
+```javascript
+const nishat = {
+  name: "Nishat Khan",
+  location: "Dhaka, Bangladesh 🇧🇩",
+  
+  education: {
+    university: "Daffodil International University",
+    degree: "Computing & Information Systems",
+    specialization: "AI in IoT",
+    year: "2028"
+  },
+  
+  interests: [
+    "Artificial Intelligence 🤖",
+    "Internet of Things 📡", 
+    "Machine Learning 🧠",
+    "Deep Learning 🔬",
+    "Network Engineering 🌐",
+    "System Design 🏗️"
+  ],
+  
+  currentFocus: {
+    learning: ["Neural Networks", "Edge Computing"],
+    building: ["Smart Systems", "AI Applications"],
+    exploring: ["Cloud Architecture", "Microservices"]
+  },
+  
+  philosophy: "Hard work + Never giving up = Legend"
 };
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</td>
+<td width="45%">
 
-<!-- Tech Stack Section -->
-<div align="center">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> Tech Stack & Expertise
-
-</div>
-
-<div align="center">
-
-### 🤖 AI & Machine Learning
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
-
-### 💻 Programming Languages
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-
-### 🎨 Frontend Development
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-
-### ⚙️ Backend Development
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
-
-### 🗄️ Databases & Storage
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-
-### 📡 IoT & Embedded Systems
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/)
-[![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/)
-[![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)](https://mqtt.org/)
-
-### ☁️ Cloud & DevOps
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-
-### 🛠️ Development Tools
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Featured Projects -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Featured Projects
-
-</div>
-
-<!-- Project 1: TermClock -->
-<div align="center">
-
-### 🕐 [TermClock - Animated Terminal Clock](https://github.com/nishatkh/termclock)
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-</div>
-
-**A fast and lightweight animated terminal clock with ASCII art rendering and system monitoring capabilities.**
-
-```yaml
-🎯 Key Features:
-  ⚡ Lightning Performance      → Optimized for <1% CPU usage
-  🎨 ASCII Art Fonts           → Multiple beautiful styles
-  📊 System Monitor            → Real-time stats display (CPU, RAM, Disk)
-  🌈 Customizable              → Colors, fonts, and layouts
-  🔧 SSH Compatible            → Perfect for remote servers
-  🐧 Linux Native              → Built for Unix systems
-
-💻 Tech Stack:
-  Language: Python 3.8+
-  Interface: ANSI/VT100 terminal sequences
-  Performance: <1% CPU, minimal memory footprint
-  Platforms: Linux, macOS, BSD
-
-🚀 Installation:
-  git clone https://github.com/nishatkh/termclock
-  cd termclock
-  ./termclock.py --font banner --sysinfo
-```
-
-<div align="center">
-
-[![Repository](https://img.shields.io/badge/View_Repository-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nishatkh/termclock)
-[![Stars](https://img.shields.io/github/stars/nishatkh/termclock?style=social)](https://github.com/nishatkh/termclock)
-
-</div>
-
----
-
-<!-- Project 2: Smart Airport -->
-<div align="center">
-
-### ✈️ [Smart Airport Network System](https://github.com/nishatkh/smart-airport)
-
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/OSPF-FF6B6B?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=iot&logoColor=white" />
-
-</div>
-
-**Enterprise-grade network infrastructure demonstrating modern airport networking with IoT integration.**
-
-```yaml
-🎯 Key Features:
-  🌐 Complete Topology          → Hierarchical 3-tier architecture
-  📡 Hybrid Infrastructure      → Wired + Wireless integration
-  🔒 Enterprise Security        → VLANs, ACLs, Firewalls, IDS/IPS
-  🤖 IoT Integration            → Smart sensors and device management
-  🎯 Advanced Routing           → OSPF, EIGRP dynamic protocols
-  📊 Network Services           → DNS, DHCP, NAT, VoIP (SIP)
-
-💻 Tech Stack:
-  Platform: Cisco Packet Tracer
-  Protocols: TCP/IP, OSPF, EIGRP, VTP, STP
-  Security: VLANs, ACLs, Port Security, VPNs
-  Services: DNS, DHCP, NAT/PAT, QoS
-  IoT: MQTT Broker, Sensor Networks
-
-📈 Network Stats:
-  50+ network devices configured
-  200+ endpoints connected
-  15+ VLANs implemented
-  99.9% uptime design architecture
-```
-
-<div align="center">
-
-[![Repository](https://img.shields.io/badge/View_Repository-FF6B6B?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/nishatkh/smart-airport)
-[![Stars](https://img.shields.io/github/stars/nishatkh/smart-airport?style=social)](https://github.com/nishatkh/smart-airport)
-
-</div>
-
----
-
-<!-- Project 3: Repono -->
-<div align="center">
-
-### 📝 [Repono - AI README Generator](https://github.com/nishatkh/repono)
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-</div>
-
-**AI-powered README generator for modern developers with GitHub integration and professional templates.**
-
-```yaml
-🎯 Key Features:
-  🤖 AI Intelligence           → GPT-4 powered content generation
-  🔗 GitHub Sync               → Direct repository integration
-  🎨 Pro Templates             → 20+ beautiful pre-designed layouts
-  ⚡ Instant Generate          → <2 second generation time
-  📋 Best Practices            → Industry-standard formatting
-  🌐 Multi-Language            → Support for various programming languages
-  📊 Analytics                 → Track README engagement metrics
-
-💻 Tech Stack:
-  Frontend: React 18, Next.js 14, Tailwind CSS
-  Backend: Node.js, Express, Next.js API Routes
-  AI/ML: OpenAI GPT-4 API, NLP Models
-  Database: MongoDB with Prisma ORM
-  API: GitHub REST API v3
-  Auth: OAuth 2.0, NextAuth.js
-  Deployment: Vercel, AWS S3
-
-🚀 Performance:
-  95+ PageSpeed Score
-  Real-time preview rendering
-  Zero-downtime deployments
-  Advanced caching strategy
-```
-
-<div align="center">
-
-[![Repository](https://img.shields.io/badge/View_Repository-4CAF50?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/nishatkh/repono)
-[![Stars](https://img.shields.io/github/stars/nishatkh/repono?style=social)](https://github.com/nishatkh/repono)
-
-</div>
-
----
-
-<!-- Project 4: Anos -->
-<div align="center">
-
-### 🌐 [Anos - Social Platform for DIU](https://github.com/nishatkh/anos)
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-</div>
-
-**Modern social media platform combining features of Twitter and Reddit for university students.**
-
-```yaml
-🎯 Key Features:
-  💬 Real-Time Chat            → Instant messaging with Socket.io
-  👥 Communities               → Topic-based discussion groups
-  🔥 Trending Topics           → Viral content discovery algorithm
-  📱 Responsive Design         → Mobile-first approach
-  🔔 Smart Notifications       → Personalized real-time alerts
-  🎯 Content Moderation        → Safe community guidelines
-  📊 Analytics Dashboard       → User insights and metrics
-
-💻 Tech Stack:
-  Frontend: React 18, Redux Toolkit, Tailwind CSS
-  Backend: Node.js, Express.js, Socket.io
-  Database: MongoDB, Redis (caching & pub/sub)
-  Real-Time: Socket.io, WebSocket, Bull Queue
-  Auth: JWT, Passport.js, bcrypt
-  Storage: AWS S3, CloudFront CDN
-  Deployment: Docker, Nginx, AWS EC2
-
-📈 Platform Stats:
-  1000+ concurrent users supported
-  <100ms average API response time
-  Real-time message delivery
-  99.5% uptime SLA
-```
-
-<div align="center">
-
-[![Repository](https://img.shields.io/badge/View_Repository-9C27B0?style=for-the-badge&logo=react&logoColor=white)](https://github.com/nishatkh/anos)
-[![Stars](https://img.shields.io/github/stars/nishatkh/anos?style=social)](https://github.com/nishatkh/anos)
-
-</div>
-
----
-
-<!-- Project 5: DIU Note Vault -->
-<div align="center">
-
-### 📚 [DIU Note Vault - Study Platform](https://github.com/nishatkh/diu-notes)
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-
-</div>
-
-**Collaborative study platform for sharing notes, browsing resources, and building academic excellence.**
-
-```yaml
-🎯 Key Features:
-  📖 Extensive Library         → 10,000+ study materials
-  🔍 Smart Search              → Elasticsearch powered filtering
-  📂 Organized Content         → Course & subject categorization
-  ⭐ Rating System             → Community-driven quality control
-  📥 Easy Access               → Quick upload & download
-  👥 Collaboration             → Study group features
-  📊 Progress Tracking         → Learning analytics dashboard
-
-💻 Tech Stack:
-  Frontend: Next.js 14, TypeScript, Tailwind CSS
-  Backend: Next.js API Routes, NextAuth.js
-  Database: MongoDB, Redis (caching)
-  Search: Elasticsearch 8.x with fuzzy matching
-  Storage: AWS S3, CloudFront CDN
-  Validation: Zod schema validation
-  Deployment: Vercel, GitHub Actions
-
-📈 Platform Stats:
-  10,000+ documents indexed
-  50+ courses covered
-  <1s average search time
-  99.9% service availability
-  OCR support for scanned PDFs
-```
-
-<div align="center">
-
-[![Repository](https://img.shields.io/badge/View_Repository-FF9800?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/nishatkh/diu-notes)
-[![Stars](https://img.shields.io/github/stars/nishatkh/diu-notes?style=social)](https://github.com/nishatkh/diu-notes)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- GitHub Stats Section -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
-
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nishatkh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nishatkh&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=00D9FF" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishatkh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&hide=jupyter%20notebook" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=nishatkh&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" />
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&title_color=00D9FF&area=true&hide_border=true" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Trophies -->
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nishatkh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Connect Section -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect
-
-**Open for collaboration on AI/ML projects, IoT systems, and innovative tech solutions.**
-
-</div>
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-nishatkhan8u@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishatkhan8u@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nishat_Khan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishatkh)
-[![GitHub](https://img.shields.io/badge/GitHub-nishatkh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nishatkh)
-[![Twitter](https://img.shields.io/badge/Twitter-@nishatkh-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nishatkh)
-
-[![Instagram](https://img.shields.io/badge/Instagram-n--i--s--h--a--t--k--h--a--n-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/n-i-s-h-a-t-k-h-a-n)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/profile.php?id=100053457121891)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Quote -->
-<div align="center">
-
-### 💭 Philosophy
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Innovation%20through%20continuous%20learning%20and%20systematic%20problem-solving.%20Build%20systems%20that%20matter%2C%20write%20code%20that%20lasts.&author=Nishat%20Khan&border=true&borderWidth=2&borderColor=00D9FF" alt="Quote" />
-
-</div>
-
-<!-- Support -->
-<div align="center">
-
-## 💖 Support My Work
-
-If you find my projects helpful or interesting, consider supporting me!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nishatkh)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nishatkh)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Footer -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,2,3,5,6&section=footer&animation=fadeIn"/>
-
-**⭐ Star some repos if you find them interesting! ⭐**
-
-<sub>Last Updated: January 2026 | Made with ❤️ by Nishat Khan</sub>
 <br/>
-<sub>Powered by passion • Fueled by curiosity • Driven by innovation ⚡</sub>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=nishatkh&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
+<br/><br/>
+
+### 🎯 **Core Values**
+
+> **💡 Innovation First**  
+> Creating intelligent solutions for real-world problems
+
+> **🚀 Continuous Growth**  
+> Learning new technologies every single day
+
+> **🌟 Quality Code**  
+> Writing clean, efficient, and scalable code
+
+> **🤝 Open Source**  
+> Contributing to the developer community
+
+</td>
+</tr>
+</table>
+
+### 📌 **My Journey**
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/a3/41/9e/a3419e3a4411247b25e13ca7eb85d0fe.gif" width="1000"/>
+</p>
+
+<p align="center">
+  <i>"I don't care if you're a king or not. There are things that matter more than power"</i>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+<!-- ====================================== TECH STACK SECTION ====================================== -->
+
+<h2 align="left">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32">
+  Tech Stack & Tools
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32">
+</h2>
+
+<br/>
+
+<details open>
+<summary><b>🤖 Artificial Intelligence & Machine Learning</b></summary>
+<br/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=4" />
+</p>
+</details>
+
+<details open>
+<summary><b>💻 Programming Languages</b></summary>
+<br/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,php&perline=6" />
+</p>
+</details>
+
+<details open>
+<summary><b>🌐 Frontend Development</b></summary>
+<br/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&perline=7" />
+</p>
+</details>
+
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
+<br/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php&perline=3" />
+</p>
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase&perline=4" />
+</p>
+</details>
+
+<details open>
+<summary><b>⚡ IoT & Embedded Systems</b></summary>
+<br/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=2" />
+</p>
+</details>
+
+<details open>
+<summary><b>🛠️ Development Tools</b></summary>
+<br/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma,androidstudio&perline=8" />
+</p>
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" align="left">
+
+<!-- ====================================== PROJECTS SECTION ====================================== -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+  Featured Projects
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+</h2>
+<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+<br/>
+<!-- PROJECT 1: TERMCLOCK -->
+<details open>
+<summary><h3>🕐 TermClock - Animated Terminal Clock</h3></summary>
+<table>
+<tr>
+<td width="50%">
+<br/>
+  
+**🎯 Description**
+
+A fast and lightweight animated terminal clock written in Python. A modern tty-clock alternative with ASCII fonts, smooth animations, and optional system information.
+<br/>
+
+**✨ Key Features**
+
+- ⚡ **Lightning Performance** - Optimized for speed
+- 🎨 **ASCII Art Fonts** - Multiple beautiful styles
+- 📊 **System Monitor** - Real-time stats display
+- 🌈 **Customizable** - Colors, fonts, and layouts
+- 🔧 **SSH Compatible** - Perfect for remote servers
+- 🐧 **Linux Native** - Built for Unix systems
+
+<br/>
+
+**💻 Technologies Used**
+
+```yaml
+Language: Python
+Interface: Terminal UI
+Graphics: ASCII Art
+Platform: Linux/Unix
+Type: CLI Tool
+```
+
+</td>
+<td width="50%">
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+</div>
+
+<br/>
+
+**📦 Installation**
+
+```bash
+git clone https://github.com/nishatkh/termclock
+cd termclock
+python termclock.py
+```
+
+**🎮 Usage**
+
+```bash
+# Basic usage
+./termclock
+
+# With custom font
+./termclock --font banner
+
+# Show system info
+./termclock --sysinfo
+```
+
+<br/>
+
+<div align="center">
+  
+[![Repository](https://img.shields.io/badge/View_Repository-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nishatkh/termclock)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+**🏷️ Tags:** `terminal` `python` `cli-tool` `ascii-art` `tty-clock` `linux` `system-monitor`
+
+</details>
+
+<br/>
+
+<!-- PROJECT 2: SMART AIRPORT -->
+<details open>
+<summary><h3>✈️ Smart Airport Network System</h3></summary>
+
+<table>
+<tr>
+<td width="50%">
+
+<br/>
+
+**🎯 Description**
+
+A comprehensive Cisco Packet Tracer project demonstrating modern airport networking infrastructure with enterprise-level services and IoT integration.
+
+<br/>
+
+**✨ Key Features**
+
+- 🌐 **Complete Network Topology** - Professional design
+- 📡 **Hybrid Infrastructure** - Wired + Wireless
+- 🔒 **Enterprise Security** - VLANs, ACLs, Firewalls
+- 🤖 **IoT Integration** - Smart device management
+- 🎯 **Advanced Routing** - OSPF, EIGRP protocols
+- 📊 **Network Services** - DNS, DHCP, NAT, VoIP
+
+<br/>
+
+**💻 Technologies Used**
+
+```yaml
+Platform: Cisco Packet Tracer
+Design: Network Architecture
+Protocols: TCP/IP, OSPF, EIGRP
+Security: VLANs, ACLs, VPNs
+Services: DNS, DHCP, NAT
+IoT: Smart Sensors & Devices
+```
+
+</td>
+<td width="50%">
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
+</div>
+
+<br/>
+
+**🎨 Network Components**
+
+- ✅ Core Distribution Layer
+- ✅ Access Layer Switches
+- ✅ Wireless Access Points
+- ✅ Security Appliances
+- ✅ IoT Sensor Network
+- ✅ Server Infrastructure
+- ✅ End-User Devices
+
+<br/>
+
+<div align="center">
+  
+[![Repository](https://img.shields.io/badge/View_Repository-FF6B6B?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/nishatkh/smart-airport)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+**🏷️ Tags:** `networking` `cisco` `packet-tracer` `iot` `enterprise` `vlan` `routing` `security`
+
+</details>
+
+<br/>
+
+<!-- PROJECT 3: REPONO -->
+<details open>
+<summary><h3>📝 Repono - AI README Generator</h3></summary>
+
+<table>
+<tr>
+<td width="50%">
+
+<br/>
+
+**🎯 Description**
+
+An AI-powered README generator for modern developers with GitHub integration, professional templates, and intelligent content creation.
+
+<br/>
+
+**✨ Key Features**
+
+- 🤖 **AI Intelligence** - Smart content generation
+- 🔗 **GitHub Sync** - Direct repository integration
+- 🎨 **Pro Templates** - Beautiful pre-designed layouts
+- ⚡ **Instant Generate** - Lightning-fast creation
+- 📋 **Best Practices** - Industry-standard formatting
+- 🌐 **Multi-Language** - Support for various languages
+- 📊 **Analytics** - Track README engagement
+
+<br/>
+
+**💻 Technologies Used**
+
+```yaml
+Frontend: React, Next.js, Tailwind CSS
+Backend: Node.js, Express
+AI/ML: OpenAI API, NLP Models
+Database: MongoDB
+API: GitHub REST API
+Auth: OAuth 2.0
+```
+
+</td>
+<td width="50%">
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="400">
+</div>
+
+<br/>
+
+**🚀 Features**
+
+- ✨ AI-Powered Content
+- 📄 Multiple Templates
+- 🔄 Auto-Updates
+- 🎯 SEO Optimized
+- 📱 Mobile Responsive
+- 🌙 Dark Mode
+- 📤 Export Options
+
+<br/>
+
+<div align="center">
+  
+[![Repository](https://img.shields.io/badge/View_Repository-4CAF50?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/nishatkh/repono)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+**🏷️ Tags:** `ai` `readme-generator` `github` `automation` `developer-tools` `markdown` `documentation`
+
+</details>
+
+<br/>
+
+<!-- PROJECT 4: ANOS -->
+<details open>
+<summary><h3>🌐 Anos - Social Platform for DIU</h3></summary>
+
+<table>
+<tr>
+<td width="50%">
+
+<br/>
+
+**🎯 Description**
+
+A modern social media platform for DIU students combining features of Twitter and Reddit. Share posts, join communities, and engage in discussions.
+
+**✨ Key Features**
+
+- 💬 **Real-Time Chat** - Instant messaging system
+- 👥 **Communities** - Topic-based discussion groups
+- 🔥 **Trending Topics** - Viral content discovery
+- 📱 **Responsive Design** - Mobile-first approach
+- 🔔 **Smart Notifications** - Personalized alerts
+- 🎯 **Content Moderation** - Safe community space
+- 📊 **Analytics Dashboard** - User insights
+
+<br/>
+
+**💻 Technologies Used**
+
+```yaml
+Frontend: React, Tailwind CSS, Redux
+Backend: Node.js, Express
+Database: MongoDB
+Real-Time: Socket.io, Redis
+Auth: JWT, Passport.js
+Storage: AWS S3
+Deployment: Docker, Nginx
+```
+
+</td>
+<td width="50%">
+
+<br/>
+
+<div align="center">
+  <img src="https://genhq.com/wp-content/uploads/2018/07/Social-Media-Final-D.gif" width="400">
+</div>
+
+<br/>
+
+**🎨 Platform Features**
+
+- ✅ User Profiles
+- ✅ Post Creation & Sharing
+- ✅ Comments & Reactions
+- ✅ Community Forums
+- ✅ Direct Messaging
+- ✅ Hashtag System
+- ✅ Search & Filters
+
+<br/>
+
+<div align="center">
+  
+[![Repository](https://img.shields.io/badge/View_Repository-9C27B0?style=for-the-badge&logo=react&logoColor=white)](https://github.com/nishatkh/anos)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+**🏷️ Tags:** `social-media` `mern-stack` `real-time` `community` `chat` `forum` `web-app`
+
+</details>
+
+<br/>
+
+<!-- PROJECT 5: DIU NOTE VAULT -->
+<details open>
+<summary><h3>📚 DIU Note Vault - Study Platform</h3></summary>
+
+<table>
+<tr>
+<td width="50%">
+
+<br/>
+
+**🎯 Description**
+
+A collaborative study platform for DIU students. Share notes, browse resources, and build academic excellence together.
+
+<br/>
+
+**✨ Key Features**
+
+- 📖 **Extensive Library** - Thousands of study materials
+- 🔍 **Smart Search** - Advanced filtering system
+- 📂 **Organized Content** - Course & subject-wise
+- ⭐ **Rating System** - Community-driven quality
+- 📥 **Easy Access** - Quick upload & download
+- 👥 **Collaboration** - Study group features
+- 📊 **Progress Tracking** - Learning analytics
+
+<br/>
+
+**💻 Technologies Used**
+
+```yaml
+Frontend: Next.js, TypeScript, Tailwind
+Backend: Node.js, Express
+Database: MongoDB, Elasticsearch
+Storage: AWS S3, CloudFront
+Cache: Redis
+Search: Elasticsearch
+Auth: NextAuth.js
+```
+
+</td>
+<td width="50%">
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400">
+</div>
+
+<br/>
+
+**📚 Content Categories**
+
+- 📘 Lecture Notes
+- 📗 Study Guides
+- 📙 Practice Problems
+- 📕 Past Papers
+- 📓 Lab Reports
+- 📔 Project Reports
+- 📖 Reference Materials
+
+<br/>
+
+<div align="center">
+  
+[![Repository](https://img.shields.io/badge/View_Repository-FF9800?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/nishatkh/diu-notes)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+**🏷️ Tags:** `education` `notes` `study-platform` `knowledge-sharing` `student-community` `collaboration`
+
+</details>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+<!-- ====================================== GITHUB TROPHIES ====================================== -->
+
+<h2 align="center">🏅 GitHub Highlights</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Stars-⭐%20Dynamic-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Public%20Repos-📦%20Dynamic-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contributions-🔥%20Active-orange?style=for-the-badge" />
+</p>
+
+<!-- ====================================== GITHUB STATS SECTION ====================================== -->
+<!-- GitHub Statistics with icon -->
+<h2 align="center">
+  <img src="https://miro.medium.com/0*khSm-BwiYiSlQeGY.gif" width="36" style="vertical-align: middle;" />
+  GitHub Statistics
+</h2>
+<br/>
+<p align="center">
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&custom_title=Contribution%20Graph&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area_color=0D1117&title_color=00FFFF&area=true&hide_border=true" />
+</p>
+<br/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="150" />
+</p>
+
+<!-- ====================================== CONNECT SECTION ====================================== -->
+
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+  Let's Connect
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+</h2>
+
+<br/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</p>
+
+<p align="center">
+  <i>I love connecting with different people, so if you want to say hi, I'll be happy to meet you! 😊</i>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="mailto:nishatkhan8u@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/nishatkh">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/nishatkh">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://facebook.com/profile.php?id=100053457121891">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/n-i-s-h-a-t-k-h-a-n">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/nishatkh">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+<!-- ====================================== SUPPORT SECTION ====================================== -->
+
+<h2 align="center">💖 Support My Work</h2>
+
+<p align="center">
+  <i>If you find my projects helpful or interesting, consider supporting me!</i>
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/nishatkh">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+  <a href="https://ko-fi.com/nishatkh">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+<!-- ====================================== INSPIRATION SECTION ====================================== -->
+
+
+<h2 align="center">💭 Daily Inspiration</h2>
+
+<br/>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Legends%20are%20made%20by%20hard%20work%20and%20never%20giving%20up.%20Every%20mistake%20is%20a%20chance%20to%20learn%20and%20grow.&author=Nishat%20Khan" />
+</p>
+
+<br/>
+
+<h3 align="center">😄 Dev Humor</h3>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+<!-- ====================================== FOOTER ====================================== -->
+
+<br/>
+
+<div align="center">
+
+### ⭐ Star Some Repos If You Like What You See! ⭐
+
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="50"/>
+
+<br/><br/>
+
+**💙 "Keep working, stay strong, and your story will inspire others." 💙**
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,11,20&section=footer&animation=twinkling"/>
+
+---
+
+<sub>**Last Updated:** January 2026 | **Made by Nishat Khan**</sub>
+<br/>
+<sub>Crafted with passion • Powered by curiosity • Driven by innovation ⚡</sub>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
