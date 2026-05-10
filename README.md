@@ -43,7 +43,7 @@ Over time, I have developed solid experience across the full development ecosyst
 
 <br/>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="140"/>
+<img align="right" src="https://i.postimg.cc/0Qz4h2NR/7-removebg-preview.png" width="140"/>
 
 > [!CAUTION]
 > **Code is never finished — it evolves with every build.**
@@ -54,7 +54,7 @@ Over time, I have developed solid experience across the full development ecosyst
 
 <br/><br/>
 
-<img src="https://i.postimg.cc/0Qz4h2NR/7-removebg-preview.png"/>
+<img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&duration=1&pause=99999&color=FFFFFF&background=00000000&center=false&vCenter=true&width=620&height=80&lines=my+Contributions" alt="my Contributions"/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&custom_title=Contribution+Journey&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=111111&title_color=FFFFFF&area=true&hide_border=true"/>
 
