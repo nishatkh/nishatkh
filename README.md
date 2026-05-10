@@ -114,73 +114,36 @@ const nishat = {
 
 <br/>
 
-<!-- ====================================== TECH STACK SECTION ====================================== -->
-
-<h2 align="left">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32">
-  Tech Stack & Tools
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32">
-</h2>
+<h3 align="center">Technologies</h3>
 
 <br/>
 
-<details open>
-<summary><b>🤖 Artificial Intelligence & Machine Learning</b></summary>
-<br/>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=4" />
+<p align="center">
+  <img src="https://img.shields.io/badge/-C++-111111?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JAVA-111111?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PYTHON-111111?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JAVASCRIPT-111111?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HTML-111111?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS-111111?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-REACT-111111?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-NEXT.JS-111111?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-BOOTSTRAP-111111?style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TAILWIND-111111?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
-</details>
-
-<details open>
-<summary><b>💻 Programming Languages</b></summary>
-<br/>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,php&perline=6" />
+<p align="center">
+  <img src="https://img.shields.io/badge/-NODE.JS-111111?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MONGODB-111111?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MYSQL-111111?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-POSTGRESQL-111111?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GIT-111111?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-DOCKER-111111?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ARDUINO-111111?style=flat-square&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TENSORFLOW-111111?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PYTORCH-111111?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LINUX-111111?style=flat-square&logo=linux&logoColor=white"/>
 </p>
-</details>
 
-<details open>
-<summary><b>🌐 Frontend Development</b></summary>
 <br/>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&perline=7" />
-</p>
-</details>
-
-<details open>
-<summary><b>⚙️ Backend Development</b></summary>
-<br/>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php&perline=3" />
-</p>
-</details>
-
-<details open>
-<summary><b>🗄️ Databases</b></summary>
-<br/>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase&perline=4" />
-</p>
-</details>
-
-<details open>
-<summary><b>⚡ IoT & Embedded Systems</b></summary>
-<br/>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=2" />
-</p>
-</details>
-
-<details open>
-<summary><b>🛠️ Development Tools</b></summary>
-<br/>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma,androidstudio&perline=8" />
-</p>
-</details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" align="left">
 
 <!-- ====================================== PROJECTS SECTION ====================================== -->
 
