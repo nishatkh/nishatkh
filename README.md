@@ -13,15 +13,13 @@
 
 <br/>
 
-<img align="left" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="370"/>
+<img align="left" src="https://i.postimg.cc/rms057w9/4-removebg-preview.png" width="370"/>
 
 ### Who Am I?
 
 I am a passionate **AI & IoT Engineer** studying at Daffodil International University with a degree in Computing & Information Systems, specializing in **AI in IoT** (graduating 2028). My professional journey is driven by continuous learning, practical experience, and a strong commitment to delivering complete and functional systems for real-world needs.
 
 Over time, I have developed solid experience across the full development ecosystem, with a strong passion for **Machine Learning** and **Deep Learning**, where logic meets creativity and intelligent design. Alongside embedded systems and IoT technologies, I have expanded my skills into cloud-native applications focusing on building modern solutions using **TensorFlow**, **PyTorch**, and **Edge Computing**.
-
-At the moment, I am actively developing intelligent systems and contributing to open-source tools for developers and students. This hands-on experience has strengthened my problem-solving skills, technical versatility and ability to understand real-world needs, while constantly pushing me to grow as an engineer and professional.
 
 <br clear="both"/>
 
