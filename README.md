@@ -1,45 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0a0a0a,40:0d1117,100:0a0a0a&text=NISHAT%20KHAN&fontSize=75&fontAlignY=40&desc=AI%20Engineer%20%2F%20IoT%20Specialist%20%2F%20Systems%20Architect&descAlignY=58&descSize=14&fontColor=00ff41&descColor=4a9e6b&animation=fadeIn&stroke=00ff41&strokeWidth=1"/>
+<img width="100%" src="https://i.pinimg.com/originals/83/74/26/837426df9d9b662cf84e1fcbf4419b46.gif"/>
 
 </div>
-<!-- EPIC TYPING EFFECT -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&width=940&lines=Welcome+to+My+Digital+Universe+%F0%9F%8C%8C;Artificial+Intelligence+%2B+IoT+Engineer+%F0%9F%A4%96;Building+Intelligent+Systems+%F0%9F%9A%80;Machine+Learning+%7C+Deep+Learning+%F0%9F%A7%A0;Always+Learning%2C+Always+Building+%E2%9C%A8" alt="Typing SVG" />
-</p>
-<!-- PREMIUM BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20in%20IoT-blueviolet?style=for-the-badge&logo=robot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Based_in-Dhaka,_Bangladesh-success?style=for-the-badge&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Building_the_Future-ff69b4?style=for-the-badge&logo=rocket&logoColor=white" />
-</p>
-
-<!-- SOCIAL STATS -->
 <p align="center">
   <a href="https://github.com/nishatkh">
-    <img src="https://img.shields.io/github/followers/nishatkh?label=Followers&style=social" alt="followers" />
+    <img src="https://img.shields.io/github/followers/nishatkh?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=161b22&labelColor=0d1117" alt="followers" />
   </a>
   <a href="https://github.com/nishatkh">
-    <img src="https://img.shields.io/github/stars/nishatkh?label=Stars&style=social" alt="stars" />
+    <img src="https://img.shields.io/github/stars/nishatkh?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=161b22&labelColor=0d1117" alt="stars" />
   </a>
 </p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- ====================================== ABOUT ME SECTION ====================================== -->
-
-
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
-  About Me
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
-</h2>
-
-<br/>
-
-<table>
-<tr>
-<td width="55%">
-
 ### 👨‍💻 **Quick Introduction**
 
 ```javascript
