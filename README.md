@@ -13,7 +13,7 @@
 
 <br/>
 
-<img align="left" src="https://i.postimg.cc/rms057w9/4-removebg-preview.png" width="370"/>
+<img align="left" src="https://i.postimg.cc/wjzkDT82/4-removebg-preview-(1).png" width="370"/>
 
 ### Who Am I?
 
