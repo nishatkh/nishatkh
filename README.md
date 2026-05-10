@@ -79,22 +79,10 @@ I believe strong systems are built through:
 > *“Small improvements every day create big results over time.”*
 
 </div>
-<br/><br/>
-
-<div align="center">
-
-<div style="display:flex; align-items:center; justify-content:space-between; gap:20px; flex-wrap:nowrap;">
-
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,c,cpp,java,js,react,nextjs,tailwind,bootstrap,nodejs,express,php,mongodb,mysql,postgresql,firebase,arduino,raspberrypi,git,github,docker,linux,vscode,postman,figma&perline=7&theme=dark" width="420"/>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&duration=1&pause=99999&color=FFFFFF&background=00000000&center=false&vCenter=true&width=620&height=80&lines=my+Tech+Stack"/>
-
-  <img src="https://i.postimg.cc/mrgZzMmj/image-removebg-preview.png" width="350"/>
-
-</div>
-
-</div>
-
+<br/><br/> 
+<img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&duration=1&pause=99999&color=FFFFFF&background=00000000&center=false&vCenter=true&width=620&height=80&lines=my+Tech+Stack" alt="my Tech Stack"/> 
+<img align="right" src="https://i.postimg.cc/mrgZzMmj/image-removebg-preview.png" width="400"/> 
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,c,cpp,java,js,react,nextjs,tailwind,bootstrap,nodejs,express,php,mongodb,mysql,postgresql,firebase,arduino,raspberrypi,git,github,docker,linux,vscode,postman,figma&perline=7&theme=dark" width="380"/> 
 <br clear="both"/>
 
 <p align="center">
