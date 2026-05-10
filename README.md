@@ -83,7 +83,7 @@ I believe strong systems are built through:
 
 <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&duration=1&pause=99999&color=FFFFFF&background=00000000&center=false&vCenter=true&width=620&height=80&lines=my+Tech+Stack" alt="my Tech Stack"/>
 
-<img align="right" src="" width="350"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=nishatkh&repo=termclock&theme=dark&bg_color=000000&border_color=ffffff&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" width="350"/>
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,c,cpp,java,js,react,nextjs,tailwind,bootstrap,nodejs,express,php,mongodb,mysql,postgresql,firebase,arduino,raspberrypi,git,github,docker,linux,vscode,postman,figma&perline=7&theme=dark" width="380"/>
 
