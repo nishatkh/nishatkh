@@ -98,8 +98,3 @@ I believe strong systems are built through:
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=000000&section=footer"/>
-
-<sub>Last Updated: May 2026 | Made by Nishat Khan</sub><br/>
-<sub>Crafted with passion • Powered by curiosity • Driven by innovation ⚡</sub>
-
-</div>
