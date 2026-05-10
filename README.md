@@ -62,7 +62,7 @@ Over time, I have developed solid experience across the full development ecosyst
 
 <div align="center">
 
-### ⚡ Building. Learning. Improving.
+### Building. Learning. Improving.
 
 From late-night debugging sessions to experimenting with new ideas,  
 every commit represents progress, learning, and persistence.
