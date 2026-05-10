@@ -1,151 +1,93 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,0-0,0,0,255&height=180&section=header&text=NISHAT%20KHAN&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=DEVELOPER&descAlignY=72&descSize=28&fontAlign=50&descAlign=50"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=220&text=NISHAT%20KHAN&fontSize=85&fontColor=ffffff&desc=AI%20ENGINEER&descSize=22&descColor=cccccc&animation=fadeIn"/>
+
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/nishatkh?label=%E2%AD%90+STARS&style=for-the-badge&color=000000&labelColor=0d0d0d&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/forks/nishatkh/termclock?label=%F0%9F%8D%B4+FORKS&style=for-the-badge&color=000000&labelColor=0d0d0d&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/nishatkh?label=%F0%9F%91%A5+FOLLOWERS&style=for-the-badge&color=000000&labelColor=0d0d0d&logoColor=white"/>
+  <img src="https://img.shields.io/github/stars/nishatkh?style=for-the-badge&label=⭐ STARS&color=111111&labelColor=111111&logoColor=white"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/forks/nishatkh?style=for-the-badge&label=🍴 FORKS&color=111111&labelColor=111111&logoColor=white"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/nishatkh?style=for-the-badge&label=ᴿ FOLLOWERS&color=111111&labelColor=111111&logoColor=white"/>
 </p>
 
 <br/>
 
-<table>
-<tr>
-<td width="38%" align="center" valign="top">
-<br/>
+<img align="left" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="370"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340"/>
+### Who Am I?
 
-<br/><br/>
+I am a passionate **AI & IoT Engineer** studying at Daffodil International University with a degree in Computing & Information Systems, specializing in **AI in IoT** (graduating 2028). My professional journey is driven by continuous learning, practical experience, and a strong commitment to delivering complete and functional systems for real-world needs.
 
-</td>
-<td width="62%" valign="top">
-<br/>
+Over time, I have developed solid experience across the full development ecosystem, with a strong passion for **Machine Learning** and **Deep Learning**, where logic meets creativity and intelligent design. Alongside embedded systems and IoT technologies, I have expanded my skills into cloud-native applications focusing on building modern solutions using **TensorFlow**, **PyTorch**, and **Edge Computing**.
 
-<h3 align="right">Who Am I?</h3>
+At the moment, I am actively developing intelligent systems and contributing to open-source tools for developers and students. This hands-on experience has strengthened my problem-solving skills, technical versatility and ability to understand real-world needs, while constantly pushing me to grow as an engineer and professional.
 
-<p align="right">
-I am a passionate Computing & Information Systems student at <strong>Daffodil International University</strong>, specializing in AI in IoT. My professional journey is driven by continuous learning, practical experience, and a strong commitment to building complete and functional systems for real-world needs.
-</p>
-
-<p align="right">
-Over time, I have developed solid experience across the software development ecosystem, with a strong passion for <strong>Artificial Intelligence</strong>, where logic meets data and innovation. I have expanded my skills into <strong>IoT systems</strong>, focusing on building smart applications using embedded hardware and cloud platforms.
-</p>
-
-<p align="right">
-At the moment, I am focused on machine learning and deep learning, developing intelligent systems and AI-powered applications. This hands-on experience has sharpened my problem-solving skills, technical versatility, and ability to design scalable solutions, while constantly pushing me to grow as a developer and engineer.
-</p>
+<br clear="both"/>
 
 <br/>
 
-</td>
-</tr>
-</table>
-
-<br/>
+<p align="center">You can Click here</p>
 
 <p align="center">
-  <strong>You can Click here</strong>
-</p>
-
-<p align="center">
-  <a href="mailto:nishatkhan8u@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://facebook.com/profile.php?id=100053457121891">
+    <img src="https://img.shields.io/badge/FACEBOOK-111111?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/nishatkh">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/nishatkh">
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/nishatkh">
-    <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="mailto:nishatkhan8u@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <br/>
 
-> **⚠️ Caution**
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="140"/>
+
+> [!CAUTION]
+> **Code is never finished, it only gets better.**
 >
-> Code is never finished, it only gets better.
->
-> What you see here is built with **practice, curiosity, and persistence.**
+> What you see here is built with **practice**, **curiosity**, and **persistence**.
 
-<br/>
+<br clear="both"/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=38&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=my+Contributions" alt="my Contributions"/>
-</div>
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&duration=1&pause=99999&color=FFFFFF&background=00000000&center=false&vCenter=true&width=620&height=80&lines=my+Contributions" alt="my Contributions"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&custom_title=My+Contributions&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=1a1a1a&title_color=ffffff&area=true&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&duration=1&pause=99999&color=FFFFFF&background=00000000&center=false&vCenter=true&width=620&height=80&lines=my+Tech+Stack" alt="my Tech Stack"/>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=nishatkh&repo=termclock&theme=dark&bg_color=000000&border_color=ffffff&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" width="350"/>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,c,cpp,java,js,react,nextjs,tailwind,bootstrap,nodejs,express,php,mongodb,mysql,postgresql,firebase,arduino,raspberrypi,git,github,docker,linux,vscode,postman,figma&perline=7&theme=dark" width="380"/>
+
+<br clear="both"/>
 
 <br/>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&custom_title=My+Contributions&bg_color=0D0D0D&color=FFFFFF&line=FFFFFF&point=CCCCCC&area_color=1a1a1a&title_color=FFFFFF&area=true&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishatkh&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border=000000&stroke=000000&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=666666" width="60%"/>
 </p>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=38&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=my+Tech+Stack" alt="my Tech Stack"/>
-</div>
+
+**"Keep working, stay strong, and your story will inspire others."**
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=000000&section=footer"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
+<sub>Last Updated: May 2026 | Made by Nishat Khan</sub><br/>
+<sub>Crafted with passion • Powered by curiosity • Driven by innovation ⚡</sub>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cisco-000000?style=for-the-badge&logo=cisco&logoColor=white"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nishatkh&theme=dark&background=0D0D0D&border=000000&stroke=FFFFFF&ring=FFFFFF&fire=CCCCCC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=CCCCCC&dates=888888&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&section=footer&animation=twinkling"/>
-</div>
-
-<div align="center">
-  <sub><strong>Made by Nishat Khan</strong> • Crafted with passion • Powered by curiosity • Driven by innovation ⚡</sub>
 </div>
