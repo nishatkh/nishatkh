@@ -46,18 +46,39 @@ Over time, I have developed solid experience across the full development ecosyst
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="140"/>
 
 > [!CAUTION]
-> **Code is never finished, it only gets better.**
+> **Code is never finished — it evolves with every build.**
 >
-> What you see here is built with **practice**, **curiosity**, and **persistence**.
+> Everything here started with **curiosity**, grew through **consistency**, and improved with **every challenge solved**.
 
 <br clear="both"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&duration=1&pause=99999&color=FFFFFF&background=00000000&center=false&vCenter=true&width=620&height=80&lines=my+Contributions" alt="my Contributions"/>
+<img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&duration=1&pause=99999&color=FFFFFF&background=00000000&center=false&vCenter=true&width=620&height=80&lines=Contribution+Journey" alt="Contribution Journey"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&custom_title=My+Contributions&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=1a1a1a&title_color=ffffff&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&custom_title=Contribution+Journey&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=111111&title_color=FFFFFF&area=true&hide_border=true"/>
 
+<br/>
+
+<div align="center">
+
+### ⚡ Building. Learning. Improving.
+
+From late-night debugging sessions to experimenting with new ideas,  
+every commit represents progress, learning, and persistence.
+
+I believe strong systems are built through:
+`discipline` • `practice` • `creative thinking` • `problem solving`
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> *“Small improvements every day create big results over time.”*
+
+</div>
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&duration=1&pause=99999&color=FFFFFF&background=00000000&center=false&vCenter=true&width=620&height=80&lines=my+Tech+Stack" alt="my Tech Stack"/>
