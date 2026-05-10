@@ -5,11 +5,10 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/nishatkh?style=for-the-badge&label=⭐ STARS&color=111111&labelColor=111111&logoColor=white"/>
+  <img src="https://img.shields.io/github/followers/nishatkh?style=for-the-badge&label=FOLLOWERS&color=111111&labelColor=111111&logo=github&logoColor=white"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/forks/nishatkh?style=for-the-badge&label=🍴 FORKS&color=111111&labelColor=111111&logoColor=white"/>
+  <img src="https://img.shields.io/github/stars/nishatkh?style=for-the-badge&label=STARS&color=111111&labelColor=111111&logo=github&logoColor=white"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/nishatkh?style=for-the-badge&label=ᴿ FOLLOWERS&color=111111&labelColor=111111&logoColor=white"/>
 </p>
 
 <br/>
