@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=220&text=NISHAT%20KHAN&fontSize=85&fontColor=ffffff&desc=AI%20ENGINEER&descSize=22&descColor=cccccc&animation=fadeIn"/>
+<img width="100%" src="https://i.pinimg.com/originals/56/0f/cf/560fcff573aab54297d3336ddd6644fd.jpg"/>
 
 </div>
 
