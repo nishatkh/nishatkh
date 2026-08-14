@@ -198,10 +198,14 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 
 <!-- ==================== TECH STACK ==================== -->
 
+<div align="center">
+
 <img
-  src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&duration=1&pause=99999&color=FFFFFF&background=00000000&center=false&vCenter=true&width=620&height=80&lines=my+Tech+Stack"
-  alt="my Tech Stack"
+  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=620&height=45&lines=MY+TECH+STACK"
+  alt="My Tech Stack"
 />
+
+</div>
 
 <br/>
 
