@@ -65,6 +65,16 @@ Over time, I have developed solid experience across the full development ecosyst
   <img width="100%" src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-night-blue.svg#gh-light-mode-only"/>
 </p>
 
+<img width="100%" src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-gitblock-blue.svg"/>
+
+<br/>
+
+<div align="center">
+
+**🏙️ [Drive through my GitHub City](https://honzaap.github.io/GithubCity?name=nishatkh&year=2026)** &nbsp;•&nbsp; **📐 [3D-printable Skyline](https://github.com/nishatkh/nishatkh/blob/main/skyline/2026.stl)**
+
+</div>
+
 <br/>
 
 <div align="center">
