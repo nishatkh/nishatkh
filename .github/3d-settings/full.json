@@ -4,13 +4,13 @@
   "backgroundColor": "transparent",
   "foregroundColor": "#ffffff",
   "strongColor": "#ffffff",
-  "weakColor": "#ffffff",
+  "weakColor": "#d0d7de",
   "radarColor": "#ffffff",
   "growingAnimation": true,
   "contribPatterns": [
     {
       "top": {
-        "backgroundColor": "#ffffff",
+        "backgroundColor": "#161b22",
         "foregroundColor": "#ffffff",
         "width": 32,
         "bitmap": [
@@ -52,7 +52,7 @@
           "0x00000000",
           "0xaaaaaaaa"
         ],
-        "backgroundColor": "#ffffff",
+        "backgroundColor": "#161b22",
         "foregroundColor": "#ffffff"
       },
       "right": {
@@ -75,7 +75,7 @@
           "0x00000000",
           "0xaaaaaaaa"
         ],
-        "backgroundColor": "#ffffff",
+        "backgroundColor": "#161b22",
         "foregroundColor": "#ffffff"
       }
     },
@@ -123,7 +123,7 @@
           "0x00000000",
           "0xaaaaaaaa"
         ],
-        "backgroundColor": "#ffffff",
+        "backgroundColor": "#0e4429",
         "foregroundColor": "#39d353"
       },
       "right": {
@@ -146,7 +146,7 @@
           "0x00000000",
           "0xaaaaaaaa"
         ],
-        "backgroundColor": "#ffffff",
+        "backgroundColor": "#0e4429",
         "foregroundColor": "#39d353"
       }
     },
@@ -194,7 +194,7 @@
           "0x00000000",
           "0xaaaaaaaa"
         ],
-        "backgroundColor": "#ffffff",
+        "backgroundColor": "#0969da",
         "foregroundColor": "#79c0ff"
       },
       "right": {
@@ -217,7 +217,7 @@
           "0x00000000",
           "0xaaaaaaaa"
         ],
-        "backgroundColor": "#ffffff",
+        "backgroundColor": "#0969da",
         "foregroundColor": "#79c0ff"
       }
     },
@@ -265,7 +265,7 @@
           "0x00000000",
           "0xaaaaaaaa"
         ],
-        "backgroundColor": "#ffffff",
+        "backgroundColor": "#9e6a03",
         "foregroundColor": "#f2cc60"
       },
       "right": {
@@ -288,7 +288,7 @@
           "0x00000000",
           "0xaaaaaaaa"
         ],
-        "backgroundColor": "#ffffff",
+        "backgroundColor": "#9e6a03",
         "foregroundColor": "#f2cc60"
       }
     },
@@ -336,7 +336,7 @@
           "0x00000000",
           "0xaaaaaaaa"
         ],
-        "backgroundColor": "#ffffff",
+        "backgroundColor": "#da3633",
         "foregroundColor": "#ff7b72"
       },
       "right": {
@@ -359,7 +359,7 @@
           "0x00000000",
           "0xaaaaaaaa"
         ],
-        "backgroundColor": "#ffffff",
+        "backgroundColor": "#da3633",
         "foregroundColor": "#ff7b72"
       }
     }
