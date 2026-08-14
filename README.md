@@ -216,8 +216,6 @@ I believe strong systems are built through:
 
 <!-- ==================== TECH STACK ==================== -->
 
-<!-- ==================== TECH STACK ==================== -->
-
 <img
   src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=FFFFFF&background=00000000&center=false&vCenter=true&width=620&height=60&lines=MY+TECH+STACK"
   alt="My Tech Stack"
@@ -228,25 +226,13 @@ I believe strong systems are built through:
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,c,cpp,java,js,react,nextjs,tailwind,bootstrap,nodejs,express,php,mongodb,mysql,postgresql,firebase,arduino,raspberrypi,git,github,docker,linux,vscode,postman,figma&perline=7&theme=dark"
+  src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,c,java,js,react,nextjs,tailwind,bootstrap,nodejs,express,php,mongodb,mysql,postgresql,firebase,arduino,raspberrypi,git,github,docker,linux,vscode,postman,figma&perline=7&theme=dark"
   width="100%"
   alt="Technology Stack"
 />
 
 <br/><br/>
 
-<!-- Kaggle -->
-
-<img
-  src="https://cdn.simpleicons.org/kaggle/FFFFFF"
-  width="48"
-  height="48"
-  alt="Kaggle"
-/>
-
-</div>
-
-<br/><br/>
 
 <!-- ==================== BADGES ==================== -->
 
