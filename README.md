@@ -215,28 +215,40 @@ I believe strong systems are built through:
 
 <!-- ==================== TECH STACK ==================== -->
 
-<div align="center">
+<!-- ==================== TECH STACK ==================== -->
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=650&height=45&lines=MY+TECH+STACK"
-  alt="My Tech Stack"
+  src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&duration=1&pause=99999&color=FFFFFF&background=00000000&center=false&vCenter=true&width=620&height=80&lines=my+Tech+Stack"
+  alt="my Tech Stack"
 />
 
-<br/><br/>
+<br/>
 
 <img
-  src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,c,cpp,java,js,react,nextjs,tailwind,bootstrap,nodejs,express,php,mongodb,mysql,postgresql,firebase,arduino,raspberrypi,git,github,docker,linux,vscode,postman,figma&perline=7&theme=dark"
-  width="85%"
+  src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,c,cpp,java,js,react,nextjs,tailwind,bootstrap,nodejs,express,php,mongodb,mysql,postgresql,firebase,arduino,raspberrypi,git,github,docker,linux,vscode,postman,figma,kaggle&perline=7&theme=dark"
+  width="100%"
   alt="Technology Stack"
 />
 
 <br/><br/>
 
-<img
-  src="https://i.postimg.cc/mrgZzMmj/image-removebg-preview.png"
-  width="330"
-  alt="Technology Illustration"
-/>
+<!-- ==================== BADGES ==================== -->
+
+<div align="center">
+
+<img src="BADGE_IMAGE_1" width="85" height="85" alt="Badge 1"/>
+&nbsp;&nbsp;
+<img src="BADGE_IMAGE_2" width="85" height="85" alt="Badge 2"/>
+&nbsp;&nbsp;
+<img src="BADGE_IMAGE_3" width="85" height="85" alt="Badge 3"/>
+&nbsp;&nbsp;
+<img src="BADGE_IMAGE_4" width="85" height="85" alt="Badge 4"/>
+&nbsp;&nbsp;
+<img src="BADGE_IMAGE_5" width="85" height="85" alt="Badge 5"/>
+&nbsp;&nbsp;
+<img src="BADGE_IMAGE_6" width="85" height="85" alt="Badge 6"/>
+&nbsp;&nbsp;
+<img src="BADGE_IMAGE_7" width="85" height="85" alt="Badge 7"/>
 
 </div>
 
