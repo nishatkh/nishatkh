@@ -1,0 +1,35 @@
+{
+  "type": "gitblock",
+  "fileName": "profile-full.svg",
+
+  "backgroundColor": "#ffffff",
+  "foregroundColor": "#24292f",
+  "strongColor": "#1f2328",
+  "weakColor": "#57606a",
+  "radarColor": "#0969da",
+
+  "contribColors": [
+    "#ebedf0",
+    "#9be9a8",
+    "#40c463",
+    "#30a14e",
+    "#216e39"
+  ],
+
+  "darkMode": {
+    "type": "gitblock",
+    "backgroundColor": "#0d1117",
+    "foregroundColor": "#e6edf3",
+    "strongColor": "#f0f6fc",
+    "weakColor": "#8b949e",
+    "radarColor": "#58a6ff",
+
+    "contribColors": [
+      "#161b22",
+      "#0e4429",
+      "#006d32",
+      "#26a641",
+      "#39d353"
+    ]
+  }
+}
