@@ -12,28 +12,21 @@
 
 <!-- ==================== FOLLOWERS + STARS ==================== -->
 
+<div align="center">
+
 <a href="https://github.com/nishatkh?tab=followers">
   <img
     src="https://img.shields.io/github/followers/nishatkh?style=for-the-badge&label=FOLLOWERS&labelColor=000000&color=000000&logo=github&logoColor=ffffff"
     alt="GitHub Followers"
   />
 </a>
-
 &nbsp;&nbsp;
-
 <a href="https://github.com/nishatkh?tab=repositories">
   <img
     src="https://img.shields.io/github/stars/nishatkh?style=for-the-badge&label=STARS&labelColor=000000&color=000000&logo=github&logoColor=ffffff"
     alt="GitHub Stars"
   />
 </a>
-
-<br/><br/>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&height=35&lines=AI+%26+IOT+ENGINEER+%7C+BUILDER+%7C+LEARNER"
-  alt="Profile Status"
-/>
 
 </div>
 
