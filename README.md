@@ -242,7 +242,6 @@ I believe strong systems are built through:
 
 <br/><br/>
 
-<!-- ==================== GITHUB STREAK ==================== -->
 
 <!-- ==================== GITHUB STREAK ==================== -->
 
