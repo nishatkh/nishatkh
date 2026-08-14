@@ -109,7 +109,7 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 
 <img
   align="right"
-  src="https://37.media.tumblr.com/fc75e2d8c105a33d4f7b79eac5691258/tumblr_mk726dRAip1qcm5b7o1_400.gif"
+  src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUybjQya2p2NmdlNnd1d2psY2QzdGlyZ3hjaW1uNGF2NmRmOTdndjB5diZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KVavw5OVSK7LmYyhVx/200w.gif"
   width="130"
   alt="Decoration"
 />
