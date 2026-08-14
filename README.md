@@ -217,16 +217,14 @@ I believe strong systems are built through:
 <!-- ==================== TECH STACK ==================== -->
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=FFFFFF&background=00000000&center=false&vCenter=true&width=620&height=60&lines=MY+TECH+STACK"
-  alt="My Tech Stack"
+  src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&duration=1&pause=99999&color=FFFFFF&background=00000000&center=false&vCenter=true&width=620&height=80&lines=my+Tech+Stack"
+  alt="my Tech Stack"
 />
 
-<br/><br/>
-
-<div align="center">
+<br/>
 
 <img
-  src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,c,java,js,react,nextjs,tailwind,bootstrap,nodejs,express,php,mongodb,mysql,postgresql,firebase,arduino,raspberrypi,git,github,docker,linux,vscode,postman,figma&perline=7&theme=dark"
+  src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,c,cpp,java,js,react,nextjs,tailwind,bootstrap,nodejs,express,php,mongodb,mysql,postgresql,firebase,arduino,raspberrypi,git,github,docker,linux,vscode,postman,figma,kaggle&perline=7&theme=dark"
   width="100%"
   alt="Technology Stack"
 />
