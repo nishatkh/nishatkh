@@ -121,17 +121,6 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 
 <br/>
 
-<!-- ==================== YEARLY CONTRIBUTIONS ==================== -->
-
-### 2026
-
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&from=2026-01-01&to=2026-12-31&custom_title=2026%20Contribution%20Activity&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=111111&title_color=FFFFFF&area=true&hide_border=true"
-  alt="2026 Contribution Graph"
-/>
-
-<br/>
 
 <img
   width="48%"
