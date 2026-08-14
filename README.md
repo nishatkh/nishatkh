@@ -60,12 +60,10 @@ Over time, I have developed solid experience across the full development ecosyst
 
 <br/>
 
-## 🧊 3D Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishatkh/nishatkh/output/profile-night-view.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishatkh/nishatkh/output/profile-gitblock.svg">
-  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/nishatkh/nishatkh/output/profile-night-view.svg">
-</picture>
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-night-blue.svg#gh-dark-mode-only"/>
+  <img width="100%" src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-night-blue.svg#gh-light-mode-only"/>
+</p>
 
 <br/>
 
@@ -85,7 +83,7 @@ I believe strong systems are built through:
 
 <div align="center">
 
-> *“Small improvements every day create big results over time.”*
+> *"Small improvements every day create big results over time."*
 
 </div>
 <br/><br/> 
@@ -107,4 +105,3 @@ I believe strong systems are built through:
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=000000&section=footer"/>
-</div>
