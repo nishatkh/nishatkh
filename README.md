@@ -2,11 +2,15 @@
 
 <!-- ==================== BANNER ==================== -->
 
+<div align="center">
+
 <img
   width="100%"
-  src="ofevfj5mkf9c1.gif"
+  src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/ofevfj5mkf9c1.gif"
   alt="Profile Banner"
 />
+
+</div>
 
 <br/><br/>
 
