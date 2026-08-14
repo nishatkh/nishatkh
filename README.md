@@ -153,16 +153,6 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 
 <br/>
 
-### 2023
-
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&from=2023-01-01&to=2023-12-31&custom_title=2023%20Contribution%20Activity&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=111111&title_color=FFFFFF&area=true&hide_border=true"
-  alt="2023 Contribution Graph"
-/>
-
-<br/>
-
 <!-- ==================== 3D CONTRIBUTION ==================== -->
 
 ### 3D Contribution Graph
