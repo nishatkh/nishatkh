@@ -5,7 +5,7 @@
 <div align="center">
 
 <img
-  width="100%"
+  width="80%"
   src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/Spencer Wan.gif"
   alt="Profile Banner"
 />
