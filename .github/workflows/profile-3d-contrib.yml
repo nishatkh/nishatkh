@@ -1,48 +1,262 @@
-- name: Configure transparent background with white LEGO structure
-  shell: python
-  run: |
-    import json
+name: GitHub Profile 3D Contributions
 
-    path = ".github/3d-settings/full.json"
+on:
+  schedule:
+    - cron: "0 18 * * *"
 
-    with open(path, "r", encoding="utf-8") as f:
-        data = json.load(f)
+  workflow_dispatch:
 
-    # Transparent outside background
-    data["backgroundColor"] = "transparent"
+permissions:
+  contents: write
 
-    # White text
-    data["foregroundColor"] = "#ffffff"
-    data["strongColor"] = "#ffffff"
-    data["weakColor"] = "#ffffff"
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
-    # White radar
-    data["radarColor"] = "#ffffff"
+    steps:
 
-    # White LEGO structure + colorful commits
-    colors = [
-        ("#ffffff", "#ffffff"),
-        ("#0e4429", "#39d353"),
-        ("#0969da", "#79c0ff"),
-        ("#9e6a03", "#f2cc60"),
-        ("#da3633", "#ff7b72")
-    ]
+      # ==========================================================
+      # CHECKOUT
+      # ==========================================================
 
-    for pattern, (background, foreground) in zip(
-        data["contribPatterns"],
-        colors
-    ):
-        # Top
-        pattern["top"]["backgroundColor"] = background
-        pattern["top"]["foregroundColor"] = foreground
+      - name: Checkout repository
+        uses: actions/checkout@v5
 
-        # Left LEGO face
-        pattern["left"]["backgroundColor"] = "#ffffff"
-        pattern["left"]["foregroundColor"] = foreground
 
-        # Right LEGO face
-        pattern["right"]["backgroundColor"] = "#ffffff"
-        pattern["right"]["foregroundColor"] = foreground
+      # ==========================================================
+      # DIRECTORIES
+      # ==========================================================
 
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2)
+      - name: Create directories
+        run: |
+          mkdir -p .github/3d-settings
+          mkdir -p profile-3d-contrib
+
+
+      # ==========================================================
+      # DOWNLOAD OFFICIAL GITBLOCK CONFIGURATION
+      # ==========================================================
+
+      - name: Download official GitBlock settings
+        run: |
+          curl -fsSL \
+            https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/sample-settings/gitblock.json \
+            -o .github/3d-settings/full.json
+
+
+      # ==========================================================
+      # CONFIGURE COLORS
+      #
+      # Transparent outside
+      # White LEGO structure
+      # Colorful contribution blocks
+      # ==========================================================
+
+      - name: Configure GitBlock colors
+        shell: python
+        run: |
+          import json
+
+          path = ".github/3d-settings/full.json"
+
+          with open(path, "r", encoding="utf-8") as f:
+              data = json.load(f)
+
+          # ------------------------------------------------------
+          # GENERAL SETTINGS
+          # ------------------------------------------------------
+
+          data["fileName"] = "profile-full.svg"
+
+          # Transparent outside/background
+          data["backgroundColor"] = "transparent"
+
+          # White text
+          data["foregroundColor"] = "#ffffff"
+          data["strongColor"] = "#ffffff"
+          data["weakColor"] = "#ffffff"
+
+          # White radar
+          data["radarColor"] = "#ffffff"
+
+          # ------------------------------------------------------
+          # CONTRIBUTION COLORS
+          #
+          # Level 0 = white LEGO
+          # Level 1 = green
+          # Level 2 = blue
+          # Level 3 = yellow
+          # Level 4 = red
+          # ------------------------------------------------------
+
+          colors = [
+              {
+                  "top_bg": "#ffffff",
+                  "top_fg": "#ffffff"
+              },
+              {
+                  "top_bg": "#0e4429",
+                  "top_fg": "#39d353"
+              },
+              {
+                  "top_bg": "#0969da",
+                  "top_fg": "#79c0ff"
+              },
+              {
+                  "top_bg": "#9e6a03",
+                  "top_fg": "#f2cc60"
+              },
+              {
+                  "top_bg": "#da3633",
+                  "top_fg": "#ff7b72"
+              }
+          ]
+
+          patterns = data["contribPatterns"]
+
+          for pattern, color in zip(patterns, colors):
+
+              # --------------------------------------------------
+              # TOP FACE
+              # --------------------------------------------------
+
+              pattern["top"]["backgroundColor"] = color["top_bg"]
+              pattern["top"]["foregroundColor"] = color["top_fg"]
+
+              # --------------------------------------------------
+              # LEFT LEGO FACE
+              #
+              # Always white
+              # --------------------------------------------------
+
+              pattern["left"]["backgroundColor"] = "#ffffff"
+              pattern["left"]["foregroundColor"] = color["top_fg"]
+
+              # --------------------------------------------------
+              # RIGHT LEGO FACE
+              #
+              # Always white
+              # --------------------------------------------------
+
+              pattern["right"]["backgroundColor"] = "#ffffff"
+              pattern["right"]["foregroundColor"] = color["top_fg"]
+
+          # ------------------------------------------------------
+          # SAVE SETTINGS
+          # ------------------------------------------------------
+
+          with open(path, "w", encoding="utf-8") as f:
+              json.dump(data, f, indent=2)
+
+          print("GitBlock configuration created.")
+          print("Background : transparent")
+          print("Structure  : white")
+          print("Commits    : colorful")
+
+
+      # ==========================================================
+      # GENERATE 2024
+      # ==========================================================
+
+      - name: Generate 2024 graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          YEAR: 2024
+          SETTING_JSON: .github/3d-settings/full.json
+
+      - name: Save 2024 graph
+        run: |
+          test -s profile-3d-contrib/profile-full.svg
+
+          cp \
+            profile-3d-contrib/profile-full.svg \
+            profile-3d-contrib/profile-yearly-2024.svg
+
+
+      # ==========================================================
+      # GENERATE 2025
+      # ==========================================================
+
+      - name: Generate 2025 graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          YEAR: 2025
+          SETTING_JSON: .github/3d-settings/full.json
+
+      - name: Save 2025 graph
+        run: |
+          test -s profile-3d-contrib/profile-full.svg
+
+          cp \
+            profile-3d-contrib/profile-full.svg \
+            profile-3d-contrib/profile-yearly-2025.svg
+
+
+      # ==========================================================
+      # GENERATE TOTAL GRAPH
+      #
+      # No YEAR means current/full contribution graph.
+      # ==========================================================
+
+      - name: Generate total 3D graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/3d-settings/full.json
+
+      - name: Save total graph
+        run: |
+          test -s profile-3d-contrib/profile-full.svg
+
+          cp \
+            profile-3d-contrib/profile-full.svg \
+            profile-3d-contrib/profile-full-current.svg
+
+
+      # ==========================================================
+      # VERIFY
+      # ==========================================================
+
+      - name: Verify generated graphs
+        run: |
+          echo "========================================"
+          echo "3D CONTRIBUTION GRAPHS"
+          echo "========================================"
+
+          ls -lh profile-3d-contrib/
+
+          echo ""
+          echo "Checking files..."
+
+          test -s profile-3d-contrib/profile-full-current.svg
+          test -s profile-3d-contrib/profile-yearly-2024.svg
+          test -s profile-3d-contrib/profile-yearly-2025.svg
+
+          echo ""
+          echo "All graphs generated successfully."
+
+
+      # ==========================================================
+      # COMMIT
+      # ==========================================================
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add \
+            profile-3d-contrib/ \
+            .github/3d-settings/
+
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Update 3D contribution graphs"
+            git push
+          fi
