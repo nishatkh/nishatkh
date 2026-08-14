@@ -62,9 +62,9 @@ Over time, I have developed solid experience across the full development ecosyst
 
 ## 🧊 3D Contribution Graph
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishatkh/nishatkh/output/profile-3d-contrib/profile-night-view.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishatkh/nishatkh/output/profile-3d-contrib/profile-gitblock.svg">
-  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/nishatkh/nishatkh/output/profile-3d-contrib/profile-night-view.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishatkh/nishatkh/output/profile-night-view.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishatkh/nishatkh/output/profile-gitblock.svg">
+  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/nishatkh/nishatkh/output/profile-night-view.svg">
 </picture>
 
 <br/>
