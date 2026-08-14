@@ -231,69 +231,6 @@ I believe strong systems are built through:
 
 <br/><br/>
 
-
-<!-- ==================== BADGES ==================== -->
-
-<div align="center">
-
-<img
-  src="https://makeschool.fail/courses/make-badges/images/github/1-month-streak.png"
-  width="85"
-  height="85"
-  alt="Badge 1"
-  style="background: transparent; mix-blend-mode: screen;"
-/>
-&nbsp;&nbsp;
-
-<img
-  src="https://api.badgr.io/public/badges/Vh9yCsRMRp2G9CPSZgx9Qg/image?type=png&fmt=wide"
-  width="85"
-  height="85"
-  alt="Badge 2"
-  style="background: transparent; mix-blend-mode: screen;"
-/>
-&nbsp;&nbsp;
-
-<img
-  src="https://logos-world.net/wp-content/uploads/2021/09/One-Piece-Emblem.png"
-  width="85"
-  height="85"
-  alt="Badge 3"
-  style="background: transparent; mix-blend-mode: screen;"
-/>
-&nbsp;&nbsp;
-
-<img
-  src="https://images.credly.com/images/6b924fae-3cd7-4233-b012-97413c62c85d/twitter_thumb_201604_blob"
-  width="85"
-  height="85"
-  alt="Badge 4"
-  style="background: transparent; mix-blend-mode: screen;"
-/>
-&nbsp;&nbsp;
-
-<img
-  src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"
-  width="85"
-  height="85"
-  alt="Badge 5"
-  style="background: transparent; mix-blend-mode: screen;"
-/>
-&nbsp;&nbsp;
-
-<img
-  src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/colab.png"
-  width="85"
-  height="85"
-  alt="Badge 6"
-  style="background: transparent; mix-blend-mode: screen;"
-/>
-
-</div>
-
-<br/><br/>
-
-
 <!-- ==================== GITHUB STREAK ==================== -->
 
 <div align="center">
