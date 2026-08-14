@@ -41,7 +41,7 @@
 <img
   align="left"
   src="https://custom-doodle.com/wp-content/uploads/doodle/auto-draft/mob-psycho-shigeo-kageyama-manga-doodle.gif"
-  width="340"
+  width="330"
   alt="Profile"
 />
 
