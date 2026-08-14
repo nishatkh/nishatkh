@@ -4,7 +4,7 @@
 
 <img
   width="100%"
-  src="https://i.redd.it/ofevfj5mkf9c1.gif"
+  src="ofevfj5mkf9c1.gif"
   alt="Profile Banner"
 />
 
