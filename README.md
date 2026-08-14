@@ -62,6 +62,8 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 
 <!-- ==================== SOCIAL ==================== -->
 
+<!-- ==================== SOCIAL ==================== -->
+
 <div align="center">
 
 <img
@@ -71,6 +73,11 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 
 <br/><br/>
 
+<table>
+<tr>
+
+<td align="center">
+
 <a href="https://facebook.com/profile.php?id=100053457121891">
   <img
     src="https://img.shields.io/badge/FACEBOOK-000000?style=for-the-badge&logo=facebook&logoColor=ffffff"
@@ -78,7 +85,11 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
   />
 </a>
 
-&nbsp;&nbsp;
+</td>
+
+<td width="15"></td>
+
+<td align="center">
 
 <a href="https://linkedin.com/in/nishatkh">
   <img
@@ -87,7 +98,11 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
   />
 </a>
 
-&nbsp;&nbsp;
+</td>
+
+<td width="15"></td>
+
+<td align="center">
 
 <a href="mailto:nishatkhan8u@gmail.com">
   <img
@@ -96,10 +111,14 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
   />
 </a>
 
+</td>
+
+</tr>
+</table>
+
 </div>
 
 <br/>
-
 <!-- ==================== MESSAGE ==================== -->
 
 <img
