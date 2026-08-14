@@ -196,22 +196,6 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 
 <br/><br/>
 
-From late-night debugging sessions to experimenting with new ideas,  
-every commit represents progress, learning and persistence.
-
-<br/><br/>
-
-I believe strong systems are built through:
-
-<br/><br/>
-
-`discipline` &nbsp; • &nbsp; `practice` &nbsp; • &nbsp; `creative thinking` &nbsp; • &nbsp; `problem solving`
-
-</div>
-
-<br/><br/>
-
-
 <!-- ==================== TECH STACK ==================== -->
 
 <img
