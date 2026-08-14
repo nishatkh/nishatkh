@@ -60,6 +60,14 @@ Over time, I have developed solid experience across the full development ecosyst
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&duration=1&pause=99999&color=FFFFFF&background=00000000&center=false&vCenter=true&width=620&height=80&lines=3D+Contribution+Graph" alt="3D Contribution Graph"/>
+
+<p align="center">
+  <img width="100%" src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph"/>
+</p>
+
+<br/>
+
 <div align="center">
 
 ### Building. Learning. Improving.
@@ -98,3 +106,4 @@ I believe strong systems are built through:
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=000000&section=footer"/>
+</div>
