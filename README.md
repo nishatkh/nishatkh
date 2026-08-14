@@ -244,6 +244,8 @@ I believe strong systems are built through:
 
 <!-- ==================== GITHUB STREAK ==================== -->
 
+<!-- ==================== GITHUB STREAK ==================== -->
+
 <div align="center">
 
 <img
@@ -254,14 +256,12 @@ I believe strong systems are built through:
 <br/><br/>
 
 <img
-  src="https://github-readme-streak-stats.demolab.com?user=nishatkh&theme=dark&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=nishatkh&theme=dark&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"
   width="65%"
   alt="GitHub Streak"
 />
 
 </div>
-
-<br/><br/>
 
 <!-- ==================== FOOTER ==================== -->
 
