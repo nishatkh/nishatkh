@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://i.pinimg.com/originals/56/0f/cf/560fcff573aab54297d3336ddd6644fd.jpg"/>
+<img width="100%" src="https://i.pinimg.com/originals/56/0f/cf/560fcff573aab54297d3336ddd6644fd.jpg" alt="Profile Banner"/>
 
 </div>
 
@@ -8,44 +8,65 @@
   <img src="https://img.shields.io/github/followers/nishatkh?style=for-the-badge&label=FOLLOWERS&color=111111&labelColor=111111&logo=github&logoColor=white"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/stars/nishatkh?style=for-the-badge&label=STARS&color=111111&labelColor=111111&logo=github&logoColor=white"/>
-  &nbsp;&nbsp;
 </p>
 
 <br/>
 
-<img align="left" src="https://i.postimg.cc/wjzkDT82/4-removebg-preview-(1).png" width="370"/>
+<img
+  align="left"
+  src="https://i.postimg.cc/wjzkDT82/4-removebg-preview-(1).png"
+  width="370"
+  alt="Nishat"
+/>
 
 ### Who Am I?
 
-I am a passionate **AI & IoT Engineer** studying at Daffodil International University with a degree in Computing & Information Systems, specializing in **AI in IoT** and graduating in 2028.
+I am a passionate **AI & IoT Engineer** studying at Daffodil International University, pursuing a degree in **Computing & Information Systems** with a specialization in **AI in IoT**.
 
-My professional journey is driven by continuous learning, practical experience and a strong commitment to building complete and functional systems for real-world needs.
+My journey is driven by continuous learning, practical experience and a strong interest in building complete systems for real-world problems.
 
-Over time, I have developed experience across the full development ecosystem, with a strong focus on **Machine Learning** and **Deep Learning**. Alongside embedded systems and IoT technologies, I have expanded my skills into modern application development and edge computing using technologies such as **TensorFlow**, **PyTorch** and **Edge Computing**.
+I work across different areas of software and intelligent systems, with a strong focus on **Machine Learning**, **Deep Learning**, **IoT** and **Edge Computing**. I enjoy turning ideas into working projects and learning something new with every build.
+
+My current interests include **TensorFlow**, **PyTorch**, computer vision, intelligent IoT systems and modern application development.
 
 <br clear="both"/>
 
 <br/>
 
-<p align="center">You can Click here</p>
+<p align="center">
+
+### You Can Find Me Here
+
+</p>
 
 <p align="center">
+
   <a href="https://facebook.com/profile.php?id=100053457121891">
-    <img src="https://img.shields.io/badge/FACEBOOK-111111?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/FACEBOOK-111111?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
+
   &nbsp;
+
   <a href="https://linkedin.com/in/nishatkh">
-    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
   &nbsp;
+
   <a href="mailto:nishatkhan8u@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+
 </p>
 
 <br/>
 
-<img align="right" src="https://i.postimg.cc/0Qz4h2NR/7-removebg-preview.png" width="140"/>
+<img
+  align="right"
+  src="https://i.postimg.cc/0Qz4h2NR/7-removebg-preview.png"
+  width="140"
+  alt="Decoration"
+/>
 
 > [!CAUTION]
 > **Code is never finished — it evolves with every build.**
@@ -56,7 +77,14 @@ Over time, I have developed experience across the full development ecosystem, wi
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&duration=1&pause=99999&color=FFFFFF&background=00000000&center=false&vCenter=true&width=620&height=80&lines=my+Contributions" alt="my Contributions"/>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&duration=1&pause=99999&color=FFFFFF&background=00000000&center=false&vCenter=true&width=620&height=80&lines=my+Contributions"
+  alt="my Contributions"
+/>
+
+<br/>
+
+<!-- Contribution Activity Graph -->
 
 <img
   width="100%"
@@ -66,35 +94,17 @@ Over time, I have developed experience across the full development ecosystem, wi
 
 <br/>
 
-<!-- 3D Contribution Graph -->
+<!-- ONE 3D CONTRIBUTION GRAPH -->
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-night-view.svg"
-    alt="3D Contribution Graph"
-  />
-</p>
 
-<!-- 3D GitBlock -->
-
-<p align="center">
   <img
     width="100%"
     src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-gitblock.svg"
     alt="3D GitHub Contribution Graph"
   />
+
 </p>
-
-<br/>
-
-<div align="center">
-
-**🏙️ [Drive through my GitHub City](https://honzaap.github.io/GithubCity?name=nishatkh&year=2026)**
-&nbsp;•&nbsp;
-**📐 [3D-printable Skyline](https://github.com/nishatkh/nishatkh/blob/main/skyline/2026.stl)**
-
-</div>
 
 <br/>
 
@@ -126,10 +136,13 @@ I believe strong systems are built through:
   alt="my Tech Stack"
 />
 
+<br/>
+
 <img
   align="right"
   src="https://i.postimg.cc/mrgZzMmj/image-removebg-preview.png"
   width="350"
+  alt="Tech Illustration"
 />
 
 <img
@@ -140,12 +153,18 @@ I believe strong systems are built through:
 
 <br clear="both"/>
 
+<br/>
+
+<!-- GitHub Streak -->
+
 <p align="center">
+
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=nishatkh&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border=000000&stroke=000000&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=666666"
     width="60%"
     alt="GitHub Streak"
   />
+
 </p>
 
 <br/>
@@ -154,7 +173,7 @@ I believe strong systems are built through:
 
 **"Keep working, stay strong, and your story will inspire others."**
 
-<br/>
+<br/><br/>
 
 <img
   width="100%"
