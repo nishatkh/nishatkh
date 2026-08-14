@@ -8,29 +8,23 @@
 
 </div>
 
-<br/>
-
 <p align="center">
 
-<img
-  src="https://img.shields.io/github/followers/nishatkh?style=for-the-badge&label=FOLLOWERS&color=111111&labelColor=111111&logo=github&logoColor=white"
-  alt="GitHub Followers"
-/>
+  <img
+    src="https://img.shields.io/github/followers/nishatkh?style=for-the-badge&label=FOLLOWERS&color=111111&labelColor=111111&logo=github&logoColor=white"
+    alt="GitHub Followers"
+  />
 
-&nbsp;&nbsp;
+  &nbsp;&nbsp;
 
-<img
-  src="https://img.shields.io/github/stars/nishatkh?style=for-the-badge&label=STARS&color=111111&labelColor=111111&logo=github&logoColor=white"
-  alt="GitHub Stars"
-/>
+  <img
+    src="https://img.shields.io/github/stars/nishatkh?style=for-the-badge&label=STARS&color=111111&labelColor=111111&logo=github&logoColor=white"
+    alt="GitHub Stars"
+  />
 
 </p>
 
 <br/>
-
-<!-- ========================================================= -->
-<!-- ABOUT ME -->
-<!-- ========================================================= -->
 
 <img
   align="left"
@@ -41,7 +35,7 @@
 
 ### Who Am I?
 
-I am a passionate **AI & IoT Engineer** studying at **Daffodil International University**, pursuing a degree in **Computing & Information Systems** with a specialization in **AI in IoT**.
+I am a passionate **AI & IoT Engineer** studying at Daffodil International University, pursuing a degree in **Computing & Information Systems** with a specialization in **AI in IoT**.
 
 My journey is driven by continuous learning, practical experience and a strong interest in building complete systems for real-world problems.
 
@@ -55,15 +49,13 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 
 <br/>
 
-<!-- ========================================================= -->
-<!-- SOCIAL LINKS -->
-<!-- ========================================================= -->
-
-<div align="center">
+<p align="center">
 
 ### You Can Find Me Here
 
-<br/>
+</p>
+
+<p align="center">
 
 <a href="https://facebook.com/profile.php?id=100053457121891">
 <img
@@ -72,7 +64,7 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 />
 </a>
 
-&nbsp;&nbsp;
+&nbsp;
 
 <a href="https://linkedin.com/in/nishatkh">
 <img
@@ -81,7 +73,7 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 />
 </a>
 
-&nbsp;&nbsp;
+&nbsp;
 
 <a href="mailto:nishatkhan8u@gmail.com">
 <img
@@ -90,13 +82,9 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 />
 </a>
 
-</div>
+</p>
 
 <br/>
-
-<!-- ========================================================= -->
-<!-- MESSAGE -->
-<!-- ========================================================= -->
 
 <img
   align="right"
@@ -114,114 +102,106 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 
 <br/><br/>
 
-<!-- ========================================================= -->
-<!-- CONTRIBUTIONS TITLE -->
-<!-- ========================================================= -->
-
-<p align="left">
+<!-- ==================== CONTRIBUTIONS ==================== -->
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&duration=1&pause=99999&color=FFFFFF&background=00000000&center=false&vCenter=true&width=620&height=80&lines=my+Contributions"
-  alt="My Contributions"
+  alt="my Contributions"
 />
 
-</p>
-
 <br/>
-
-<!-- ========================================================= -->
-<!-- CONTRIBUTION ACTIVITY -->
-<!-- ========================================================= -->
 
 ### Contribution Activity
 
-<p align="center">
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&custom_title=Contribution%20Journey&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=111111&title_color=FFFFFF&area=true&hide_border=true"
+  alt="Contribution Journey"
+/>
+
+<br/>
+
+<!-- ==================== YEARLY CONTRIBUTIONS ==================== -->
+
+### 2026
 
 <img
   width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&custom_title=Contribution+Journey&bg_color=0d1117&color=e6edf3&line=39d353&point=39d353&area_color=161b22&title_color=f0f6fc&area=true&hide_border=true"
-  alt="GitHub Contribution Activity"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&from=2026-01-01&to=2026-12-31&custom_title=2026%20Contribution%20Activity&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=111111&title_color=FFFFFF&area=true&hide_border=true"
+  alt="2026 Contribution Graph"
 />
-
-</p>
 
 <br/>
 
-<!-- ========================================================= -->
-<!-- GITHUB CONTRIBUTION CALENDAR -->
-<!-- ========================================================= -->
-
-### Contribution Calendar
-
-<p align="center">
+### 2025
 
 <img
   width="100%"
-  src="https://ghchart.rshah.org/39d353/nishatkh"
-  alt="GitHub Contribution Calendar"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&from=2025-01-01&to=2025-12-31&custom_title=2025%20Contribution%20Activity&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=111111&title_color=FFFFFF&area=true&hide_border=true"
+  alt="2025 Contribution Graph"
 />
-
-</p>
 
 <br/>
 
-<!-- ========================================================= -->
-<!-- YEARLY 3D CONTRIBUTIONS -->
-<!-- ========================================================= -->
-
-### Yearly Contributions
-
-<p align="center">
-
-<img
-  width="48%"
-  src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-yearly-2025.svg"
-  alt="2025 3D Contribution Calendar"
-/>
-
-&nbsp;&nbsp;
-
-<img
-  width="48%"
-  src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-yearly-2024.svg"
-  alt="2024 3D Contribution Calendar"
-/>
-
-</p>
-
-<p align="center">
-
-<b>2025</b>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<b>2024</b>
-
-</p>
-
-<br/>
-
-<!-- ========================================================= -->
-<!-- FULL 3D CONTRIBUTION -->
-<!-- ========================================================= -->
-
-### Total 3D Contribution Graph
-
-<p align="center">
+### 2024
 
 <img
   width="100%"
-  src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-full-current.svg"
-  alt="Full 3D GitHub Contribution Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&from=2024-01-01&to=2024-12-31&custom_title=2024%20Contribution%20Activity&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=111111&title_color=FFFFFF&area=true&hide_border=true"
+  alt="2024 Contribution Graph"
 />
+
+<br/>
+
+### 2023
+
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&from=2023-01-01&to=2023-12-31&custom_title=2023%20Contribution%20Activity&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=111111&title_color=FFFFFF&area=true&hide_border=true"
+  alt="2023 Contribution Graph"
+/>
+
+<br/>
+
+<!-- ==================== 3D CONTRIBUTION ==================== -->
+
+### 3D Contribution Graph
+
+<p align="center">
+
+<picture>
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-gitblock.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-gitblock.svg"
+  />
+
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-gitblock.svg"
+    alt="3D GitHub Contribution Graph"
+  />
+
+</picture>
 
 </p>
 
 <br/>
 
-<!-- ========================================================= -->
-<!-- BUILDING -->
-<!-- ========================================================= -->
+<div align="center">
+
+**One graph. One contribution history. Every commit counts.**
+
+</div>
+
+<br/>
+
+<!-- ==================== BUILDING ==================== -->
 
 <div align="center">
 
@@ -246,18 +226,12 @@ I believe strong systems are built through:
 
 <br/><br/>
 
-<!-- ========================================================= -->
-<!-- TECH STACK -->
-<!-- ========================================================= -->
-
-<p align="left">
+<!-- ==================== TECH STACK ==================== -->
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&duration=1&pause=99999&color=FFFFFF&background=00000000&center=false&vCenter=true&width=620&height=80&lines=my+Tech+Stack"
-  alt="My Tech Stack"
+  alt="my Tech Stack"
 />
-
-</p>
 
 <br/>
 
@@ -265,7 +239,7 @@ I believe strong systems are built through:
   align="right"
   src="https://i.postimg.cc/mrgZzMmj/image-removebg-preview.png"
   width="350"
-  alt="Technology Illustration"
+  alt="Tech Illustration"
 />
 
 <img
@@ -278,14 +252,12 @@ I believe strong systems are built through:
 
 <br/>
 
-<!-- ========================================================= -->
-<!-- GITHUB STREAK -->
-<!-- ========================================================= -->
+<!-- ==================== GITHUB STREAK ==================== -->
 
 <p align="center">
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=nishatkh&theme=dark&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=e6edf3&border=161b22&stroke=161b22&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=nishatkh&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border=000000&stroke=000000&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=666666"
   width="60%"
   alt="GitHub Streak"
 />
@@ -293,10 +265,6 @@ I believe strong systems are built through:
 </p>
 
 <br/>
-
-<!-- ========================================================= -->
-<!-- FOOTER MESSAGE -->
-<!-- ========================================================= -->
 
 <div align="center">
 
@@ -306,7 +274,7 @@ I believe strong systems are built through:
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0d1117&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&height=130&color=000000&section=footer"
   alt="Footer"
 />
 
