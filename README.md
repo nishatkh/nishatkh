@@ -115,38 +115,51 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 
 <img
   width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&custom_title=Contribution+Journey&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=111111&title_color=FFFFFF&area=true&hide_border=true"
-  alt="Contribution Activity Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&custom_title=Contribution%20Journey&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=111111&title_color=FFFFFF&area=true&hide_border=true"
+  alt="Contribution Journey"
 />
 
 <br/>
 
-### Contribution Calendar
+<!-- ==================== YEARLY CONTRIBUTIONS ==================== -->
 
-<p align="center">
+### 2026
 
 <img
-  src="https://ghchart.rshah.org/111111/nishatkh"
-  alt="GitHub Contribution Calendar"
   width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&from=2026-01-01&to=2026-12-31&custom_title=2026%20Contribution%20Activity&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=111111&title_color=FFFFFF&area=true&hide_border=true"
+  alt="2026 Contribution Graph"
 />
-
-</p>
 
 <br/>
 
-### Contribution History
+### 2025
 
-<div align="center">
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&from=2025-01-01&to=2025-12-31&custom_title=2025%20Contribution%20Activity&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=111111&title_color=FFFFFF&area=true&hide_border=true"
+  alt="2025 Contribution Graph"
+/>
 
-| Year | Contributions |
-|:---:|:---:|
-| **2023** | GitHub contribution history |
-| **2024** | GitHub contribution history |
-| **2025** | GitHub contribution history |
-| **2026** | Live rolling contribution history |
+<br/>
 
-</div>
+### 2024
+
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&from=2024-01-01&to=2024-12-31&custom_title=2024%20Contribution%20Activity&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=111111&title_color=FFFFFF&area=true&hide_border=true"
+  alt="2024 Contribution Graph"
+/>
+
+<br/>
+
+### 2023
+
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&from=2023-01-01&to=2023-12-31&custom_title=2023%20Contribution%20Activity&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=111111&title_color=FFFFFF&area=true&hide_border=true"
+  alt="2023 Contribution Graph"
+/>
 
 <br/>
 
@@ -156,11 +169,25 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 
 <p align="center">
 
-<img
-  width="100%"
-  src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-gitblock.svg"
-  alt="3D GitHub Contribution Graph"
-/>
+<picture>
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-gitblock.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-gitblock.svg"
+  />
+
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-gitblock.svg"
+    alt="3D GitHub Contribution Graph"
+  />
+
+</picture>
 
 </p>
 
@@ -225,7 +252,7 @@ I believe strong systems are built through:
 
 <br/>
 
-<!-- ==================== STREAK ==================== -->
+<!-- ==================== GITHUB STREAK ==================== -->
 
 <p align="center">
 
