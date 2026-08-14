@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b4473899-c582-4b0b-b939-1aa8f073f1e4" /><div align="center">
+
 
 <!-- ==================== BANNER ==================== -->
 
