@@ -123,8 +123,6 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 
 <!-- ==================== 3D CONTRIBUTION ==================== -->
 
-### 3D Contribution Graph
-
 <p align="center">
 
 <img
