@@ -1,4 +1,4 @@
-name: GitHub-Profile-3D-Contrib
+name: GitHub Profile 3D Contributions
 
 on:
   schedule:
@@ -12,24 +12,236 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    name: Generate 3D Contribution Graph
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
 
-      - name: Generate 3D Contribution Graph
+      # =========================
+      # Generate 2024
+      # =========================
+
+      - name: Generate 2024 contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          YEAR: 2024
+
+      - name: Save 2024 graph
+        run: |
+          cp profile-3d-contrib/profile-gitblock.svg \
+             profile-3d-contrib/profile-gitblock-2024.svg
+
+      # =========================
+      # Generate 2025
+      # =========================
+
+      - name: Generate 2025 contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          YEAR: 2025
+
+      - name: Save 2025 graph
+        run: |
+          cp profile-3d-contrib/profile-gitblock.svg \
+             profile-3d-contrib/profile-gitblock-2025.svg
+
+      # =========================
+      # Generate current graph
+      # =========================
+
+      - name: Generate current contribution graph
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Duplicate GitBlock for themes
+      - name: Save current graph
         run: |
-          cp profile-3d-contrib/profile-gitblock.svg profile-3d-contrib/profile-gitblock-dark.svg
-          cp profile-3d-contrib/profile-gitblock.svg profile-3d-contrib/profile-gitblock-light.svg
+          cp profile-3d-contrib/profile-gitblock.svg \
+             profile-3d-contrib/profile-gitblock-current.svg
 
-      - name: Commit generated files
+      # =========================
+      # Fix colors and visibility
+      # =========================
+
+      - name: Create GitHub themed graphs
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+
+          base = Path("profile-3d-contrib")
+
+          graphs = {
+              "2024": base / "profile-gitblock-2024.svg",
+              "2025": base / "profile-gitblock-2025.svg",
+              "current": base / "profile-gitblock-current.svg",
+          }
+
+          # GitHub contribution colors
+          light = {
+              "bg": "#ffffff",
+              "fg": "#24292f",
+              "strong": "#1f2328",
+              "weak": "#57606a",
+
+              "0": "#ebedf0",
+              "1": "#9be9a8",
+              "2": "#40c463",
+              "3": "#30a14e",
+              "4": "#216e39",
+          }
+
+          dark = {
+              "bg": "#0d1117",
+              "fg": "#e6edf3",
+              "strong": "#f0f6fc",
+              "weak": "#8b949e",
+
+              "0": "#161b22",
+              "1": "#0e4429",
+              "2": "#006d32",
+              "3": "#26a641",
+              "4": "#39d353",
+          }
+
+          def darker(hex_color, factor=0.72):
+              h = hex_color.lstrip("#")
+              r = int(h[0:2], 16)
+              g = int(h[2:4], 16)
+              b = int(h[4:6], 16)
+
+              r = int(r * factor)
+              g = int(g * factor)
+              b = int(b * factor)
+
+              return f"#{r:02x}{g:02x}{b:02x}"
+
+          def lighter(hex_color, factor=1.22):
+              h = hex_color.lstrip("#")
+              r = min(255, int(int(h[0:2], 16) * factor))
+              g = min(255, int(int(h[2:4], 16) * factor))
+              b = min(255, int(int(h[4:6], 16) * factor))
+
+              return f"#{r:02x}{g:02x}{b:02x}"
+
+          def create_theme(source, output, theme):
+              text = source.read_text(encoding="utf-8")
+
+              # Main text/background
+              text = re.sub(
+                  r"\.fill-fg\s*\{\s*fill:\s*[^;]+;",
+                  f".fill-fg {{ fill: {theme['fg']};",
+                  text
+              )
+
+              text = re.sub(
+                  r"\.stroke-fg\s*\{\s*stroke:\s*[^;]+;",
+                  f".stroke-fg {{ stroke: {theme['fg']};",
+                  text
+              )
+
+              text = re.sub(
+                  r"\.fill-bg\s*\{\s*fill:\s*[^;]+;",
+                  f".fill-bg {{ fill: {theme['bg']};",
+                  text
+              )
+
+              text = re.sub(
+                  r"\.stroke-bg\s*\{\s*stroke:\s*[^;]+;",
+                  f".stroke-bg {{ stroke: {theme['bg']};",
+                  text
+              )
+
+              text = re.sub(
+                  r"\.fill-strong\s*\{\s*fill:\s*[^;]+;",
+                  f".fill-strong {{ fill: {theme['strong']};",
+                  text
+              )
+
+              text = re.sub(
+                  r"\.fill-weak\s*\{\s*fill:\s*[^;]+;",
+                  f".fill-weak {{ fill: {theme['weak']};",
+                  text
+              )
+
+              text = re.sub(
+                  r"\.stroke-weak\s*\{\s*stroke:\s*[^;]+;",
+                  f".stroke-weak {{ stroke: {theme['weak']};",
+                  text
+              )
+
+              # Contribution levels
+              for level in range(5):
+                  color = theme[str(level)]
+
+                  # Top face
+                  text = re.sub(
+                      rf"(\.cont-top-bg-{level}\s*\{{\s*fill:\s*)[^;]+;",
+                      rf"\g<1>{color};",
+                      text
+                  )
+
+                  # Light side
+                  text = re.sub(
+                      rf"(\.cont-left-bg-{level}\s*\{{\s*fill:\s*)[^;]+;",
+                      rf"\g<1>{lighter(color)};",
+                      text
+                  )
+
+                  # Dark side
+                  text = re.sub(
+                      rf"(\.cont-right-bg-{level}\s*\{{\s*fill:\s*)[^;]+;",
+                      rf"\g<1>{darker(color)};",
+                      text
+                  )
+
+                  # Pattern foregrounds
+                  text = re.sub(
+                      rf"(\.cont-top-fg-{level}\s*\{{\s*fill:\s*)[^;]+;",
+                      rf"\g<1>{darker(color, 0.55)};",
+                      text
+                  )
+
+                  text = re.sub(
+                      rf"(\.cont-left-fg-{level}\s*\{{\s*fill:\s*)[^;]+;",
+                      rf"\g<1>{darker(color, 0.45)};",
+                      text
+                  )
+
+                  text = re.sub(
+                      rf"(\.cont-right-fg-{level}\s*\{{\s*fill:\s*)[^;]+;",
+                      rf"\g<1>{darker(color, 0.38)};",
+                      text
+                  )
+
+              output.write_text(text, encoding="utf-8")
+
+          for year, source in graphs.items():
+
+              if not source.exists():
+                  raise SystemExit(f"Missing generated file: {source}")
+
+              create_theme(
+                  source,
+                  base / f"profile-gitblock-{year}-light.svg",
+                  light
+              )
+
+              create_theme(
+                  source,
+                  base / f"profile-gitblock-{year}-dark.svg",
+                  dark
+              )
+
+      # =========================
+      # Commit
+      # =========================
+
+      - name: Commit generated graphs
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
@@ -39,6 +251,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "generated 3d contribution graph"
+            git commit -m "Update yearly 3D contribution graphs"
             git push
           fi
