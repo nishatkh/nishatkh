@@ -224,7 +224,7 @@ I believe strong systems are built through:
 <br/>
 
 <img
-  src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,c,java,js,react,nextjs,tailwind,bootstrap,nodejs,express,php,mongodb,mysql,postgresql,firebase,arduino,raspberrypi,git,github,docker,linux,vscode,postman,figma,kaggle&perline=7&theme=dark"
+  src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,c,java,js,react,nextjs,tailwind,bootstrap,kaggle,nodejs,express,php,mongodb,mysql,postgresql,firebase,arduino,raspberrypi,git,github,docker,linux,vscode,postman,figma&perline=7&theme=dark"
   width="100%"
   alt="Technology Stack"
 />
