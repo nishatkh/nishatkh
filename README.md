@@ -17,9 +17,11 @@
 
 ### Who Am I?
 
-I am a passionate **AI & IoT Engineer** studying at Daffodil International University with a degree in Computing & Information Systems, specializing in **AI in IoT** (graduating 2028). My professional journey is driven by continuous learning, practical experience, and a strong commitment to delivering complete and functional systems for real-world needs.
+I am a passionate **AI & IoT Engineer** studying at Daffodil International University with a degree in Computing & Information Systems, specializing in **AI in IoT** and graduating in 2028.
 
-Over time, I have developed solid experience across the full development ecosystem, with a strong passion for **Machine Learning** and **Deep Learning**, where logic meets creativity and intelligent design. Alongside embedded systems and IoT technologies, I have expanded my skills into cloud-native applications focusing on building modern solutions using **TensorFlow**, **PyTorch**, and **Edge Computing**.
+My professional journey is driven by continuous learning, practical experience and a strong commitment to building complete and functional systems for real-world needs.
+
+Over time, I have developed experience across the full development ecosystem, with a strong focus on **Machine Learning** and **Deep Learning**. Alongside embedded systems and IoT technologies, I have expanded my skills into modern application development and edge computing using technologies such as **TensorFlow**, **PyTorch** and **Edge Computing**.
 
 <br clear="both"/>
 
@@ -48,7 +50,7 @@ Over time, I have developed solid experience across the full development ecosyst
 > [!CAUTION]
 > **Code is never finished — it evolves with every build.**
 >
-> Everything here started with **curiosity**, grew through **consistency**, and improved with **every challenge solved**.
+> Everything here started with **curiosity**, grew through **consistency** and improved with **every challenge solved**.
 
 <br clear="both"/>
 
@@ -56,22 +58,41 @@ Over time, I have developed solid experience across the full development ecosyst
 
 <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&duration=1&pause=99999&color=FFFFFF&background=00000000&center=false&vCenter=true&width=620&height=80&lines=my+Contributions" alt="my Contributions"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&custom_title=Contribution+Journey&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=111111&title_color=FFFFFF&area=true&hide_border=true"/>
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&custom_title=Contribution+Journey&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=111111&title_color=FFFFFF&area=true&hide_border=true"
+  alt="Contribution Journey"
+/>
 
 <br/>
 
+<!-- 3D Contribution Graph -->
+
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-night-blue.svg#gh-dark-mode-only"/>
-  <img width="100%" src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-night-blue.svg#gh-light-mode-only"/>
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-night-view.svg"
+    alt="3D Contribution Graph"
+  />
 </p>
 
-<img width="100%" src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-gitblock-blue.svg"/>
+<!-- 3D GitBlock -->
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-gitblock.svg"
+    alt="3D GitHub Contribution Graph"
+  />
+</p>
 
 <br/>
 
 <div align="center">
 
-**🏙️ [Drive through my GitHub City](https://honzaap.github.io/GithubCity?name=nishatkh&year=2026)** &nbsp;•&nbsp; **📐 [3D-printable Skyline](https://github.com/nishatkh/nishatkh/blob/main/skyline/2026.stl)**
+**🏙️ [Drive through my GitHub City](https://honzaap.github.io/GithubCity?name=nishatkh&year=2026)**
+&nbsp;•&nbsp;
+**📐 [3D-printable Skyline](https://github.com/nishatkh/nishatkh/blob/main/skyline/2026.stl)**
 
 </div>
 
@@ -82,9 +103,10 @@ Over time, I have developed solid experience across the full development ecosyst
 ### Building. Learning. Improving.
 
 From late-night debugging sessions to experimenting with new ideas,  
-every commit represents progress, learning, and persistence.
+every commit represents progress, learning and persistence.
 
 I believe strong systems are built through:
+
 `discipline` • `practice` • `creative thinking` • `problem solving`
 
 </div>
@@ -96,14 +118,34 @@ I believe strong systems are built through:
 > *"Small improvements every day create big results over time."*
 
 </div>
-<br/><br/> 
-<img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&duration=1&pause=99999&color=FFFFFF&background=00000000&center=false&vCenter=true&width=620&height=80&lines=my+Tech+Stack" alt="my Tech Stack"/> 
-<img align="right" src="https://i.postimg.cc/mrgZzMmj/image-removebg-preview.png" width="350"/> 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,c,cpp,java,js,react,nextjs,tailwind,bootstrap,nodejs,express,php,mongodb,mysql,postgresql,firebase,arduino,raspberrypi,git,github,docker,linux,vscode,postman,figma&perline=7&theme=dark" width="380"/> 
+
+<br/><br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&duration=1&pause=99999&color=FFFFFF&background=00000000&center=false&vCenter=true&width=620&height=80&lines=my+Tech+Stack"
+  alt="my Tech Stack"
+/>
+
+<img
+  align="right"
+  src="https://i.postimg.cc/mrgZzMmj/image-removebg-preview.png"
+  width="350"
+/>
+
+<img
+  src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,c,cpp,java,js,react,nextjs,tailwind,bootstrap,nodejs,express,php,mongodb,mysql,postgresql,firebase,arduino,raspberrypi,git,github,docker,linux,vscode,postman,figma&perline=7&theme=dark"
+  width="380"
+  alt="Tech Stack"
+/>
+
 <br clear="both"/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishatkh&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border=000000&stroke=000000&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=666666" width="60%"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nishatkh&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border=000000&stroke=000000&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=666666"
+    width="60%"
+    alt="GitHub Streak"
+  />
 </p>
 
 <br/>
@@ -114,4 +156,10 @@ I believe strong systems are built through:
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=000000&section=footer"/>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=130&color=000000&section=footer"
+  alt="Footer"
+/>
+
+</div>
