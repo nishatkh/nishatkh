@@ -176,11 +176,6 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 
 <br/>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&height=25&lines=EVERY+COMMIT+COUNTS"
-  alt="Every Commit Counts"
-/>
-
 </div>
 
 <br/><br/>
@@ -193,6 +188,16 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
   src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&height=40&lines=BUILDING.+LEARNING.+IMPROVING."
   alt="Building Learning Improving"
 />
+
+<br/><br/>
+
+<img
+  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b901d1151997777.63164e98e9362.gif"
+  width="100%"
+  alt="Building Learning Improving Banner"
+/>
+
+</div>
 
 <br/><br/>
 
