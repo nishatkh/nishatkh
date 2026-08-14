@@ -13,244 +13,165 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v5
 
-      # =========================
-      # Generate 2024
-      # =========================
+      # ==========================================================
+      # Create custom colorful yearly calendar settings
+      # ==========================================================
 
-      - name: Generate 2024 contribution graph
+      - name: Create yearly calendar settings
+        shell: bash
+        run: |
+          mkdir -p .github/3d-settings
+
+          cat > .github/3d-settings/yearly.json <<'EOF'
+          {
+            "type": "normal",
+            "fileName": "profile-yearly.svg",
+
+            "backgroundColor": "#ffffff",
+            "foregroundColor": "#24292f",
+            "strongColor": "#1f2328",
+            "weakColor": "#57606a",
+            "radarColor": "#0969da",
+
+            "contribColors": [
+              "#ebedf0",
+              "#9be9a8",
+              "#40c463",
+              "#30a14e",
+              "#216e39"
+            ],
+
+            "darkMode": {
+              "type": "normal",
+              "backgroundColor": "#0d1117",
+              "foregroundColor": "#e6edf3",
+              "strongColor": "#f0f6fc",
+              "weakColor": "#8b949e",
+              "radarColor": "#58a6ff",
+
+              "contribColors": [
+                "#161b22",
+                "#0e4429",
+                "#006d32",
+                "#26a641",
+                "#39d353"
+              ]
+            }
+          }
+          EOF
+
+      # ==========================================================
+      # Create colorful FULL gitblock settings
+      # ==========================================================
+
+      - name: Create full gitblock settings
+        shell: bash
+        run: |
+          cat > .github/3d-settings/full.json <<'EOF'
+          {
+            "type": "gitblock",
+            "fileName": "profile-full.svg",
+
+            "backgroundColor": "#ffffff",
+            "foregroundColor": "#24292f",
+            "strongColor": "#1f2328",
+            "weakColor": "#57606a",
+            "radarColor": "#0969da",
+
+            "contribColors": [
+              "#ebedf0",
+              "#9be9a8",
+              "#40c463",
+              "#30a14e",
+              "#216e39"
+            ],
+
+            "darkMode": {
+              "type": "gitblock",
+              "backgroundColor": "#0d1117",
+              "foregroundColor": "#e6edf3",
+              "strongColor": "#f0f6fc",
+              "weakColor": "#8b949e",
+              "radarColor": "#58a6ff",
+
+              "contribColors": [
+                "#161b22",
+                "#0e4429",
+                "#006d32",
+                "#26a641",
+                "#39d353"
+              ]
+            }
+          }
+          EOF
+
+      # ==========================================================
+      # Generate 2024 ONLY calendar
+      # ==========================================================
+
+      - name: Generate 2024
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           YEAR: 2024
+          SETTING_JSON: .github/3d-settings/yearly.json
 
-      - name: Save 2024 graph
+      - name: Save 2024
         run: |
-          cp profile-3d-contrib/profile-gitblock.svg \
-             profile-3d-contrib/profile-gitblock-2024.svg
+          cp profile-3d-contrib/profile-yearly.svg \
+             profile-3d-contrib/profile-yearly-2024.svg
 
-      # =========================
-      # Generate 2025
-      # =========================
+      # ==========================================================
+      # Generate 2025 ONLY calendar
+      # ==========================================================
 
-      - name: Generate 2025 contribution graph
+      - name: Generate 2025
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           YEAR: 2025
+          SETTING_JSON: .github/3d-settings/yearly.json
 
-      - name: Save 2025 graph
+      - name: Save 2025
         run: |
-          cp profile-3d-contrib/profile-gitblock.svg \
-             profile-3d-contrib/profile-gitblock-2025.svg
+          cp profile-3d-contrib/profile-yearly.svg \
+             profile-3d-contrib/profile-yearly-2025.svg
 
-      # =========================
-      # Generate current graph
-      # =========================
+      # ==========================================================
+      # Generate CURRENT FULL gitblock
+      # ==========================================================
 
-      - name: Generate current contribution graph
+      - name: Generate current full graph
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/3d-settings/full.json
 
-      - name: Save current graph
+      - name: Save current full graph
         run: |
-          cp profile-3d-contrib/profile-gitblock.svg \
-             profile-3d-contrib/profile-gitblock-current.svg
+          cp profile-3d-contrib/profile-full.svg \
+             profile-3d-contrib/profile-full-current.svg
 
-      # =========================
-      # Fix colors and visibility
-      # =========================
-
-      - name: Create GitHub themed graphs
-        shell: python
-        run: |
-          from pathlib import Path
-          import re
-
-          base = Path("profile-3d-contrib")
-
-          graphs = {
-              "2024": base / "profile-gitblock-2024.svg",
-              "2025": base / "profile-gitblock-2025.svg",
-              "current": base / "profile-gitblock-current.svg",
-          }
-
-          # GitHub contribution colors
-          light = {
-              "bg": "#ffffff",
-              "fg": "#24292f",
-              "strong": "#1f2328",
-              "weak": "#57606a",
-
-              "0": "#ebedf0",
-              "1": "#9be9a8",
-              "2": "#40c463",
-              "3": "#30a14e",
-              "4": "#216e39",
-          }
-
-          dark = {
-              "bg": "#0d1117",
-              "fg": "#e6edf3",
-              "strong": "#f0f6fc",
-              "weak": "#8b949e",
-
-              "0": "#161b22",
-              "1": "#0e4429",
-              "2": "#006d32",
-              "3": "#26a641",
-              "4": "#39d353",
-          }
-
-          def darker(hex_color, factor=0.72):
-              h = hex_color.lstrip("#")
-              r = int(h[0:2], 16)
-              g = int(h[2:4], 16)
-              b = int(h[4:6], 16)
-
-              r = int(r * factor)
-              g = int(g * factor)
-              b = int(b * factor)
-
-              return f"#{r:02x}{g:02x}{b:02x}"
-
-          def lighter(hex_color, factor=1.22):
-              h = hex_color.lstrip("#")
-              r = min(255, int(int(h[0:2], 16) * factor))
-              g = min(255, int(int(h[2:4], 16) * factor))
-              b = min(255, int(int(h[4:6], 16) * factor))
-
-              return f"#{r:02x}{g:02x}{b:02x}"
-
-          def create_theme(source, output, theme):
-              text = source.read_text(encoding="utf-8")
-
-              # Main text/background
-              text = re.sub(
-                  r"\.fill-fg\s*\{\s*fill:\s*[^;]+;",
-                  f".fill-fg {{ fill: {theme['fg']};",
-                  text
-              )
-
-              text = re.sub(
-                  r"\.stroke-fg\s*\{\s*stroke:\s*[^;]+;",
-                  f".stroke-fg {{ stroke: {theme['fg']};",
-                  text
-              )
-
-              text = re.sub(
-                  r"\.fill-bg\s*\{\s*fill:\s*[^;]+;",
-                  f".fill-bg {{ fill: {theme['bg']};",
-                  text
-              )
-
-              text = re.sub(
-                  r"\.stroke-bg\s*\{\s*stroke:\s*[^;]+;",
-                  f".stroke-bg {{ stroke: {theme['bg']};",
-                  text
-              )
-
-              text = re.sub(
-                  r"\.fill-strong\s*\{\s*fill:\s*[^;]+;",
-                  f".fill-strong {{ fill: {theme['strong']};",
-                  text
-              )
-
-              text = re.sub(
-                  r"\.fill-weak\s*\{\s*fill:\s*[^;]+;",
-                  f".fill-weak {{ fill: {theme['weak']};",
-                  text
-              )
-
-              text = re.sub(
-                  r"\.stroke-weak\s*\{\s*stroke:\s*[^;]+;",
-                  f".stroke-weak {{ stroke: {theme['weak']};",
-                  text
-              )
-
-              # Contribution levels
-              for level in range(5):
-                  color = theme[str(level)]
-
-                  # Top face
-                  text = re.sub(
-                      rf"(\.cont-top-bg-{level}\s*\{{\s*fill:\s*)[^;]+;",
-                      rf"\g<1>{color};",
-                      text
-                  )
-
-                  # Light side
-                  text = re.sub(
-                      rf"(\.cont-left-bg-{level}\s*\{{\s*fill:\s*)[^;]+;",
-                      rf"\g<1>{lighter(color)};",
-                      text
-                  )
-
-                  # Dark side
-                  text = re.sub(
-                      rf"(\.cont-right-bg-{level}\s*\{{\s*fill:\s*)[^;]+;",
-                      rf"\g<1>{darker(color)};",
-                      text
-                  )
-
-                  # Pattern foregrounds
-                  text = re.sub(
-                      rf"(\.cont-top-fg-{level}\s*\{{\s*fill:\s*)[^;]+;",
-                      rf"\g<1>{darker(color, 0.55)};",
-                      text
-                  )
-
-                  text = re.sub(
-                      rf"(\.cont-left-fg-{level}\s*\{{\s*fill:\s*)[^;]+;",
-                      rf"\g<1>{darker(color, 0.45)};",
-                      text
-                  )
-
-                  text = re.sub(
-                      rf"(\.cont-right-fg-{level}\s*\{{\s*fill:\s*)[^;]+;",
-                      rf"\g<1>{darker(color, 0.38)};",
-                      text
-                  )
-
-              output.write_text(text, encoding="utf-8")
-
-          for year, source in graphs.items():
-
-              if not source.exists():
-                  raise SystemExit(f"Missing generated file: {source}")
-
-              create_theme(
-                  source,
-                  base / f"profile-gitblock-{year}-light.svg",
-                  light
-              )
-
-              create_theme(
-                  source,
-                  base / f"profile-gitblock-{year}-dark.svg",
-                  dark
-              )
-
-      # =========================
+      # ==========================================================
       # Commit
-      # =========================
+      # ==========================================================
 
       - name: Commit generated graphs
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add profile-3d-contrib/
+          git add -A .
 
           if git diff --cached --quiet; then
-            echo "No changes to commit."
+            echo "No changes."
           else
-            git commit -m "Update yearly 3D contribution graphs"
+            git commit -m "Update 3D contribution graphs"
             git push
           fi
