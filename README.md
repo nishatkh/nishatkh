@@ -6,7 +6,7 @@
 
 <img
   width="100%"
-  highet="80%"
+  highet="50%"
   src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/Spencer Wan.gif"
   alt="Profile Banner"
 />
