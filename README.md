@@ -146,28 +146,15 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 />
 <!-- ==================== 3D CONTRIBUTION ==================== -->
 
-### 3D Contribution Graph
+<h3>3D Contribution Graph</h3>
 
 <p align="center">
-
-<picture>
-
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-gitblock.svg"
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-full-current.svg"
+    alt="3D GitHub Contribution Graph"
   />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-gitblock.svg"
-  />
-
-<img
-  width="100%"
-  src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-full-current.svg"
-  alt="3D GitHub Contribution Graph"
-/>
-</picture>
+</p>
 
 </p>
 
