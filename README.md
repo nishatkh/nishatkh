@@ -10,28 +10,28 @@
 
 <br/><br/>
 
-<!-- ==================== PROFILE STATS ==================== -->
+<!-- ==================== FOLLOWERS + STARS ==================== -->
 
 <a href="https://github.com/nishatkh?tab=followers">
   <img
-    src="https://img.shields.io/github/followers/nishatkh?style=for-the-badge&label=FOLLOWERS&color=161b22&labelColor=161b22&logo=github&logoColor=39d353"
+    src="https://img.shields.io/github/followers/nishatkh?style=for-the-badge&label=FOLLOWERS&labelColor=000000&color=000000&logo=github&logoColor=ffffff"
     alt="GitHub Followers"
   />
 </a>
+
 &nbsp;&nbsp;
+
 <a href="https://github.com/nishatkh?tab=repositories">
   <img
-    src="https://img.shields.io/github/stars/nishatkh?style=for-the-badge&label=STARS&color=161b22&labelColor=161b22&logo=github&logoColor=facc15"
+    src="https://img.shields.io/github/stars/nishatkh?style=for-the-badge&label=STARS&labelColor=000000&color=000000&logo=github&logoColor=ffffff"
     alt="GitHub Stars"
   />
 </a>
 
 <br/><br/>
 
-<!-- Pixel-style status -->
-
 <img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=1&pause=100000&color=39D353&center=true&vCenter=true&width=600&height=35&lines=AI+%26+IoT+ENGINEER+%7C+BUILDER+%7C+LEARNER"
+  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&height=35&lines=AI+%26+IOT+ENGINEER+%7C+BUILDER+%7C+LEARNER"
   alt="Profile Status"
 />
 
@@ -49,7 +49,7 @@
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=100000&color=39D353&background=00000000&width=500&height=45&lines=WHO+AM+I%3F"
+  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=FFFFFF&background=00000000&width=500&height=40&lines=WHO+AM+I%3F"
   alt="Who Am I"
 />
 
@@ -67,20 +67,20 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 
 <br/>
 
-<!-- ==================== SOCIALS ==================== -->
+<!-- ==================== SOCIAL ==================== -->
 
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=39D353&background=00000000&center=true&vCenter=true&width=600&height=40&lines=YOU+CAN+FIND+ME+HERE"
-  alt="You Can Find Me Here"
+  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=650&height=35&lines=YOU+CAN+FIND+ME+HERE"
+  alt="Social Links"
 />
 
-<br/>
+<br/><br/>
 
 <a href="https://facebook.com/profile.php?id=100053457121891">
   <img
-    src="https://img.shields.io/badge/FACEBOOK-161b22?style=for-the-badge&logo=facebook&logoColor=1877F2"
+    src="https://img.shields.io/badge/FACEBOOK-000000?style=for-the-badge&logo=facebook&logoColor=ffffff"
     alt="Facebook"
   />
 </a>
@@ -89,7 +89,7 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 
 <a href="https://linkedin.com/in/nishatkh">
   <img
-    src="https://img.shields.io/badge/LINKEDIN-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
+    src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff"
     alt="LinkedIn"
   />
 </a>
@@ -98,7 +98,7 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 
 <a href="mailto:nishatkhan8u@gmail.com">
   <img
-    src="https://img.shields.io/badge/GMAIL-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335"
+    src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=ffffff"
     alt="Gmail"
   />
 </a>
@@ -130,7 +130,7 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=1&pause=100000&color=39D353&background=00000000&center=true&vCenter=true&width=700&height=50&lines=MY+CONTRIBUTIONS"
+  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&height=45&lines=MY+CONTRIBUTIONS"
   alt="My Contributions"
 />
 
@@ -138,12 +138,12 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 
 <br/>
 
-<!-- ==================== ACTIVITY GRAPH ==================== -->
+<!-- ==================== ACTIVITY ==================== -->
 
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=500&height=35&lines=CONTRIBUTION+ACTIVITY"
+  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&height=30&lines=CONTRIBUTION+ACTIVITY"
   alt="Contribution Activity"
 />
 
@@ -151,21 +151,21 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 
 <img
   width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&custom_title=&bg_color=00000000&color=39d353&line=39d353&point=ffffff&area_color=0e4429&title_color=39d353&area=true&hide_border=true"
-  alt="Contribution Journey"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&custom_title=&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=111111&title_color=ffffff&area=true&hide_border=true"
+  alt="Contribution Activity"
 />
 
 </div>
 
 <br/><br/>
 
-<!-- ==================== TOTAL 3D CONTRIBUTION ==================== -->
+<!-- ==================== 3D GRAPH ==================== -->
 
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=39D353&background=00000000&center=true&vCenter=true&width=700&height=45&lines=TOTAL+3D+CONTRIBUTION"
-  alt="Total 3D Contribution"
+  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&height=40&lines=3D+CONTRIBUTION+GRAPH"
+  alt="3D Contribution Graph"
 />
 
 <br/>
@@ -173,14 +173,14 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 <img
   width="100%"
   src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-full-current.svg"
-  alt="Total 3D GitHub Contribution Graph"
+  alt="3D GitHub Contribution Graph"
 />
 
 <br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1&pause=100000&color=8B949E&background=00000000&center=true&vCenter=true&width=700&height=30&lines=ONE+GRAPH+%7C+ONE+HISTORY+%7C+EVERY+COMMIT+COUNTS"
-  alt="Contribution Quote"
+  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&height=25&lines=EVERY+COMMIT+COUNTS"
+  alt="Every Commit Counts"
 />
 
 </div>
@@ -192,7 +192,7 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=39D353&background=00000000&center=true&vCenter=true&width=700&height=45&lines=BUILDING.+LEARNING.+IMPROVING."
+  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&height=40&lines=BUILDING.+LEARNING.+IMPROVING."
   alt="Building Learning Improving"
 />
 
@@ -209,13 +209,6 @@ I believe strong systems are built through:
 
 `discipline` &nbsp; • &nbsp; `practice` &nbsp; • &nbsp; `creative thinking` &nbsp; • &nbsp; `problem solving`
 
-<br/><br/>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1&pause=100000&color=8B949E&background=00000000&center=true&vCenter=true&width=700&height=30&lines=SMALL+IMPROVEMENTS+EVERY+DAY+CREATE+BIG+RESULTS."
-  alt="Quote"
-/>
-
 </div>
 
 <br/><br/>
@@ -225,7 +218,7 @@ I believe strong systems are built through:
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=1&pause=100000&color=39D353&background=00000000&center=true&vCenter=true&width=650&height=50&lines=MY+TECH+STACK"
+  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=650&height=45&lines=MY+TECH+STACK"
   alt="My Tech Stack"
 />
 
@@ -237,13 +230,7 @@ I believe strong systems are built through:
   alt="Technology Stack"
 />
 
-</div>
-
 <br/><br/>
-
-<!-- ==================== TECH ILLUSTRATION ==================== -->
-
-<div align="center">
 
 <img
   src="https://i.postimg.cc/mrgZzMmj/image-removebg-preview.png"
@@ -260,14 +247,14 @@ I believe strong systems are built through:
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=39D353&background=00000000&center=true&vCenter=true&width=650&height=45&lines=GITHUB+STREAK"
+  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=650&height=40&lines=GITHUB+STREAK"
   alt="GitHub Streak"
 />
 
-<br/>
+<br/><br/>
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=nishatkh&theme=dark&background=00000000&ring=39d353&fire=39d353&currStreakLabel=39d353&border=00000000&stroke=00000000&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"
+  src="https://github-readme-streak-stats.demolab.com?user=nishatkh&theme=dark&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"
   width="65%"
   alt="GitHub Streak"
 />
@@ -281,7 +268,7 @@ I believe strong systems are built through:
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1&pause=100000&color=39D353&background=00000000&center=true&vCenter=true&width=700&height=35&lines=KEEP+WORKING.+STAY+STRONG.+KEEP+BUILDING."
+  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&height=30&lines=KEEP+WORKING.+STAY+STRONG.+KEEP+BUILDING."
   alt="Footer Message"
 />
 
