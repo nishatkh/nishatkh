@@ -1,4 +1,4 @@
-<div align="center">
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b4473899-c582-4b0b-b939-1aa8f073f1e4" /><div align="center">
 
 <!-- ==================== BANNER ==================== -->
 
@@ -236,19 +236,18 @@ I believe strong systems are built through:
 
 <div align="center">
 
-<img src="BADGE_IMAGE_1" width="85" height="85" alt="Badge 1"/>
+<img src="https://makeschool.fail/courses/make-badges/images/github/1-month-streak.png" width="85" height="85" alt="Badge 1"/>
 &nbsp;&nbsp;
-<img src="BADGE_IMAGE_2" width="85" height="85" alt="Badge 2"/>
+<img src="https://api.badgr.io/public/badges/Vh9yCsRMRp2G9CPSZgx9Qg/image?type=png&fmt=wide" width="85" height="85" alt="Badge 2"/>
 &nbsp;&nbsp;
-<img src="BADGE_IMAGE_3" width="85" height="85" alt="Badge 3"/>
+<img src="https://logos-world.net/wp-content/uploads/2021/09/One-Piece-Emblem.png" width="85" height="85" alt="Badge 3"/>
 &nbsp;&nbsp;
-<img src="BADGE_IMAGE_4" width="85" height="85" alt="Badge 4"/>
+<img src="https://images.credly.com/images/6b924fae-3cd7-4233-b012-97413c62c85d/twitter_thumb_201604_blob" width="85" height="85" alt="Badge 4"/>
 &nbsp;&nbsp;
-<img src="BADGE_IMAGE_5" width="85" height="85" alt="Badge 5"/>
+<img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="85" height="85" alt="Badge 5"/>
 &nbsp;&nbsp;
-<img src="BADGE_IMAGE_6" width="85" height="85" alt="Badge 6"/>
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/colab.png" width="85" height="85" alt="Badge 6"/>
 &nbsp;&nbsp;
-<img src="BADGE_IMAGE_7" width="85" height="85" alt="Badge 7"/>
 
 </div>
 
