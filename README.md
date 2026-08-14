@@ -121,18 +121,6 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 
 <br/>
 
-
-<img
-  width="48%"
-  src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-yearly-2025.svg"
-  alt="2025 Contributions"
-/>
-
-<img
-  width="48%"
-  src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-yearly-2024.svg"
-  alt="2024 Contributions"
-/>
 <!-- ==================== 3D CONTRIBUTION ==================== -->
 
 ### 3D Contribution Graph
