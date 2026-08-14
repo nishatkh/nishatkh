@@ -1,0 +1,11 @@
+[
+  {
+    "type": "night",
+    "fileName": "profile-night-blue",
+    "background": "#000000",
+    "boxColor": "#0d1b3e",
+    "boxRoofColor": "#1b3a8a",
+    "textColor": "#8ab4f8",
+    "focalPoint": "top-right"
+  }
+]
