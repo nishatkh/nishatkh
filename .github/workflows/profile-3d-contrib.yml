@@ -15,7 +15,7 @@ jobs:
     name: Generate 3D Contribution Graph
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v5
 
       - name: Generate 3D Contribution Graph
@@ -24,23 +24,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Make GitBlock background transparent
+      - name: Duplicate GitBlock for themes
         run: |
-          python - <<'PY'
-          from pathlib import Path
+          cp profile-3d-contrib/profile-gitblock.svg profile-3d-contrib/profile-gitblock-dark.svg
+          cp profile-3d-contrib/profile-gitblock.svg profile-3d-contrib/profile-gitblock-light.svg
 
-          file = Path("profile-3d-contrib/profile-gitblock.svg")
-
-          if file.exists():
-              text = file.read_text()
-
-              text = text.replace("#ffffff", "#000000")
-              text = text.replace("#FFFFFF", "#000000")
-
-              file.write_text(text)
-          PY
-
-      - name: Commit and Push
+      - name: Commit generated files
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
