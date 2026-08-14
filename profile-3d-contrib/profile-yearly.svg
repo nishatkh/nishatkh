@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="850" viewBox="0 0 1280 850"><style>* { font-family: "Ubuntu", "Helvetica", "Arial", sans-serif; }
 .fill-fg { fill: #24292f; }
 .stroke-fg { stroke: #24292f; }
-.fill-bg { fill: #ffffff; }
-.stroke-bg { stroke: #ffffff; }
+.fill-bg { fill: transparent; }
+.stroke-bg { stroke: transparent; }
 .fill-strong { fill: #1f2328; }
 .fill-weak { fill: #57606a; }
 .stroke-weak { stroke: #57606a; }
 .radar {
 stroke-width: 4px;
-stroke: #0969da;
-fill: #0969da;
+stroke: undefined;
+fill: undefined;
 fill-opacity: 0.5;
 }
 .cont-top-0 { fill: rgb(235, 237, 240); }
@@ -30,15 +30,15 @@ fill-opacity: 0.5;
 @media (prefers-color-scheme: dark) {
 .fill-fg { fill: #e6edf3; }
 .stroke-fg { stroke: #e6edf3; }
-.fill-bg { fill: #0d1117; }
-.stroke-bg { stroke: #0d1117; }
+.fill-bg { fill: transparent; }
+.stroke-bg { stroke: transparent; }
 .fill-strong { fill: #f0f6fc; }
 .fill-weak { fill: #8b949e; }
 .stroke-weak { stroke: #8b949e; }
 .radar {
 stroke-width: 4px;
-stroke: #58a6ff;
-fill: #58a6ff;
+stroke: undefined;
+fill: undefined;
 fill-opacity: 0.5;
 }
 .cont-top-0 { fill: rgb(22, 27, 34); }
