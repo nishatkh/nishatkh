@@ -146,15 +146,15 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 />
 <!-- ==================== 3D CONTRIBUTION ==================== -->
 
-<h3>3D Contribution Graph</h3>
+### 3D Contribution Graph
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-full-current.svg"
-    alt="3D GitHub Contribution Graph"
-  />
-</p>
+
+<img
+  width="100%"
+  src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-full-current.svg"
+  alt="3D GitHub Contribution Graph"
+/>
 
 </p>
 
@@ -165,8 +165,6 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 **One graph. One contribution history. Every commit counts.**
 
 </div>
-
-<br/>
 
 <!-- ==================== BUILDING ==================== -->
 
