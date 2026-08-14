@@ -13,11 +13,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+
+      # ==========================================================
+      # Checkout
+      # ==========================================================
+
       - name: Checkout
         uses: actions/checkout@v5
 
+
       # ==========================================================
-      # Create custom colorful yearly calendar settings
+      # Create yearly calendar settings
       # ==========================================================
 
       - name: Create yearly calendar settings
@@ -30,11 +36,10 @@ jobs:
             "type": "normal",
             "fileName": "profile-yearly.svg",
 
-            "backgroundColor": "#ffffff",
+            "backgroundColor": "transparent",
             "foregroundColor": "#24292f",
             "strongColor": "#1f2328",
             "weakColor": "#57606a",
-            "radarColor": "#0969da",
 
             "contribColors": [
               "#ebedf0",
@@ -46,11 +51,10 @@ jobs:
 
             "darkMode": {
               "type": "normal",
-              "backgroundColor": "#0d1117",
+              "backgroundColor": "transparent",
               "foregroundColor": "#e6edf3",
               "strongColor": "#f0f6fc",
               "weakColor": "#8b949e",
-              "radarColor": "#58a6ff",
 
               "contribColors": [
                 "#161b22",
@@ -63,11 +67,12 @@ jobs:
           }
           EOF
 
+
       # ==========================================================
-      # Create colorful FULL gitblock settings
+      # Create FULL GitBlock settings
       # ==========================================================
 
-      - name: Create full gitblock settings
+      - name: Create full GitBlock settings
         shell: bash
         run: |
           cat > .github/3d-settings/full.json <<'EOF'
@@ -75,11 +80,10 @@ jobs:
             "type": "gitblock",
             "fileName": "profile-full.svg",
 
-            "backgroundColor": "#ffffff",
+            "backgroundColor": "transparent",
             "foregroundColor": "#24292f",
             "strongColor": "#1f2328",
             "weakColor": "#57606a",
-            "radarColor": "#0969da",
 
             "contribColors": [
               "#ebedf0",
@@ -91,11 +95,10 @@ jobs:
 
             "darkMode": {
               "type": "gitblock",
-              "backgroundColor": "#0d1117",
+              "backgroundColor": "transparent",
               "foregroundColor": "#e6edf3",
               "strongColor": "#f0f6fc",
               "weakColor": "#8b949e",
-              "radarColor": "#58a6ff",
 
               "contribColors": [
                 "#161b22",
@@ -108,8 +111,9 @@ jobs:
           }
           EOF
 
+
       # ==========================================================
-      # Generate 2024 ONLY calendar
+      # Generate 2024
       # ==========================================================
 
       - name: Generate 2024
@@ -121,12 +125,16 @@ jobs:
           SETTING_JSON: .github/3d-settings/yearly.json
 
       - name: Save 2024
+        shell: bash
         run: |
+          test -f profile-3d-contrib/profile-yearly.svg
+
           cp profile-3d-contrib/profile-yearly.svg \
              profile-3d-contrib/profile-yearly-2024.svg
 
+
       # ==========================================================
-      # Generate 2025 ONLY calendar
+      # Generate 2025
       # ==========================================================
 
       - name: Generate 2025
@@ -138,36 +146,107 @@ jobs:
           SETTING_JSON: .github/3d-settings/yearly.json
 
       - name: Save 2025
+        shell: bash
         run: |
+          test -f profile-3d-contrib/profile-yearly.svg
+
           cp profile-3d-contrib/profile-yearly.svg \
              profile-3d-contrib/profile-yearly-2025.svg
 
+
       # ==========================================================
-      # Generate CURRENT FULL gitblock
+      # Generate CURRENT FULL GitBlock
       # ==========================================================
 
-      - name: Generate current full graph
+      - name: Generate current full GitBlock
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: .github/3d-settings/full.json
 
-      - name: Save current full graph
+      - name: Save current full GitBlock
+        shell: bash
         run: |
+          test -f profile-3d-contrib/profile-full.svg
+
           cp profile-3d-contrib/profile-full.svg \
              profile-3d-contrib/profile-full-current.svg
+
+
+      # ==========================================================
+      # Remove generated SVG background safely
+      # ==========================================================
+
+      - name: Remove SVG background
+        shell: bash
+        run: |
+          python3 <<'PY'
+          from pathlib import Path
+          import re
+
+          files = [
+              "profile-3d-contrib/profile-full-current.svg",
+              "profile-3d-contrib/profile-yearly-2024.svg",
+              "profile-3d-contrib/profile-yearly-2025.svg"
+          ]
+
+          for filename in files:
+              path = Path(filename)
+
+              if not path.exists():
+                  print(f"Skipping missing file: {filename}")
+                  continue
+
+              text = path.read_text(encoding="utf-8")
+
+              # Remove common full-canvas background rectangles.
+              text = re.sub(
+                  r'<rect[^>]*(?:width=["\']100%["\'][^>]*height=["\']100%["\'][^>]*)[^>]*/>',
+                  '',
+                  text,
+                  flags=re.IGNORECASE
+              )
+
+              text = re.sub(
+                  r'<rect[^>]*x=["\']0["\'][^>]*y=["\']0["\'][^>]*/>',
+                  '',
+                  text,
+                  flags=re.IGNORECASE
+              )
+
+              path.write_text(text, encoding="utf-8")
+
+              print(f"Processed: {filename}")
+          PY
+
+
+      # ==========================================================
+      # Verify generated files
+      # ==========================================================
+
+      - name: Verify generated graphs
+        shell: bash
+        run: |
+          echo "Generated files:"
+          ls -lh profile-3d-contrib/
+
+          test -s profile-3d-contrib/profile-yearly-2024.svg
+          test -s profile-3d-contrib/profile-yearly-2025.svg
+          test -s profile-3d-contrib/profile-full-current.svg
+
 
       # ==========================================================
       # Commit
       # ==========================================================
 
       - name: Commit generated graphs
+        shell: bash
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add -A .
+          git add profile-3d-contrib/
 
           if git diff --cached --quiet; then
             echo "No changes."
