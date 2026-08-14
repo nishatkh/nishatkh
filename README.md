@@ -236,18 +236,17 @@ I believe strong systems are built through:
 
 <div align="center">
 
-<img src="https://makeschool.fail/courses/make-badges/images/github/1-month-streak.png" width="85" height="85" alt="Badge 1"/>
+<img src="./badges/github-streak.png" width="85" height="85" alt="GitHub Streak"/>
 &nbsp;&nbsp;
-<img src="https://api.badgr.io/public/badges/Vh9yCsRMRp2G9CPSZgx9Qg/image?type=png&fmt=wide" width="85" height="85" alt="Badge 2"/>
+<img src="./badges/badgr.png" width="85" height="85" alt="Badgr Badge"/>
 &nbsp;&nbsp;
-<img src="https://logos-world.net/wp-content/uploads/2021/09/One-Piece-Emblem.png" width="85" height="85" alt="Badge 3"/>
+<img src="./badges/one-piece.png" width="85" height="85" alt="One Piece"/>
 &nbsp;&nbsp;
-<img src="https://images.credly.com/images/6b924fae-3cd7-4233-b012-97413c62c85d/twitter_thumb_201604_blob" width="85" height="85" alt="Badge 4"/>
+<img src="./badges/credly.png" width="85" height="85" alt="Credly Badge"/>
 &nbsp;&nbsp;
-<img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="85" height="85" alt="Badge 5"/>
+<img src="./badges/azure.png" width="85" height="85" alt="Azure Data Fundamentals"/>
 &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/colab.png" width="85" height="85" alt="Badge 6"/>
-&nbsp;&nbsp;
+<img src="./badges/colab.png" width="85" height="85" alt="Google Colab"/>
 
 </div>
 
