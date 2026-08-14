@@ -133,26 +133,17 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 
 <br/>
 
-### 2025
-
 <img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&from=2025-01-01&to=2025-12-31&custom_title=2025%20Contribution%20Activity&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=111111&title_color=FFFFFF&area=true&hide_border=true"
-  alt="2025 Contribution Graph"
+  width="48%"
+  src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-yearly-2025.svg"
+  alt="2025 Contributions"
 />
 
-<br/>
-
-### 2024
-
 <img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&from=2024-01-01&to=2024-12-31&custom_title=2024%20Contribution%20Activity&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=111111&title_color=FFFFFF&area=true&hide_border=true"
-  alt="2024 Contribution Graph"
+  width="48%"
+  src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-yearly-2024.svg"
+  alt="2024 Contributions"
 />
-
-<br/>
-
 <!-- ==================== 3D CONTRIBUTION ==================== -->
 
 ### 3D Contribution Graph
@@ -171,12 +162,11 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
     srcset="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-gitblock.svg"
   />
 
-  <img
-    width="100%"
-    src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-gitblock.svg"
-    alt="3D GitHub Contribution Graph"
-  />
-
+<img
+  width="100%"
+  src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-full-current.svg"
+  alt="3D GitHub Contribution Graph"
+/>
 </picture>
 
 </p>
