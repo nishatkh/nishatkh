@@ -6,7 +6,6 @@
 
 <img
   width="100%"
-  highet="50%"
   src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/Sukuna-7 hosted at ImgBB.gif"
   alt="Profile Banner"
 />
