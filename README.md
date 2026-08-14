@@ -60,11 +60,12 @@ Over time, I have developed solid experience across the full development ecosyst
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&duration=1&pause=99999&color=FFFFFF&background=00000000&center=false&vCenter=true&width=620&height=80&lines=3D+Contribution+Graph" alt="3D Contribution Graph"/>
-
-<p align="center">
-  <img width="100%" src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph"/>
-</p>
+## 🧊 3D Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishatkh/nishatkh/output/profile-3d-contrib/profile-night-view.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishatkh/nishatkh/output/profile-3d-contrib/profile-gitblock.svg">
+  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/nishatkh/nishatkh/output/profile-3d-contrib/profile-night-view.svg">
+</picture>
 
 <br/>
 
