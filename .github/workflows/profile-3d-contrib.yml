@@ -3,6 +3,7 @@ name: GitHub Profile 3D Contributions
 on:
   schedule:
     - cron: "0 18 * * *"
+
   workflow_dispatch:
 
 permissions:
@@ -13,100 +14,83 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+
+      # ==========================================================
+      # Checkout repository
+      # ==========================================================
+
+      - name: Checkout repository
         uses: actions/checkout@v5
 
-      # ----------------------------------------------------------
-      # Generate the normal colorful GitBlock graph
-      # ----------------------------------------------------------
-      - name: Generate 3D contribution graph
+      # ==========================================================
+      # Make sure settings directory exists
+      # ==========================================================
+
+      - name: Prepare settings directory
+        run: |
+          mkdir -p .github/3d-settings
+          mkdir -p profile-3d-contrib
+
+      # ==========================================================
+      # Generate FULL 3D contribution graph
+      #
+      # - Transparent SVG background
+      # - White LEGO contribution cells
+      # - GitHub green contribution colors
+      # - Colored commits
+      # - GitHub-style blue radar
+      # ==========================================================
+
+      - name: Generate full 3D contribution graph
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/3d-settings/full.json
 
-      # ----------------------------------------------------------
-      # Remove ONLY the outer SVG background
-      #
-      # Do NOT replace all black fills.
-      # The LEGO blocks and text use their own SVG fills.
-      # ----------------------------------------------------------
-      - name: Make only the outer background transparent
-        shell: python
+      # ==========================================================
+      # Rename generated graph
+      # ==========================================================
+
+      - name: Save full graph
         run: |
-          from pathlib import Path
-          import re
+          if [ -f "profile-3d-contrib/profile-full.svg" ]; then
+            cp profile-3d-contrib/profile-full.svg \
+               profile-3d-contrib/profile-full-current.svg
+          else
+            echo "ERROR: profile-full.svg was not generated."
+            exit 1
+          fi
 
-          path = Path(
-              "profile-3d-contrib/profile-gitblock.svg"
-          )
+      # ==========================================================
+      # Verify generated SVG
+      # ==========================================================
 
-          svg = path.read_text()
-
-          # Remove a full-size background rectangle if present.
-          #
-          # This targets the SVG canvas only.
-          # It does NOT touch LEGO cells, commits,
-          # language labels or charts.
-
-          svg = re.sub(
-              r'<rect[^>]+width="100%"[^>]+height="100%"[^>]*/>',
-              '',
-              svg,
-              flags=re.IGNORECASE
-          )
-
-          svg = re.sub(
-              r'<rect[^>]+width="1280"[^>]+height="850"[^>]*/>',
-              '',
-              svg,
-              flags=re.IGNORECASE
-          )
-
-          # Remove common root background style only.
-          svg = svg.replace(
-              'style="background:#000000"',
-              ''
-          )
-
-          svg = svg.replace(
-              'style="background: #000000"',
-              ''
-          )
-
-          path.write_text(svg)
-
-      # ----------------------------------------------------------
-      # Keep a clean copy for README
-      # ----------------------------------------------------------
-      - name: Copy final graph
+      - name: Verify graph
         run: |
-          cp \
-            profile-3d-contrib/profile-gitblock.svg \
-            profile-3d-contrib/profile-gitblock-current.svg
+          echo "Generated files:"
+          ls -lah profile-3d-contrib/
 
-      # ----------------------------------------------------------
-      # Verify
-      # ----------------------------------------------------------
-      - name: Verify generated files
-        run: |
-          test -f profile-3d-contrib/profile-gitblock.svg
-          test -f profile-3d-contrib/profile-gitblock-current.svg
+          echo ""
+          echo "Checking SVG:"
+          test -s profile-3d-contrib/profile-full-current.svg
 
           echo "3D contribution graph generated successfully."
 
-      # ----------------------------------------------------------
-      # Commit
-      # ----------------------------------------------------------
-      - name: Commit and push
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+      # ==========================================================
+      # Commit and push
+      # ==========================================================
 
-          git add profile-3d-contrib/
+      - name: Commit generated graph
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile-3d-contrib/profile-full-current.svg
+          git add .github/3d-settings/full.json
 
           if git diff --cached --quiet; then
-            echo "No changes."
+            echo "No changes to commit."
           else
             git commit -m "Update 3D contribution graph"
             git push
