@@ -1,13 +1,27 @@
 <div align="center">
 
-<img width="100%" src="https://i.pinimg.com/originals/56/0f/cf/560fcff573aab54297d3336ddd6644fd.jpg" alt="Profile Banner"/>
+<img
+  width="100%"
+  src="https://i.pinimg.com/originals/56/0f/cf/560fcff573aab54297d3336ddd6644fd.jpg"
+  alt="Profile Banner"
+/>
 
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/nishatkh?style=for-the-badge&label=FOLLOWERS&color=111111&labelColor=111111&logo=github&logoColor=white"/>
+
+  <img
+    src="https://img.shields.io/github/followers/nishatkh?style=for-the-badge&label=FOLLOWERS&color=111111&labelColor=111111&logo=github&logoColor=white"
+    alt="GitHub Followers"
+  />
+
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/nishatkh?style=for-the-badge&label=STARS&color=111111&labelColor=111111&logo=github&logoColor=white"/>
+
+  <img
+    src="https://img.shields.io/github/stars/nishatkh?style=for-the-badge&label=STARS&color=111111&labelColor=111111&logo=github&logoColor=white"
+    alt="GitHub Stars"
+  />
+
 </p>
 
 <br/>
@@ -16,7 +30,7 @@
   align="left"
   src="https://i.postimg.cc/wjzkDT82/4-removebg-preview-(1).png"
   width="370"
-  alt="Nishat"
+  alt="Profile"
 />
 
 ### Who Am I?
@@ -25,9 +39,11 @@ I am a passionate **AI & IoT Engineer** studying at Daffodil International Unive
 
 My journey is driven by continuous learning, practical experience and a strong interest in building complete systems for real-world problems.
 
-I work across different areas of software and intelligent systems, with a strong focus on **Machine Learning**, **Deep Learning**, **IoT** and **Edge Computing**. I enjoy turning ideas into working projects and learning something new with every build.
+I work across different areas of software and intelligent systems, with a strong focus on **Machine Learning**, **Deep Learning**, **IoT** and **Edge Computing**.
 
-My current interests include **TensorFlow**, **PyTorch**, computer vision, intelligent IoT systems and modern application development.
+I enjoy turning ideas into working projects and learning something new with every build.
+
+My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intelligent IoT systems and modern application development.
 
 <br clear="both"/>
 
@@ -41,21 +57,30 @@ My current interests include **TensorFlow**, **PyTorch**, computer vision, intel
 
 <p align="center">
 
-  <a href="https://facebook.com/profile.php?id=100053457121891">
-    <img src="https://img.shields.io/badge/FACEBOOK-111111?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
+<a href="https://facebook.com/profile.php?id=100053457121891">
+<img
+  src="https://img.shields.io/badge/FACEBOOK-111111?style=for-the-badge&logo=facebook&logoColor=white"
+  alt="Facebook"
+/>
+</a>
 
-  &nbsp;
+&nbsp;
 
-  <a href="https://linkedin.com/in/nishatkh">
-    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<a href="https://linkedin.com/in/nishatkh">
+<img
+  src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"
+  alt="LinkedIn"
+/>
+</a>
 
-  &nbsp;
+&nbsp;
 
-  <a href="mailto:nishatkhan8u@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<a href="mailto:nishatkhan8u@gmail.com">
+<img
+  src="https://img.shields.io/badge/GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white"
+  alt="Email"
+/>
+</a>
 
 </p>
 
@@ -77,6 +102,8 @@ My current interests include **TensorFlow**, **PyTorch**, computer vision, intel
 
 <br/><br/>
 
+<!-- ==================== CONTRIBUTIONS ==================== -->
+
 <img
   src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&duration=1&pause=99999&color=FFFFFF&background=00000000&center=false&vCenter=true&width=620&height=80&lines=my+Contributions"
   alt="my Contributions"
@@ -84,29 +111,70 @@ My current interests include **TensorFlow**, **PyTorch**, computer vision, intel
 
 <br/>
 
-<!-- Contribution Activity Graph -->
+### Contribution Activity
 
 <img
   width="100%"
   src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&custom_title=Contribution+Journey&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=111111&title_color=FFFFFF&area=true&hide_border=true"
-  alt="Contribution Journey"
+  alt="Contribution Activity Graph"
 />
 
 <br/>
 
-<!-- ONE 3D CONTRIBUTION GRAPH -->
+### Contribution Calendar
 
 <p align="center">
 
-  <img
-    width="100%"
-    src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-gitblock.svg"
-    alt="3D GitHub Contribution Graph"
-  />
+<img
+  src="https://ghchart.rshah.org/111111/nishatkh"
+  alt="GitHub Contribution Calendar"
+  width="100%"
+/>
 
 </p>
 
 <br/>
+
+### Contribution History
+
+<div align="center">
+
+| Year | Contributions |
+|:---:|:---:|
+| **2023** | GitHub contribution history |
+| **2024** | GitHub contribution history |
+| **2025** | GitHub contribution history |
+| **2026** | Live rolling contribution history |
+
+</div>
+
+<br/>
+
+<!-- ==================== 3D CONTRIBUTION ==================== -->
+
+### 3D Contribution Graph
+
+<p align="center">
+
+<img
+  width="100%"
+  src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-gitblock.svg"
+  alt="3D GitHub Contribution Graph"
+/>
+
+</p>
+
+<br/>
+
+<div align="center">
+
+**One graph. One contribution history. Every commit counts.**
+
+</div>
+
+<br/>
+
+<!-- ==================== BUILDING ==================== -->
 
 <div align="center">
 
@@ -131,6 +199,8 @@ I believe strong systems are built through:
 
 <br/><br/>
 
+<!-- ==================== TECH STACK ==================== -->
+
 <img
   src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&duration=1&pause=99999&color=FFFFFF&background=00000000&center=false&vCenter=true&width=620&height=80&lines=my+Tech+Stack"
   alt="my Tech Stack"
@@ -148,22 +218,22 @@ I believe strong systems are built through:
 <img
   src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,c,cpp,java,js,react,nextjs,tailwind,bootstrap,nodejs,express,php,mongodb,mysql,postgresql,firebase,arduino,raspberrypi,git,github,docker,linux,vscode,postman,figma&perline=7&theme=dark"
   width="380"
-  alt="Tech Stack"
+  alt="Technology Stack"
 />
 
 <br clear="both"/>
 
 <br/>
 
-<!-- GitHub Streak -->
+<!-- ==================== STREAK ==================== -->
 
 <p align="center">
 
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=nishatkh&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border=000000&stroke=000000&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=666666"
-    width="60%"
-    alt="GitHub Streak"
-  />
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=nishatkh&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border=000000&stroke=000000&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=666666"
+  width="60%"
+  alt="GitHub Streak"
+/>
 
 </p>
 
