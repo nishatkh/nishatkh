@@ -127,34 +127,20 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 
 <br/><br/>
 
-<!-- ==================== CONTRIBUTIONS ==================== -->
-
-<div align="center">
-
-<img
-  width="100%"
-  src="https://YOUR-OWN-ACTIVITY-GRAPH/graph?username=nishatkh&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=111111&hide_border=true"
-  alt="Contribution Activity"
-/>
-
-</div>
-
-<br/>
 <!-- ==================== CONTRIBUTION ACTIVITY ==================== -->
 
 <div align="center">
 
 <img
-  width="100%"
-  src="https://YOUR-OWN-ACTIVITY-GRAPH/graph?username=nishatkh&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=111111&hide_border=true"
-  alt="Contribution Activity"
+src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&height=30&lines=CONTRIBUTION+ACTIVITY"
+alt="Contribution Activity"
 />
 
 <br/><br/>
 
 <img
 width="100%"
-src="https://ghchart.rshah.org/ffffff/nishatkh"
+src="https://ghchart.rshah.org/000000/nishatkh"
 alt="Nishat Khan GitHub Contribution Activity"
 />
 
