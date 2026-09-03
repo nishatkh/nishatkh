@@ -141,25 +141,27 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 <br/>
 
 <!-- ==================== ACTIVITY ==================== -->
+<!-- ==================== ACTIVITY ==================== -->
 
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&height=30&lines=CONTRIBUTION+ACTIVITY"
-  alt="Contribution Activity"
+src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&height=30&lines=CONTRIBUTION+ACTIVITY"
+alt="Contribution Activity"
 />
 
-<br/>
+<br/><br/>
 
 <img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&custom_title=&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=111111&title_color=ffffff&area=true&hide_border=true"
-  alt="Contribution Activity"
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=111111&hide_border=true"
+alt="Nishat Khan GitHub Activity Graph"
 />
 
 </div>
 
 <br/><br/>
+
 
 <!-- ==================== 3D GRAPH ==================== -->
 
