@@ -132,7 +132,7 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&height=30&lines=CONTRIBUTION+ACTIVITY"
+src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&height=30&lines=CONTRIBUTION+ACTIVITY"
 alt="Contribution Activity"
 />
 
