@@ -139,9 +139,7 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 </div>
 
 <br/>
-
-<!-- ==================== ACTIVITY ==================== -->
-<!-- ==================== ACTIVITY ==================== -->
+<!-- ==================== CONTRIBUTION ACTIVITY ==================== -->
 
 <div align="center">
 
@@ -154,8 +152,8 @@ alt="Contribution Activity"
 
 <img
 width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=111111&hide_border=true"
-alt="Nishat Khan GitHub Activity Graph"
+src="https://ghchart.rshah.org/ffffff/nishatkh"
+alt="Nishat Khan GitHub Contribution Activity"
 />
 
 </div>
