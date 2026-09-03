@@ -132,8 +132,9 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&height=45&lines=MY+CONTRIBUTIONS"
-  alt="My Contributions"
+  width="100%"
+  src="https://YOUR-OWN-ACTIVITY-GRAPH/graph?username=nishatkh&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=111111&hide_border=true"
+  alt="Contribution Activity"
 />
 
 </div>
