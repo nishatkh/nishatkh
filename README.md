@@ -20,14 +20,14 @@
 
 <a href="https://github.com/nishatkh?tab=followers">
   <img
-    src="https://img.shields.io/github/followers/nishatkh?style=for-the-badge&label=FOLLOWERS&labelColor=000000&color=000000&logo=github&logoColor=ffffff"
+    src="https://img.shields.io/github/followers/nishatkh?style=for-the-badge&label=FOLLOWERS&labelColor=000000&color=000000&logo=github&logoColor=ffffff&cacheSeconds=300"
     alt="GitHub Followers"
   />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/nishatkh?tab=repositories">
   <img
-    src="https://img.shields.io/github/stars/nishatkh?style=for-the-badge&label=STARS&labelColor=000000&color=000000&logo=github&logoColor=ffffff"
+    src="https://img.shields.io/github/stars/nishatkh?style=for-the-badge&label=STARS&labelColor=000000&color=000000&logo=github&logoColor=ffffff&cacheSeconds=300"
     alt="GitHub Stars"
   />
 </a>
@@ -35,7 +35,6 @@
 </div>
 
 <br/>
-
 <!-- ==================== ABOUT ==================== -->
 
 <img
