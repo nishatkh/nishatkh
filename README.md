@@ -193,6 +193,7 @@ alt="Nishat Khan GitHub Contribution Activity"
 <br/><br/>
 
 <!-- ==================== TECH STACK ==================== -->
+<!-- ==================== TECH STACK ==================== -->
 
 <div align="center">
 
@@ -206,32 +207,12 @@ alt="Nishat Khan GitHub Contribution Activity"
 <br/>
 
 <img
-  src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,c,cpp,java,js,react,nextjs,tailwind,bootstrap,nodejs,express,php,mongodb,mysql,postgresql,firebase,arduino,raspberrypi,git,github,docker,linux,vscode,postman,figma,kaggle&perline=7&theme=dark"
+  src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,c,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql,postgresql,firebase,raspberrypi,git,github,docker,linux,vscode,figma,kaggle&perline=7&theme=dark"
   width="100%"
   alt="Technology Stack"
 />
 
 <br/><br/>
-
-<!-- ==================== GITHUB STREAK ==================== -->
-
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=650&height=40&lines=GITHUB+STREAK"
-  alt="GitHub Streak"
-/>
-
-<br/><br/>
-
-<img
-  src="https://github-readme-streak-stats-eight.vercel.app/?user=nishatkh&theme=dark&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"
-  width="65%"
-  alt="GitHub Streak"
-/>
-
-</div>
-
 <!-- ==================== FOOTER ==================== -->
 
 <div align="center">
