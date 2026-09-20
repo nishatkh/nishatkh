@@ -13,12 +13,11 @@
 <br/><br/>
 
 <!-- ==================== FOLLOWERS + STARS ==================== -->
-
 <div align="center">
 
 <a href="https://github.com/nishatkh?tab=followers">
   <img
-    src="https://img.shields.io/github/followers/nishatkh?style=for-the-badge&label=FOLLOWERS&labelColor=000000&color=000000&logo=github&logoColor=ffffff&cacheSeconds=60"
+    src="https://img.shields.io/github/followers/nishatkh?style=for-the-badge&label=FOLLOWERS&labelColor=000000&color=000000&logo=github&logoColor=ffffff"
     alt="GitHub Followers"
   />
 </a>
@@ -27,7 +26,7 @@
 
 <a href="https://github.com/nishatkh?tab=stars">
   <img
-    src="https://img.shields.io/github/stars/nishatkh?style=for-the-badge&label=STARS&labelColor=000000&color=000000&logo=github&logoColor=ffffff&cacheSeconds=60"
+    src="https://img.shields.io/github/stars/nishatkh?style=for-the-badge&label=STARS&labelColor=000000&color=000000&logo=github&logoColor=ffffff"
     alt="GitHub Stars"
   />
 </a>
