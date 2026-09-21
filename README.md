@@ -4,7 +4,7 @@
 
 <img
   width="100%"
-  src="https://i.postimg.cc/JzQHbJHz/Likes-Tumblr.gif"
+  src="https://i.postimg.cc/fbLymPh6/Shitt-idea-for-wallpaper-Photoroom.png"
   alt="Profile Banner"
 />
 
