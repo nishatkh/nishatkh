@@ -4,7 +4,7 @@
 
 <img
   width="100%"
-  src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/Sukuna-7 hosted at ImgBB.gif"
+  src="https://i.postimg.cc/VNMBQ5JY/HAVE-A-NICE-DEATH.gif"
   alt="Profile Banner"
 />
 
