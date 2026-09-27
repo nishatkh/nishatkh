@@ -128,6 +128,7 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 <br/><br/>
 
 <!-- ==================== CONTRIBUTION ACTIVITY ==================== -->
+<!-- ==================== CONTRIBUTION ACTIVITY ==================== -->
 
 <div align="center">
 
@@ -140,14 +141,12 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/ffffff/nishatkh">
-  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/000000/nishatkh">
-  <img width="100%" src="https://ghchart.rshah.org/000000/nishatkh" alt="Nishat Khan GitHub Contribution Activity">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&hide_title=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&bg_color=00000000&color=000000&line=000000&point=000000&area=true&area_color=000000&hide_border=true&hide_title=true">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&bg_color=00000000&color=000000&line=000000&point=000000&area=true&area_color=000000&hide_border=true&hide_title=true" alt="Nishat Khan GitHub Contribution Activity">
 </picture>
 
 </div>
-
-<br/><br/>
 
 <!-- ==================== BUILDING ==================== -->
 
