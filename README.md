@@ -43,10 +43,11 @@
   alt="Profile"
 />
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=FFFFFF&background=00000000&width=500&height=40&lines=WHO+AM+I%3F"
-  alt="Who Am I"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=FFFFFF&background=00000000&width=500&height=40&lines=WHO+AM+I%3F">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=000000&background=00000000&width=500&height=40&lines=WHO+AM+I%3F">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=000000&background=00000000&width=500&height=40&lines=WHO+AM+I%3F" alt="Who Am I">
+</picture>
 
 I am a passionate **AI & IoT Engineer** studying at Daffodil International University, pursuing a degree in **Computing & Information Systems** with a specialization in **AI in IoT**.
 
@@ -66,10 +67,11 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 
 <div align="center">
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=650&height=35&lines=YOU+CAN+FIND+ME+HERE"
-  alt="Social Links"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=650&height=35&lines=YOU+CAN+FIND+ME+HERE">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1&pause=100000&color=000000&background=00000000&center=true&vCenter=true&width=650&height=35&lines=YOU+CAN+FIND+ME+HERE">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1&pause=100000&color=000000&background=00000000&center=true&vCenter=true&width=650&height=35&lines=YOU+CAN+FIND+ME+HERE" alt="Social Links">
+</picture>
 
 <br/><br/>
 
@@ -129,42 +131,19 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 
 <div align="center">
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&height=30&lines=CONTRIBUTION+ACTIVITY"
-alt="Contribution Activity"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&height=30&lines=CONTRIBUTION+ACTIVITY">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1&pause=100000&color=000000&background=00000000&center=true&vCenter=true&width=700&height=30&lines=CONTRIBUTION+ACTIVITY">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1&pause=100000&color=000000&background=00000000&center=true&vCenter=true&width=700&height=30&lines=CONTRIBUTION+ACTIVITY" alt="Contribution Activity">
+</picture>
 
 <br/><br/>
 
-<img
-width="100%"
-src="https://ghchart.rshah.org/000000/nishatkh"
-alt="Nishat Khan GitHub Contribution Activity"
-/>
-
-</div>
-
-<br/><br/>
-
-
-<!-- ==================== 3D GRAPH ==================== -->
-
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&height=40&lines=CONTRIBUTION+GRAPH"
-  alt="3D Contribution Graph"
-/>
-
-<br/>
-
-<img
-  width="100%"
-  src="https://raw.githubusercontent.com/nishatkh/nishatkh/main/profile-3d-contrib/profile-full-current.svg"
-  alt="3D GitHub Contribution Graph"
-/>
-
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/ffffff/nishatkh">
+  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/000000/nishatkh">
+  <img width="100%" src="https://ghchart.rshah.org/000000/nishatkh" alt="Nishat Khan GitHub Contribution Activity">
+</picture>
 
 </div>
 
@@ -174,10 +153,11 @@ alt="Nishat Khan GitHub Contribution Activity"
 
 <div align="center">
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&height=40&lines=BUILDING.+LEARNING.+IMPROVING."
-  alt="Building Learning Improving"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&height=40&lines=BUILDING.+LEARNING.+IMPROVING.">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1&pause=100000&color=000000&background=00000000&center=true&vCenter=true&width=700&height=40&lines=BUILDING.+LEARNING.+IMPROVING.">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1&pause=100000&color=000000&background=00000000&center=true&vCenter=true&width=700&height=40&lines=BUILDING.+LEARNING.+IMPROVING." alt="Building Learning Improving">
+</picture>
 
 <br/><br/>
 
@@ -192,14 +172,14 @@ alt="Nishat Khan GitHub Contribution Activity"
 <br/><br/>
 
 <!-- ==================== TECH STACK ==================== -->
-<!-- ==================== TECH STACK ==================== -->
 
 <div align="center">
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=620&height=45&lines=MY+TECH+STACK"
-  alt="My Tech Stack"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=620&height=45&lines=MY+TECH+STACK">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=000000&background=00000000&center=true&vCenter=true&width=620&height=45&lines=MY+TECH+STACK">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=000000&background=00000000&center=true&vCenter=true&width=620&height=45&lines=MY+TECH+STACK" alt="My Tech Stack">
+</picture>
 
 </div>
 
@@ -216,10 +196,11 @@ alt="Nishat Khan GitHub Contribution Activity"
 
 <div align="center">
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&height=30&lines=KEEP+WORKING.+STAY+STRONG.+KEEP+BUILDING."
-  alt="Footer Message"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1&pause=100000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&height=30&lines=KEEP+WORKING.+STAY+STRONG.+KEEP+BUILDING.">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1&pause=100000&color=000000&background=00000000&center=true&vCenter=true&width=700&height=30&lines=KEEP+WORKING.+STAY+STRONG.+KEEP+BUILDING.">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1&pause=100000&color=000000&background=00000000&center=true&vCenter=true&width=700&height=30&lines=KEEP+WORKING.+STAY+STRONG.+KEEP+BUILDING." alt="Footer Message">
+</picture>
 
 <br/><br/>
 
