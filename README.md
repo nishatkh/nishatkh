@@ -128,7 +128,6 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 <br/><br/>
 
 <!-- ==================== CONTRIBUTION ACTIVITY ==================== -->
-<!-- ==================== CONTRIBUTION ACTIVITY ==================== -->
 
 <div align="center">
 
@@ -140,13 +139,13 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&hide_title=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&bg_color=00000000&color=000000&line=000000&point=000000&area=true&area_color=000000&hide_border=true&hide_title=true">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nishatkh&bg_color=00000000&color=000000&line=000000&point=000000&area=true&area_color=000000&hide_border=true&hide_title=true" alt="Nishat Khan GitHub Contribution Activity">
-</picture>
+<div style="background-color:#000000; padding:10px; display:inline-block;">
+  <img width="100%" src="https://ghchart.rshah.org/ffffff/nishatkh" alt="Nishat Khan GitHub Contribution Activity">
+</div>
 
 </div>
+
+<br/><br/>
 
 <!-- ==================== BUILDING ==================== -->
 
@@ -185,8 +184,8 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
 <br/>
 
 <img
-  src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,c,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql,postgresql,firebase,raspberrypi,git,github,docker,linux,vscode,figma,kaggle&perline=7&theme=dark"
-  width="100%"
+  src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,c,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql,postgresql,firebase,raspberrypi,git,github,docker,linux,vscode,figma,kaggle&perline=12&theme=dark"
+  width="65%"
   alt="Technology Stack"
 />
 
