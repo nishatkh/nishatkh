@@ -179,15 +179,18 @@ My current interests include **TensorFlow**, **PyTorch**, Computer Vision, intel
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=000000&background=00000000&center=true&vCenter=true&width=620&height=45&lines=MY+TECH+STACK" alt="My Tech Stack">
 </picture>
 
-</div>
-
 <br/>
 
-<img
-  src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,c,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql,postgresql,firebase,raspberrypi,git,github,docker,linux,vscode,figma,kaggle&perline=12&theme=dark"
-  width="65%"
-  alt="Technology Stack"
-/>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,c,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql,postgresql,firebase,raspberrypi,git,github,docker,linux,vscode,figma,kaggle&perline=12&theme=dark"
+    width="65%"
+    style="display:block; margin:0 auto;"
+    alt="Technology Stack"
+  />
+</p>
+
+</div>
 
 <br/><br/>
 <!-- ==================== FOOTER ==================== -->
